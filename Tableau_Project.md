@@ -36,9 +36,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
 **Concise Summary:**<br>
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
       ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
-         Schools with high economic disadvantage and small classroom sizes show they put in the effort. <br> 
-         Unfortunately, their efforts haven’t translated to a desirable college attendance percentage.<br>
-         It’s worth further investigating and assisting to address their struggle.<br>
+         👏 Schools with high economic disadvantage and small classroom sizes show they put in the effort. Unfortunately, their efforts haven’t translated to a desirable college attendance percentage. It’s worth further investigating and assisting to address their struggle.<br>
       ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
       ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
       ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br><br>
