@@ -11,9 +11,9 @@ If you are a parent, teacher, policymaker, or simply someone interested in the f
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.
 
 [**The Data:**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
-###-	1861 Row-Record
-###-	133 Column-Attribute
-###-	Time frame: as of August 2017
+###-	1861 Row-Record<br>
+###-	133 Column-Attribute<br>
+###-	Time frame: as of August 2017<br>
 
 [**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance, and funding allocation.
 
