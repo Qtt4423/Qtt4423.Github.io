@@ -5,8 +5,9 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](Tabeau Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/DATA PROJECT.jpg?raw=true"/>
+"Education is the most powerful weapon which you can use to change the world."
+— Nelson Mandela
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
