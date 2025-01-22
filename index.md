@@ -1,10 +1,10 @@
-# Welcome to My Portfolio
+# Welcome to My Data Science Portfolio
 
 ---
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](Tabeau Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
