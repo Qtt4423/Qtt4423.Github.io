@@ -10,15 +10,15 @@ In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding �
 If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br><br>
 
-[**The Data:**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
+**The Data:** [**Link**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
   - 🗂️ 1861 Row-Record<br>
   - 🗂️	133 Column-Attribute<br>
   - 🕰️	Time frame: as of August 2017<br><br>
 
-[**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)<br>
+**The Dashboard:**[**Link**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br><br>
 
-**The Analysis and Commentary:**[Video](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
+**The Analysis and Commentary:**[Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
   - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
