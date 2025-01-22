@@ -17,21 +17,21 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
 
 [**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance, and funding allocation.<br>
 
-**The Analysis and Commentary:**[Video](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
-👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
+**The Analysis and Commentary:**[Video](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br><br>
+👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       1. Class size: 
          R2= 0.189728 -> explain almost 19%<br>
       2. Economic Disadvantage: 
          R2= 0.379253 -> Explain nearly 37%<br>
-      ==-> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.==<br>
+      ==-> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.==<br><br>
  🏆 Which schools do well despite limited resources?<br>
       Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       🥇 Match Charter Public School<br>
-      🥇 Quincy Upper School<br>
+      🥇 Quincy Upper School<br><br>
  👉🏼 Are there meaningful regional differences within MA? <br>
-      4th grade Math (14/53 or ==26%== district is under 50%)<br>
+      4th grade Math (14/53 or ==26%== district is under 50%)<br><br>
 
 **Concise Summary:**<br>
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
@@ -41,7 +41,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
          It’s worth further investigating and assisting to address their struggle.<br>
       ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
       ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
-      ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br>
+      ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br><br>
 
 **Call to Action:**<br>
 🔜 Are you wondering how schools in your state perform? Contact me if you are involved in a project that requires similar analysis.  Let's collaborate.<br>
