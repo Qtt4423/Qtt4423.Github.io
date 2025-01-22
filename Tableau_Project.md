@@ -15,7 +15,8 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
     🗂️	133 Column-Attribute<br>
     🕰️	Time frame: as of August 2017<br>
 
-[**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance, and funding allocation.<br>
+[**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)<br>
+breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
 
 **The Analysis and Commentary:**[Video](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br><br>
 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
