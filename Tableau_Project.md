@@ -11,9 +11,9 @@ If you are a parent, teacher, policymaker, or simply someone interested in the f
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.
 
 [**The Data:**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
-    🗂️  1861 Row-Record<br>
-    🗂️	133 Column-Attribute<br>
-    🕰️	Time frame: as of August 2017<br>
+  - 🗂️ 1861 Row-Record<br>
+  - 🗂️	133 Column-Attribute<br>
+  - 🕰️	Time frame: as of August 2017<br>
 
 [**The Dashboard:**](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatDashBoard/Dashboard1)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
@@ -22,27 +22,27 @@ breaks down key data to reveal where the money goes and how schools measure up i
 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
-      1. Class size: 
+    - 1. Class size: 
          R2= 0.189728 -> explain almost 19%<br>
-      2. Economic Disadvantage: 
+    - 2. Economic Disadvantage: 
          R2= 0.379253 -> Explain nearly 37%<br>
       ==-> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.==<br><br>
  🏆 Which schools do well despite limited resources?<br>
-      Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
-      🥇 Match Charter Public School<br>
-      🥇 Quincy Upper School<br><br>
+    - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
+      -🥇 Match Charter Public School<br>
+      -🥇 Quincy Upper School<br><br>
  👉🏼 Are there meaningful regional differences within MA? <br>
       4th grade Math (14/53 or ==26%== district is under 50%)<br><br>
 
 **Concise Summary:**<br>
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
-      ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
+    - ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
          👏 Schools with high economic disadvantage and small classroom sizes show they put in the effort. Unfortunately, their efforts haven’t translated to a desirable college attendance percentage. It’s worth further investigating and assisting to address their struggle.<br>
-      ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
-      ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
-      ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br><br>
+    - ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
+    - ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
+    - ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br><br>
 
 **Call to Action:**<br>
-🔜 Are you wondering how schools in your state perform? Contact me if you are involved in a project that requires similar analysis.  Let's collaborate.<br>
-🔜 Drop your comments, thoughts, and questions for interesting further analysis ideas<br>
+  - 🔜 Are you wondering how schools in your state perform? Contact me if you are involved in a project that requires similar analysis.  Let's collaborate.<br>
+  - 🔜 Drop your comments, thoughts, and questions for interesting further analysis ideas<br>
 
