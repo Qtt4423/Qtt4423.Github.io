@@ -1,7 +1,7 @@
 <img src="images/DATA PROJECT.jpg?raw=true"/>
 
 ## From ABCs to PhDs: Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
-
+---
 **Background:**<br>
 Unless you are a born genius, your parents spend all the resources and time to have their children accepted into the best school in the area.  My family is no exception.  Education is one of the most significant investments in our society. 
 In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding 🏫 impacts the educational experiences of almost 1 million students across 1,861 schools. However, Are these resources producing the desired results?
@@ -21,9 +21,9 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
-      1. Class size: <br>
+      1. Class size: 
          R2= 0.189728 -> explain almost 19%<br>
-      2. Economic Disadvantage %<br>
+      2. Economic Disadvantage: 
          R2= 0.379253 -> Explain nearly 37%<br>
       ==-> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.==<br>
  🏆 Which schools do well despite limited resources?<br>
