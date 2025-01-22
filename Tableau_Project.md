@@ -22,17 +22,17 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
-  -- Class size: 
+  --  **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
-  -- Economic Disadvantage: 
+  --  **Economic Disadvantage**: 
          R2= 0.379253 -> Explain nearly 37%<br>
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br><br>
    - 🏆 Which schools do well despite limited resources?<br>
   -- Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
-      -🥇 Match Charter Public School<br>
+      - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br><br>
    - 👉🏼 Are there meaningful regional differences within MA? <br>
-      4th grade Math (14/53 or ==26%== district is under 50%)<br><br>
+      4th grade Math (14/53 or **26%** district is under 50%)<br><br>
 
 **Concise Summary:**<br>
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
