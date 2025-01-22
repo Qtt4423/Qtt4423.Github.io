@@ -28,7 +28,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
          R2= 0.379253 -> Explain nearly 37%<br>
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br><br>
    - 🏆 Which schools do well despite limited resources?<br>
-  -- Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
+  --  Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br><br>
    - 👉🏼 Are there meaningful regional differences within MA? <br>
