@@ -22,9 +22,9 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br><br>
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
-  -  _ **Class size**: 
+  --  _ **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
-  -  _ **Economic Disadvantage**: 
+  --  _ **Economic Disadvantage**: 
          R2= 0.379253 -> Explain nearly 37%<br>
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br><br>
    - 🏆 Which schools do well despite limited resources?<br>
