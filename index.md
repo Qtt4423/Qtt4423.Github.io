@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project]([Qtt4423.Github.io/Tabeau Project](https://github.com/Qtt4423/Qtt4423.Github.io/blob/master/Tabeau%20Project))
+#### [Internal Blog Post Project](/Tabeau%20Project)
 <img src="images/DATA PROJECT.jpg?raw=true"/>
 "Education is the most powerful weapon which you can use to change the world."
 — Nelson Mandela
