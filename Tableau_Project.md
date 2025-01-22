@@ -2,7 +2,7 @@
 
 ## From ABCs to PhDs: Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
 
-**Background:**
+**Background:**<br>
 Unless you are a born genius, your parents spend all the resources and time to have their children accepted into the best school in the area.  My family is no exception.  Education is one of the most significant investments in our society. 
 In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding 🏫 impacts the educational experiences of almost 1 million students across 1,861 schools. However, Are these resources producing the desired results?
 
