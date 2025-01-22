@@ -1,7 +1,6 @@
 <img src="images/DATA PROJECT.jpg?raw=true"/>
 
-## From ABCs to PhDs: 
-Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
+## From ABCs to PhDs: Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
 
 **Background:**
 Unless you are a born genius, your parents spend all the resources and time to have their children accepted into the best school in the area.  My family is no exception.  Education is one of the most significant investments in our society. 
