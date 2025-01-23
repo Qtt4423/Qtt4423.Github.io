@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal-mistakes-jekyll
 title: Quy Tran # your name (or website title) here
 logo: "/images/Quy.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
