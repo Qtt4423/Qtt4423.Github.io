@@ -53,6 +53,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br>
 
 **Call to Action:**
-  - 🔜 Are you wondering how schools in your state perform? Contact me if you are involved in a project that requires similar analysis.  Let's collaborate.<br>
+  - 🔜 Are you wondering how schools in your state perform? Contact me<br>
+  - 🔜 If you are involved in a project that requires similar analysis.  Let's collaborate.<br>
   - 🔜 Drop your comments, thoughts, and questions for interesting further analysis ideas<br>
 
