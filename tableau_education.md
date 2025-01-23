@@ -16,7 +16,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
   - 🕰️	Time frame: as of August 2017<br><br>
 
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
-breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br><br>
+breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.
 
 ---
 **The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
@@ -41,7 +41,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
    - 👉🏼 Are there meaningful regional differences within MA? <br>
       4th grade Math (14/53 or **26%** district is under 50%)<br>
         <img src="images/4th Grade Math.png?raw=true"/><br><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)  <br><br>
+ [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath) 
  
 ---
 **Concise Summary:**
