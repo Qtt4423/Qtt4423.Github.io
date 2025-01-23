@@ -20,6 +20,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
 
 ---
 **The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
+
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
     - Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
@@ -28,7 +29,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
     
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
-    <img src="images/CollegeStudent.JPG?raw=true"/>
+    <img src="images/Score.jpg?raw=true"/>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       - **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
@@ -47,7 +48,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
       - 🥇 Quincy Upper School<br>
 
    - 👉🏼 Are there meaningful regional differences within MA? <br>
-   <img src="images/Elementary.jpg?raw=true"/>
+   <img src="images/ILoveMath.jpg?raw=true"/>
       4th grade Math (14/53 or **26%** district is under 50%)<br>
         <img src="images/4th Grade Math.png?raw=true"/><br><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath) 
