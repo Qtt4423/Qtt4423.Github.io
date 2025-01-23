@@ -11,8 +11,6 @@ In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding �
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br>
 <br>
 
-<img src="images/Floral border.jpg?raw=true"/>
-
 **The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
   - 🗂️ 1861 Row-Record<br>
   - 🗂️	133 Column-Attribute<br>
@@ -59,4 +57,5 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - 🔜 Are you wondering how schools in your state perform? Contact me. ✍️ <br>
   - 🔜 If you are involved in a project that requires similar analysis.  Let's collaborate.<br>
   - 🔜 Drop your comments💬, thoughts💡, and questions⁉️ for interesting further analysis ideas<br>
-
+  
+<img src="images/FloralBorder.jpg?raw=true"/>
