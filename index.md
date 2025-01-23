@@ -15,7 +15,7 @@
   <img src="images/iFoodPoster.png?raw=true"/>
 From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
 
-  [iFood Website]([/tableau_education](https://www.ifood.com/)
+  [iFood Website] (https://www.ifood.com.br/)
 
 ---
 
