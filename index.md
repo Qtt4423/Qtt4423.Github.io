@@ -13,7 +13,7 @@
 
 ### [ExcelProject](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
   <img src="images/iFoodPoster.png?raw=true"/>
-From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy (br)
+From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
 
   [iFood Website]([/tableau_education](https://www.ifood.com.br/))
 
