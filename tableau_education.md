@@ -26,7 +26,11 @@ breaks down key data to reveal where the money goes and how schools measure up i
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       - **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
-      - **Economic Disadvantage**: 
+       <img src="images/College Attendance vs Class Size.png?raw=true"/><br>
+ [Link to InteractiveGraph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsClassSize_17375967565970/CollegeAttendancevsClassSize)<br>
+      - **Economic Disadvantage**:
+        <img src="images/College Attendance vs Econ Disadvtg.png?raw=true"/><br>
+ [Link to InteractiveGraph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsEconDisadvtg/CollegeAttendancevsEconDisadvtg)<br>    
          R2= 0.379253 -> Explain nearly 37%<br>
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br><br>
    - 🏆 Which schools do well despite limited resources?<br>
@@ -35,6 +39,8 @@ breaks down key data to reveal where the money goes and how schools measure up i
       - 🥇 Quincy Upper School<br><br>
    - 👉🏼 Are there meaningful regional differences within MA? <br>
       4th grade Math (14/53 or **26%** district is under 50%)<br><br>
+        <img src="images/4th Grade Math.png?raw=true"/><br>
+ [Link to InteractiveGraph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)<br><br>    
 
 **Concise Summary:**<br>
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
