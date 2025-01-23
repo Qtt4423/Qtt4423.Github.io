@@ -5,7 +5,6 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Education Project](/tableau_education)
-
 <img src="images/DATA PROJECT.jpg?raw=true"/>
 "Education is the most powerful weapon which you can use to change the world."
 — Nelson Mandela
