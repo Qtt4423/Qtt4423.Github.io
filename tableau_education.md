@@ -15,7 +15,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
   - 🗂️	133 Column-Attribute<br>
   - 🕰️	Time frame: as of August 2017<br><br>
 
-**The Dashboard:** [Linked Tableau WorkBook](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
+**The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br><br>
 ---
 **The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)
