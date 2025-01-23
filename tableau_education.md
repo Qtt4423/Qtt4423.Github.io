@@ -26,7 +26,6 @@ breaks down key data to reveal where the money goes and how schools measure up i
     - The highest % of the bottom 10 High School graduates is 19%. 
  <img src="images/Bottom 10 HS.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
-    <img src="images/HighSchool.jpg?raw=true"/>
     
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
     <img src="images/CollegeStudent.JPG?raw=true"/>
