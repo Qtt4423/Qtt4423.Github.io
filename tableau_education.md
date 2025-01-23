@@ -39,6 +39,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsEconDisadvtg/CollegeAttendancevsEconDisadvtg)    
          R2= 0.379253 -> Explain nearly 37%<br>
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>
+ 
  <img src="images/College Graduation.JPG?raw=true"/><br>      
  
    - 🏆 Which schools do well despite limited resources?<br>
