@@ -33,7 +33,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [ExcelProject: From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy]([http://example.com/](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=eL%2Bbtoe8TbmjiUHa8yXctg%3D%3D))
+- [ExcelProject: From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
