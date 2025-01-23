@@ -50,7 +50,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
   - ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br>
 
-**Call to Action:**
+**Call to Action:**<br>
   - 🔜 Are you wondering how schools in your state perform? Contact me if you are involved in a project that requires similar analysis.  Let's collaborate.<br>
   - 🔜 Drop your comments, thoughts, and questions for interesting further analysis ideas<br>
 
