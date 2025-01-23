@@ -15,8 +15,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
   - 🗂️	133 Column-Attribute<br>
   - 🕰️	Time frame: as of August 2017<br><br>
 
-**The Dashboard:**[Link](/file/))<br>
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+**The Dashboard:**[Link](/file/Mass Stat DashBoard.twb)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br><br>
 
 **The Analysis and Commentary:**[Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
