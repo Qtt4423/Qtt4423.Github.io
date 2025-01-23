@@ -57,4 +57,4 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - 🔜 If you are involved in a project that requires similar analysis.  Let's collaborate.<br>
   - 🔜 Drop your comments💬, thoughts💡, and questions⁉️ for interesting further analysis ideas<br>
   
-<img src="images/FloralBorder.jpg?raw=true"/>
+<img src="images/FloralBorder.JPG?raw=true"/>
