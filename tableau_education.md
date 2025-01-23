@@ -20,7 +20,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
 
 ---
 **The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
-  - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
+  - 👉🏼 Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
  <img src="images/Bottom 10 HS.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
     <img src="images/HighSchool.jpg?raw=true"/>
