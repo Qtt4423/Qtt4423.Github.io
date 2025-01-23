@@ -27,6 +27,12 @@ breaks down key data to reveal where the money goes and how schools measure up i
     - The highest % of the bottom 10 High School graduates is 19%. 
  <img src="images/Bottom 10 HS.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
+
+  - 👉🏼 Are there meaningful regional differences within MA? <br>
+   <img src="images/ILoveMath.jpg?raw=true"/>
+      4th grade Math (14/53 or **26%** district is under 50%)<br>
+        <img src="images/4th Grade Math.png?raw=true"/><br><br>
+ [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
     
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
     <img src="images/Score.jpg?raw=true"/>
@@ -46,12 +52,6 @@ breaks down key data to reveal where the money goes and how schools measure up i
       - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br>
-
-   - 👉🏼 Are there meaningful regional differences within MA? <br>
-   <img src="images/ILoveMath.jpg?raw=true"/>
-      4th grade Math (14/53 or **26%** district is under 50%)<br>
-        <img src="images/4th Grade Math.png?raw=true"/><br><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath) 
  
 ---
 **Concise Summary:**
