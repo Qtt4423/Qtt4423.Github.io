@@ -19,8 +19,9 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br><br>
 
 **The Analysis and Commentary:**[Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
-  - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
-  [Link to Tableau] (https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)
+  - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<be>
+  [<img src="images/Bottom 10 HS.png?raw=true"/>] (https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)
+ 
   <br><br>
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
