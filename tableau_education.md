@@ -10,7 +10,7 @@ In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding �
 If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br>
 <br>
-**The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)
+**The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
   - 🗂️ 1861 Row-Record<br>
   - 🗂️	133 Column-Attribute<br>
   - 🕰️	Time frame: as of August 2017<br><br>
@@ -18,7 +18,7 @@ This dashboard breaks down key data to reveal where the money goes and how schoo
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
 <br>
-**The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)
+**The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
   - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
  <img src="images/Bottom 10 HS.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
@@ -39,9 +39,9 @@ breaks down key data to reveal where the money goes and how schools measure up i
       - 🥇 Quincy Upper School<br>
    - 👉🏼 Are there meaningful regional differences within MA? <br>
       4th grade Math (14/53 or **26%** district is under 50%)<br>
-        <img src="images/4th Grade Math.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)  <br>
-<br>
+        <img src="images/4th Grade Math.png?raw=true"/><br><br>
+ [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)  <br><br>
+
 **Concise Summary:**
     Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
   - ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
