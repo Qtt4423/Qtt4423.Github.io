@@ -38,11 +38,10 @@ breaks down key data to reveal where the money goes and how schools measure up i
         <img src="images/College Attendance vs Econ Disadvtg.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsEconDisadvtg/CollegeAttendancevsEconDisadvtg)    
          R2= 0.379253 -> Explain nearly 37%<br>
-       ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>
- 
- <img src="images/College Graduation.JPG?raw=true"/><br>      
+       ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>    
  
    - 🏆 Which schools do well despite limited resources?<br>
+   <img src="images/College Graduation.JPG?raw=true"/><br>  
       - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br>
