@@ -23,6 +23,9 @@ breaks down key data to reveal where the money goes and how schools measure up i
   - 👉🏼 Bottom 10 HS Grad %: Springfield Public Day High School leads the chart<br>
  <img src="images/Bottom 10 HS.png?raw=true"/><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
+
+    <img src="images/HighSchool.jpg?raw=true"/>
+    
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       - **Class size**: 
@@ -39,6 +42,9 @@ breaks down key data to reveal where the money goes and how schools measure up i
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br>
    - 👉🏼 Are there meaningful regional differences within MA? <br>
+
+   <img src="images/Elementary.jpg?raw=true"/>
+
       4th grade Math (14/53 or **26%** district is under 50%)<br>
         <img src="images/4th Grade Math.png?raw=true"/><br><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath) 
