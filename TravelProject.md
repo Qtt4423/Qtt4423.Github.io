@@ -4,15 +4,12 @@
  
 ---
 **Background:**<br>
-
   Does the thought of a vacation 🛫 make your heart 💓 sing like mine? I often daydream about moments from my past vacations with sandy beaches 🐬 and mountain 🚞 retreats. If you’ve ever traveled through vacation packages, you will know the trick is finding the right one for your trip🧳.  But have you ever wondered how travel companies create the perfect vacation packages tailored just for you? I recently embarked on a project to explore this question and uncover how data can help a travel company refine its offerings👏.
 
 **Why THIS Project?:**<br>
-
   The motivation behind this project was both personal and professional. As someone who loves traveling👙, I’ve always been curious about how companies know which vacation packages to promote. The travel industry is increasingly competitive, and I wanted to understand how data can enhance marketing strategies✍️. This project was unique because it aimed to optimize a company’s marketing budget and create tailored experiences for potential travelers🛄.
 
 **What Readers Will Gain:**<br>
-
 - 👋In this article, you will learn how data analytics can refine marketing strategies to shape the experience of 5,725 children and 4,888 adult travelers. We’ll uncover key customer insights, discover what influences purchasing decisions, and explore surprising findings that challenge conventional wisdom.🫰🏻<br>
 - 👉Key Takeaways:
   - Pitch duration, designation, and marital status significantly impact whether a customer purchases a vacation package.
@@ -22,6 +19,7 @@
 **The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)
   - 🗂️ nearly 4,900 Rows-Records
   - 🗂️	20  Columns-Attributes
+  - **Software used:** Python, R-studio, Excel, Tableau<br><br>
     
     **Customer Attribute:**<br>
       -  **Nominal Categorical Variables:** Gender, Marital Status, Occupation, Own Car, Passport
@@ -36,11 +34,11 @@
 <img src="images/TravelDataOverView.png?raw=true"/>
 
 ---
-**The Analysis and Commentary:**<br>
+**The Analysis and Commentary:**<br><br>
 **1. Visuals and Insights**
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/DashBoard_17376769592380/Dashboard1?publish=yes)<br>
 I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.<br>
-**Software used:** Python, R-studio, Excel, Tableau<br><br>
+
 <img src="images/TravelDashBoard.jpg?raw=true"/><br>
 
   - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.<br>  
@@ -52,11 +50,12 @@ I began by exploring the dataset to understand the distribution of variables and
 
 **Chi-Squares Analysis** – [R studio Code file](/Trip-and-Travel-Project/1-DVsProdTaken/Travel%20Project%20-%20ProdTaken%20DV.R)
 <img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
-- Result:
+- Result:<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
 
 **Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](/Trip-and-Travel-Project/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
+
 **Summary**:
  - Marketing Information:
   - Was pitched Basic and Deluxe packages with executives’ designation
@@ -70,29 +69,30 @@ I began by exploring the dataset to understand the distribution of variables and
 
 **3. Characteristics of Customers Who Took a Product**<br>
 Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R), [Manova File](/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+
 <img src="images/TravelYesProdTakenManovaTable.png?raw=true"/><br>
 
 **Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
 Filter: Under 10 trips<br>
 Continuous Variables: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
-Characters of Customers Take a Product <br> 
- - **Marketing Information:**
+Characters of Customers Take a Product
+ **Marketing Information:**
   - Self-inquiry type of contact
   - City Tier 1 or 3
   - Either Manager preferably, or AVP or Executive Designation also performs well.
   - Preferred Property Star of 4 or 5
   - Pitch Satisfaction Score of 3
- - **Customer Profile:**
+ **Customer Profile:**
   - Married or unmarried status
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0) <br>
-- **Marketing Information:**
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0)
+ **Marketing Information:**
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
  - Although 5 and 6 followed yield slightly higher results, not much.
-- **Customer Profile:**
+ **Customer Profile:**
  - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
@@ -100,23 +100,30 @@ Characters of Customers Take a Product <br>
 **5. Predicting Sale Index ** [GitHub Directory File](/Trip-and-Travel-Project/4-TravelFocusGroup/SaleIndex) <br>
 Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
+
 <img src="images/TravelSaleIndexPivot1.png?raw=true"/><br>
-  - Small Business, Basic Product for freelancers
+  - Small Business, Basic Product for freelancers<br>
+
 <img src="images/TravelSaleIndexPivot2.png?raw=true"/><br>
   - Small Business, Basic Product for freelancers
   - Pitch Satisfaction Score of 3 with a pitch duration shorter than 18 with a Preferred Property Star of 3.
   - Interestingly, except for the Pitch Satisfaction Score of 3, all other Pitch Satisfaction Scores have a Preferred Property Star of 5.<br>
+
 <img src="images/TravelSaleIndexCityTiers.png?raw=true"/><br>
   - Single who travels with an average of 3 children with a Monthly Income Range under 200.<br><br>
+
 **Predicting Sale Index - Machine Learning**
 <img src="images/TravelSaleIndexMachineLearning.png?raw=true"/><br>
+
 **Focus on customers who:**
  - Monthly income group above 20thousand
  - Travel with children
  - At least 30 years of age<br>
 
 <img src="images/Indian Population Age Breakdown.png?raw=true"/><br>
+
 <img src="images/Indian Population Map.png?raw=true"/><br>
+
  - Tier 1: 100,000 and more population, Metropolitan center, densely populated, most developed, and higher living expense. Mumbai 12M population.
  - Tier 2: 50,000 to 99,999 population, Urban center, fastest growing tier.
  - Tier 3: 20,000 to 49,999 population, Semi-urban center, the underdeveloped and still evolving.<br>
@@ -136,11 +143,13 @@ Insights led me to believe that a well-targeted marketing approach, informed by 
  - Customer Role: Executives show higher interest.
  - Pitch Length: Presentations over 30 seconds are more effective.
  - Travel Frequency: Customers averaging 3.4 trips are more inclined to buy.<br>
+ 
 **✅Customer Demographics:**<br>
  - Age: Over 30 years old.
  - Marital Status: Both singles and married individuals.
  - Income: Monthly earnings above 35,000.
  - Passport Ownership: Having a passport increases purchase likelihood.<br>
+
 **✅Target Segments:**<br>
  - Location: Residents of Tier 1 and Tier 3 cities.
  - Job Titles: Managers, Assistant Vice Presidents, and Executives.
