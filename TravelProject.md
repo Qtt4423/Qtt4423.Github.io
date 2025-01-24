@@ -97,7 +97,7 @@ Characters of Customers Take a Product <br>
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-**5. Predicting Sale Index ** [GitHub directory folder](/Trip-and-Travel-Project/4-TravelFocusGroup/SaleIndex) <br>
+**5. Predicting Sale Index ** [GitHub Directory File](/Trip-and-Travel-Project/4-TravelFocusGroup/SaleIndex) <br>
 Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
 <img src="images/TravelSaleIndexPivot1.png?raw=true"/><br>
