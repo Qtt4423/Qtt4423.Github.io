@@ -35,15 +35,16 @@
 
 ---
 **The Analysis and Commentary:**<br><br>
+
 **1. Visuals and Insights**
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/DashBoard_17376769592380/Dashboard1?publish=yes)<br>
 I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.<br>
 
 <img src="images/TravelDashBoard.jpg?raw=true"/><br>
 
-  - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.<br>  
-  - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.<br>
-  - Basic Product attracts the most extensive customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. <br><br>
+  - Cities in tier 1 have the largest [product taken](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProdTaken-IncomebyCityTier?publish=yes), with the lowest average income and the highest [number of trips](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/NumberofTrips-AgebyCityTier?publish=yes), followed by tier 3, which has the highest average monthly income.<br>  
+  - [King Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-Income-Product/IncomevsProductPitchedbyCityTier?publish=yes) has the smallest, least frequent, older visitors who lead in average monthly income and likelier to live in tier 1 cities, with preferred property star of 3.47.<br>
+  - [Basic Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyProdTakenPropStar/ProductTypebyProdTakenPropStar?publish=yes) has largest, most frequent, youngest [visitors] (https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProductTypebyNo_TripsPersonChildren?publish=yes) who lead in product taken count (552), with preferred property star of 3.58. <br><br>
 
 **2. Predict Whether a Prod Taken**<br>
 <img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
