@@ -58,11 +58,13 @@ I began by exploring the dataset to understand the distribution of variables and
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
 
 **Summary**:
- - Marketing Information:
+
+**Marketing Information:**
   - Was pitched Basic and Deluxe packages with executives’ designation
   - Receive pitch duration above 30s.
-  - Take an average of 3.4 trips
- - Customer Profile:
+  - Take an average of 3.4 trips<br>
+
+**Customer Profile:**
   - Have an average Age of above 30
   - Either single or married couples
   - Have monthly Income above 35000
@@ -76,23 +78,27 @@ Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project
 **Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
 Filter: Under 10 trips<br>
 Continuous Variables: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
-Characters of Customers Take a Product
+Characters of Customers Take a Product<br>
+
  **Marketing Information:**
   - Self-inquiry type of contact
   - City Tier 1 or 3
   - Either Manager preferably, or AVP or Executive Designation also performs well.
   - Preferred Property Star of 4 or 5
-  - Pitch Satisfaction Score of 3
+  - Pitch Satisfaction Score of 3<br>
+  
  **Customer Profile:**
   - Married or unmarried status
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
 **4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
+
  **Marketing Information:**
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
  - Although 5 and 6 followed yield slightly higher results, not much.<br>
+ 
  **Customer Profile:**
  - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
@@ -140,19 +146,20 @@ Tier 1 cities, with 63% of the customer base, have the highest average sale inde
 ---
 **Concise Summary:**
 Insights led me to believe that a well-targeted marketing approach, informed by data analysis, can significantly enhance sales and customer satisfaction:<br>
-**✅Marketing Factors:**<br>
+
+**✅Marketing Factors:**
  - Product Type: Basic and Deluxe packages are more appealing.
  - Customer Role: Executives show higher interest.
  - Pitch Length: Presentations over 30 seconds are more effective.
  - Travel Frequency: Customers averaging 3.4 trips are more inclined to buy.<br>
  
-**✅Customer Demographics:**<br>
+**✅Customer Demographics:**
  - Age: Over 30 years old.
  - Marital Status: Both singles and married individuals.
  - Income: Monthly earnings above 35,000.
  - Passport Ownership: Having a passport increases purchase likelihood.<br>
-
-**✅Target Segments:**<br>
+ 
+**✅Target Segments:**
  - Location: Residents of Tier 1 and Tier 3 cities.
  - Job Titles: Managers, Assistant Vice Presidents, and Executives.
  - Property Preferences: Those favoring 4 or 5-star accommodations.
