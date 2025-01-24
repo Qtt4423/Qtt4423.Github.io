@@ -88,7 +88,7 @@ Characters of Customers Take a Product
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/3-DVsTripVisitorProdNotTaken-0)
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)
  **Marketing Information:**
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
@@ -98,7 +98,7 @@ Characters of Customers Take a Product
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-**5. Predicting Sale Index ** [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/4-TravelFocusGroup/SaleIndex) <br>
+**5. Predicting Sale Index ** [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
 Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
 
@@ -125,6 +125,7 @@ Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 
 <img src="images/Indian Population Map.png?raw=true"/><br>
 
+** Citi Tiers Analysis:**
  - Tier 1: 100,000 and more population, Metropolitan center, densely populated, most developed, and higher living expense. Mumbai 12M population.
  - Tier 2: 50,000 to 99,999 population, Urban center, fastest growing tier.
  - Tier 3: 20,000 to 49,999 population, Semi-urban center, the underdeveloped and still evolving.<br>
