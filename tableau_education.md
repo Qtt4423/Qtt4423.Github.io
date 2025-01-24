@@ -7,7 +7,7 @@ Unless you are a born genius, your parents spend all the resources and time to h
 In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding 🏫 impacts the educational experiences of almost 1 million students across 1,861 schools. However, Are these resources producing the desired results?
 
 **Why Should You Pay Attention:**
-- If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
+If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
 This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br><br>
 
 **The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
