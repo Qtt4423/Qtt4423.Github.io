@@ -38,11 +38,13 @@
 ---
 **The Analysis and Commentary:**<br>
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/DashBoard_17376769592380/Dashboard1?publish=yes)<br>
-I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.
-Software used: Python, R-studio, Excel, Tableau
-
-breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
-<img src="images/TravelDashBoard.jpg?raw=true"/>
+I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.<br>
+**Software used:** Python, R-studio, Excel, Tableau<br>
+**Visuals and Insights**
+<img src="images/TravelDashBoard.jpg?raw=true"/><br>
+  - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.  
+  - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.
+  - Basic Product attracts the largest customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. 
 
 
   - 👉🏼 High School Graduation Performance?<br>
