@@ -55,54 +55,102 @@ I began by exploring the dataset to understand the distribution of variables and
 - Result:
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
 
+**Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](/Trip-and-Travel-Project/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+<img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
+**Summary**:
+ - Marketing Information:
+  - Was pitched Basic and Deluxe packages with executives’ designation
+  - Receive pitch duration above 30s.
+  - Take an average of 3.4 trips
+ - Customer Profile:
+  - Have an average Age of above 30
+  - Either single or married couples
+  - Have monthly Income above 35000
+  - Have a passport, preferably<br><br>
 
+**3. Characteristics of Customers Who Took a Product**<br>
+Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R), [Manova File](/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+<img src="images/TravelYesProdTakenManovaTable.png?raw=true"/><br>
 
+**Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
+Filter: Under 10 trips<br>
+Continuous Variables: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
+Characters of Customers Take a Product <br> 
+ - **Marketing Information:**
+  - Self-inquiry type of contact
+  - City Tier 1 or 3
+  - Either Manager preferably, or AVP or Executive Designation also performs well.
+  - Preferred Property Star of 4 or 5
+  - Pitch Satisfaction Score of 3
+ - **Customer Profile:**
+  - Married or unmarried status
+  - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
+  - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0) <br>
+- **Marketing Information:**
+ - Are pitched with either Standard, Deluxe, or Super Deluxe products.
+ - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
+ - Although 5 and 6 followed yield slightly higher results, not much.
+- **Customer Profile:**
+ - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
+ - Travel with children. The higher the number of children, the higher the number of trips and visitors.
+ - Have an average monthly income of 20-30 thousand.<br><br>
 
-  - 👉🏼 High School Graduation Performance?<br>
-    <img src="images/HighSchool.jpg?raw=true"/>
-    - Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
-    - The highest % of the bottom 10 High School graduates is 19%. 
- <img src="images/Bottom 10 HS.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0) <br>
+Create Sale Index = Number of Trips * Person Visiting + Prod Taken
+**Highest Sale Index Pivot Table:**<br>
+<img src="images/TravelSaleIndexPivot1.png?raw=true"/><br>
+  - Small Business, Basic Product for freelancers
+<img src="images/TravelSaleIndexPivot2.png?raw=true"/><br>
+  - Small Business, Basic Product for freelancers
+  - Pitch Satisfaction Score of 3 with a pitch duration shorter than 18 with a Preferred Property Star of 3.
+  - Interestingly, except for the Pitch Satisfaction Score of 3, all other Pitch Satisfaction Scores have a Preferred Property Star of 5.<br>
+<img src="images/TravelSaleIndexCityTiers.png?raw=true"/><br>
+  - Single who travels with an average of 3 children with a Monthly Income Range under 200.<br><br>
+**Predicting Sale Index - Machine Learning**
+<img src="images/TravelSaleIndexMachineLearning.png?raw=true"/><br>
+**Focus on customers who:**
+ - Monthly income group above 20thousand
+ - Travel with children
+ - At least 30 years of age<br>
 
-  - 👉🏼 Are there meaningful regional differences within MA? <br>
-   <img src="images/ILoveMath.jpg?raw=true"/>
-      4th grade Math (14/53 or 26% district is under 50%)<br>
-        <img src="images/4th Grade Math.png?raw=true"/><br><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
-    
-  - 👉🏼 What contributes to differences in schools' outcomes?<br>
-    <img src="images/Score.jpg?raw=true"/>
-      Both are significant since the P value is close to 0. Number of Observations: 340<br>
-      - **Class size**: 
-         R2= 0.189728 -> explain almost 19%<br>
-       <img src="images/College Attendance vs Class Size.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsClassSize_17375967565970/CollegeAttendancevsClassSize)<br><br>
-      - **Economic Disadvantage**:
-        <img src="images/College Attendance vs Econ Disadvtg.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsEconDisadvtg/CollegeAttendancevsEconDisadvtg)    
-         R2= 0.379253 -> Explain nearly 37%<br>
-       ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>    
- 
-   - 🏆 Which schools do well despite limited resources?<br>
-   <img src="images/College Graduation.JPG?raw=true"/><br>  
-      - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
-      - 🥇 Match Charter Public School<br>
-      - 🥇 Quincy Upper School<br>
- 
+<img src="images/Indian Population Age Breakdown.png?raw=true"/><br>
+<img src="images/Indian Population Map.png?raw=true"/><br>
+ - Tier 1: 100,000 and more population, Metropolitan center, densely populated, most developed, and higher living expense. Mumbai 12M population.
+ - Tier 2: 50,000 to 99,999 population, Urban center, fastest growing tier.
+ - Tier 3: 20,000 to 49,999 population, Semi-urban center, the underdeveloped and still evolving.<br>
+
+<img src="images/TravelSaleIndexCityTiersIncome.png"/><br>
+Tier 1 cities, with 63% of the customer base, have the highest average sale index even though they have lower average monthly incomes than tier 3 cities.<br>
+
+<img src="images/TravelCityTiersChildrenPassportCar.png"/><br>
+•	The more children visit, the more often they travel in all tiers (1 to 3).
+•	The majority of customers do not have a passport and own a car. --> This insight suggests that they can benefit from local destinations.<br><br>
+
 ---
 **Concise Summary:**
-    Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
-  - ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
-         👏 Schools with high economic disadvantage and small classroom sizes show they put in the effort. Unfortunately, their efforts haven’t translated to a desirable college attendance percentage. It’s worth further investigating and assisting to address their struggle.<br>
-  - ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
-  - ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
-  - ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br>
+Insights led me to believe that a well-targeted marketing approach, informed by data analysis, can significantly enhance sales and customer satisfaction:<br>
+**✅Marketing Factors:**<br>
+ - Product Type: Basic and Deluxe packages are more appealing.
+ - Customer Role: Executives show higher interest.
+ - Pitch Length: Presentations over 30 seconds are more effective.
+ - Travel Frequency: Customers averaging 3.4 trips are more inclined to buy.<br>
+**✅Customer Demographics:**<br>
+ - Age: Over 30 years old.
+ - Marital Status: Both singles and married individuals.
+ - Income: Monthly earnings above 35,000.
+ - Passport Ownership: Having a passport increases purchase likelihood.<br>
+**✅Target Segments:**<br>
+ - Location: Residents of Tier 1 and Tier 3 cities.
+ - Job Titles: Managers, Assistant Vice Presidents, and Executives.
+ - Property Preferences: Those favoring 4 or 5-star accommodations.
+ - Age Groups: Individuals aged 37-47 and 54-56.
+ - Family Travelers: Customers traveling with multiple children.<br>
 
 **Call to Action:**
-  - 🔜 Are you wondering how schools in your state perform? Contact me. ✍️ <br>
-  - 🔜 If you are involved in a project that requires similar analysis.  Let's collaborate.<br>
-  - 🔜 Drop your comments💬, thoughts💡, and questions⁉️ for interesting further analysis ideas<br>
+  - 🔜 If you found this article insightful, let’s connect on LinkedIn! ✍️ <br>
+  - 🔜 I’d love to hear your thoughts or answer any questions about the project..<br>
+  - 🔜 If you or someone you know is looking to hire a data analyst, let’s talk!<br>
   
 <img src="images/FloralBorder.JPG?raw=true"/>
