@@ -33,12 +33,8 @@
       -  **Ordinal Categorical Variables:** City Tier, Preferred Property Star, ProdTaken
       -  **Discrete Quantitative Variable:** Number of Followups, Number of Trips, Pitch Satisfaction Score
       -  **Continuous Quantitative Variable:** Duration of Pitch<br><br>
-
-
-
-
-
-
+<img src="images/TravelDataOverView.png?raw=true"/>
+      
 **The Dashboard:** [Linked Tableau Dashboard](https://www.kaggle.com/susant4learning/holiday-package-purchase-prediction)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
 
