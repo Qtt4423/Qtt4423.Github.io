@@ -4,10 +4,10 @@
  
 ---
 **Background:**<br>
-- Does the thought of a vacation make your heart sing like mine? I often daydream about moments from my past vacations with sandy beaches and mountain retreats. If you’ve ever traveled through vacation packages, you will know the trick is finding the right one for your trip.  But have you ever wondered how travel companies create the perfect vacation packages tailored just for you? I recently embarked on a project to explore this question and uncover how data can help a travel company refine its offerings.
+  Does the thought of a vacation make your heart sing like mine? I often daydream about moments from my past vacations with sandy beaches and mountain retreats. If you’ve ever traveled through vacation packages, you will know the trick is finding the right one for your trip.  But have you ever wondered how travel companies create the perfect vacation packages tailored just for you? I recently embarked on a project to explore this question and uncover how data can help a travel company refine its offerings.
 
 **Why THIS Project?:**<br>
-- The motivation behind this project was both personal and professional. As someone who loves traveling, I’ve always been curious about how companies know which vacation packages to promote. The travel industry is increasingly competitive, and I wanted to understand how data can enhance marketing strategies. This project was unique because it aimed to optimize a company’s marketing budget and create tailored experiences for potential travelers.
+  The motivation behind this project was both personal and professional. As someone who loves traveling, I’ve always been curious about how companies know which vacation packages to promote. The travel industry is increasingly competitive, and I wanted to understand how data can enhance marketing strategies. This project was unique because it aimed to optimize a company’s marketing budget and create tailored experiences for potential travelers.
 
 **What Readers Will Gain:**
 - In this article, you will learn how data analytics can refine marketing strategies to shape the experience of 5,725 children and 4,888 adult travelers. We’ll uncover key customer insights, discover what influences purchasing decisions, and explore surprising findings that challenge conventional wisdom.<br><br>
