@@ -25,6 +25,7 @@
    -  **Nominal Categorical Variables:** Gender, Marital Status, Occupation, Own Car, Passport
    -  **Discrete Quantitative Variable:** Customer ID, Age, Number of Children Visiting, Number of Person Visiting
    -  **Continuous Quantitative Variable:** Monthly Income<br>
+   
 **Product Attribute:**<br>
    -  **Nominal Categorical Variables:** Designation, Product Pitched, Type of Contact
    -  **Ordinal Categorical Variables:** City Tier, Preferred Property Star, ProdTaken
@@ -63,6 +64,7 @@ I began by exploring the dataset to understand the distribution of variables and
   - Was pitched Basic and Deluxe packages with executives’ designation
   - Receive pitch duration above 30s.
   - Take an average of 3.4 trips<br>
+  
 **Customer Profile:**<br>
   - Have an average Age of above 30
   - Either single or married couples
@@ -85,6 +87,7 @@ Characters of Customers Take a Product<br>
   - Either Manager preferably, or AVP or Executive Designation also performs well.
   - Preferred Property Star of 4 or 5
   - Pitch Satisfaction Score of 3<br>
+  
  **Customer Profile:**<br>
   - Married or unmarried status
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
