@@ -32,14 +32,18 @@
       -  **Nominal Categorical Variables:** Designation, Product Pitched, Type of Contact
       -  **Ordinal Categorical Variables:** City Tier, Preferred Property Star, ProdTaken
       -  **Discrete Quantitative Variable:** Number of Followups, Number of Trips, Pitch Satisfaction Score
-      -  **Continuous Quantitative Variable:** Duration of Pitch<br><br>
+      -  **Continuous Quantitative Variable:** Duration of Pitch<br>
 <img src="images/TravelDataOverView.png?raw=true"/>
-      
-**The Dashboard:** [Linked Tableau Dashboard](https://www.kaggle.com/susant4learning/holiday-package-purchase-prediction)<br>
-breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
 
 ---
-**The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
+**The Analysis and Commentary:**<br>
+**The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/DashBoard_17376769592380/Dashboard1?publish=yes)<br>
+I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.
+Software used: Python, R-studio, Excel, Tableau
+
+breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
+<img src="images/TravelDashBoard.jpg?raw=true"/>
+
 
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
