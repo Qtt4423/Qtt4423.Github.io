@@ -47,7 +47,7 @@ I began by exploring the dataset to understand the distribution of variables and
   - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.<br>
   - Basic Product attracts the most extensive customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. <br><br>
 
-**2. Predict Whether a Prod Taken**
+**2. Predict Whether a Prod Taken**<br>
 <img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
 
 **Chi-Squares Analysis** – [R studio Code file](/Trip-and-Travel-Project/1-DVsProdTaken/Travel%20Project%20-%20ProdTaken%20DV.R)
@@ -97,7 +97,7 @@ Characters of Customers Take a Product <br>
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0) <br>
+**5. Predicting Sale Index ** [GitHub directory folder](/Trip-and-Travel-Project/4-TravelFocusGroup/SaleIndex) <br>
 Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
 <img src="images/TravelSaleIndexPivot1.png?raw=true"/><br>
