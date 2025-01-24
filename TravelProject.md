@@ -37,15 +37,26 @@
 
 ---
 **The Analysis and Commentary:**<br>
+**1. Visuals and Insights**
 **The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/DashBoard_17376769592380/Dashboard1?publish=yes)<br>
 I began by exploring the dataset to understand the distribution of variables and identify any missing values. Visualizations were created to observe trends and correlations between variables. Statistical analyses, including chi-square tests and stepwise regression, were conducted to determine significant predictors of product uptake.<br>
 **Software used:** Python, R-studio, Excel, Tableau<br>
-**Visuals and Insights**
 <img src="images/TravelDashBoard.jpg?raw=true"/><br>
 
-  - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.  
-  - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.
-  - Basic Product attracts the largest customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. 
+  - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.<br>  
+  - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.<br>
+  - Basic Product attracts the most extensive customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. <br><br>
+
+**2. Predict Whether a Prod Taken**
+<img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
+
+**Chi-Squares Analysis** – [R studio Code file](/Trip-and-Travel-Project/1-DVsProdTaken/Travel%20Project%20-%20ProdTaken%20DV.R)
+<img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
+- Result:
+<img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
+
+
+
 
 
   - 👉🏼 High School Graduation Performance?<br>
