@@ -48,7 +48,7 @@ I began by exploring the dataset to understand the distribution of variables and
 **2. Predict Whether a Prod Taken**<br>
 <img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
 
-**Chi-Squares Analysis** – [R studio Code file](/Trip-and-Travel-Project/1-DVsProdTaken/Travel%20Project%20-%20ProdTaken%20DV.R)
+**Chi-Squares Analysis** – [R studio Code file](/Trip-and-Travel-Project/1-DVsProdTaken/TravelProject-ProdTakenDV.R)
 <img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
 - Result:<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
