@@ -42,6 +42,7 @@ I began by exploring the dataset to understand the distribution of variables and
 **Software used:** Python, R-studio, Excel, Tableau<br>
 **Visuals and Insights**
 <img src="images/TravelDashBoard.jpg?raw=true"/><br>
+
   - Cities in tier 1 have the largest product taken, with the lowest average income and the highest number of trips, followed by tier 3, which has the highest average monthly income.  
   - King Product customers have the highest average monthly income and are likelier to live in tier 3 cities.
   - Basic Product attracts the largest customer base, especially among children, and welcomes the most visitors. Its youthful clientele and the highest average Property Star rating distinguishes itself. 
