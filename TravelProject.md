@@ -10,9 +10,7 @@
   The motivation behind this project was both personal and professional. As someone who loves traveling👙, I’ve always been curious about how companies know which vacation packages to promote. The travel industry is increasingly competitive, and I wanted to understand how data can enhance marketing strategies✍️. This project was unique because it aimed to optimize a company’s marketing budget and create tailored experiences for potential travelers🛄.
 
 **What Readers Will Gain:**<br>
-
-- 👋In this article, you will learn how data analytics can refine marketing strategies to shape the experience of 5,725 children and 4,888 adult travelers. We’ll uncover key customer insights, discover what influences purchasing decisions, and explore surprising findings that challenge conventional wisdom.🫰🏻<br><br>
-
+- 👋In this article, you will learn how data analytics can refine marketing strategies to shape the experience of 5,725 children and 4,888 adult travelers. We’ll uncover key customer insights, discover what influences purchasing decisions, and explore surprising findings that challenge conventional wisdom.🫰🏻<br>
 - 👉Key Takeaways:
   - Pitch duration, designation, and marital status significantly impact whether a customer purchases a vacation package.
   - Children are a strong driving force for Sale.
