@@ -88,11 +88,11 @@ Characters of Customers Take a Product
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
  **Marketing Information:**
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
- - Although 5 and 6 followed yield slightly higher results, not much.
+ - Although 5 and 6 followed yield slightly higher results, not much.<br>
  **Customer Profile:**
  - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
