@@ -19,9 +19,9 @@
 **The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)
   - 🗂️ nearly 4,900 Rows-Records
   - 🗂️	20  Columns-Attributes
-  - **Software used:** Python, R-studio, Excel, Tableau<br><br>
+  - **Software used:** Python, R-studio, Excel, Tableau<br>
     
-    **Customer Attribute:**<br>
+    **Customer Attribute:**
       -  **Nominal Categorical Variables:** Gender, Marital Status, Occupation, Own Car, Passport
       -  **Discrete Quantitative Variable:** Customer ID, Age, Number of Children Visiting, Number of Person Visiting
       -  **Continuous Quantitative Variable:** Monthly Income<br>
@@ -31,6 +31,7 @@
       -  **Ordinal Categorical Variables:** City Tier, Preferred Property Star, ProdTaken
       -  **Discrete Quantitative Variable:** Number of Followups, Number of Trips, Pitch Satisfaction Score
       -  **Continuous Quantitative Variable:** Duration of Pitch<br>
+      
 <img src="images/TravelDataOverView.png?raw=true"/>
 
 ---
