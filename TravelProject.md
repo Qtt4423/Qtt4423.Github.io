@@ -54,7 +54,7 @@ I began by exploring the dataset to understand the distribution of variables and
 - Result:<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
 
-**Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+**Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
 
 **Summary**:
@@ -69,11 +69,11 @@ I began by exploring the dataset to understand the distribution of variables and
   - Have a passport, preferably<br><br>
 
 **3. Characteristics of Customers Who Took a Product**<br>
-Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R), [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R), [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
 
 <img src="images/TravelYesProdTakenManovaTable.png?raw=true"/><br>
 
-**Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
+**Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
 Filter: Under 10 trips<br>
 Continuous Variables: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
 Characters of Customers Take a Product
@@ -88,7 +88,7 @@ Characters of Customers Take a Product
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/3-DVsTripVisitorProdNotTaken-0)
+**4. Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/3-DVsTripVisitorProdNotTaken-0)
  **Marketing Information:**
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
@@ -98,7 +98,7 @@ Characters of Customers Take a Product
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-**5. Predicting Sale Index ** [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/4-TravelFocusGroup/SaleIndex) <br>
+**5. Predicting Sale Index ** [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/4-TravelFocusGroup/SaleIndex) <br>
 Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
 
