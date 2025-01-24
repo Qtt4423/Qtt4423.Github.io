@@ -11,6 +11,13 @@
 
 ---
 
+#### [Travel Project](/TravelProject)
+<img src="images/TravelProject.jpg?raw=true"/>
+"Airplane travel is nature's way of making you look like your passport photo." 
+— Al Gore
+
+---
+
 ### [ExcelProject](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
   <img src="images/iFoodPoster.png?raw=true"/>
 From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
