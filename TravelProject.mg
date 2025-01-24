@@ -1,21 +1,40 @@
-<img src="images/DATA PROJECT.jpg?raw=true"/>
+<img src="images/TravelProject.jpg?raw=true"/>
 
-## From ABCs to PhDs: Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
+## **The Algorithm of Escape: A Statistical Dive from Passport to Crafting Perfect Vacations Packages**
+ 
 ---
 **Background:**<br>
-Unless you are a born genius, your parents spend all the resources and time to have their children accepted into the best school in the area.  My family is no exception.  Education is one of the most significant investments in our society. 
-In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding 🏫 impacts the educational experiences of almost 1 million students across 1,861 schools. However, Are these resources producing the desired results?
+- Does the thought of a vacation make your heart sing like mine? I often daydream about moments from my past vacations with sandy beaches and mountain retreats. If you’ve ever traveled through vacation packages, you will know the trick is finding the right one for your trip.  But have you ever wondered how travel companies create the perfect vacation packages tailored just for you? I recently embarked on a project to explore this question and uncover how data can help a travel company refine its offerings.
 
-**Why Should You Pay Attention:**
-- If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
-This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br><br>
+**Why THIS Project?:**<br>
+- The motivation behind this project was both personal and professional. As someone who loves traveling, I’ve always been curious about how companies know which vacation packages to promote. The travel industry is increasingly competitive, and I wanted to understand how data can enhance marketing strategies. This project was unique because it aimed to optimize a company’s marketing budget and create tailored experiences for potential travelers.
+
+**What Readers Will Gain:**
+- In this article, you will learn how data analytics can refine marketing strategies to shape the experience of 5,725 children and 4,888 adult travelers. We’ll uncover key customer insights, discover what influences purchasing decisions, and explore surprising findings that challenge conventional wisdom.<br><br>
+- Key Takeaways:
+  - Pitch duration, designation, and marital status significantly impact whether a customer purchases a vacation package.
+  - Children are a strong driving force for Sale.
+  - Investing more in single and Tier 2 customer groups with local products can yield better marketing results.
 
 **The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
-  - 🗂️ 1861 Row-Record<br>
-  - 🗂️	133 Column-Attribute<br>
-  - 🕰️	Time frame: as of August 2017<br><br>
+  - 🗂️ nearly 4,900 Rows-Records<br>
+  - 🗂️	20  Columns-Attributes<br>
+    -  Customer Attribute:
+      -  Nominal Categorical Variables: Gender, Marital Status, Occupation, Own Car, Passport
+      -  Discrete Quantitative Variable: Customer ID, Age, Number of Children Visiting, Number of Person Visiting
+      -  Continuous Quantitative Variable: Monthly Income
+    -  Product Attribute:
+      -  Nominal Categorical Variables: Designation, Product Pitched, Type of Contact
+      -  Ordinal Categorical Variables: City Tier, Preferred Property Star, ProdTaken
+      -  Discrete Quantitative Variable: Number of Followups, Number of Trips, Pitch Satisfaction Score
+      -  Continuous Quantitative Variable: Duration of Pitch<br><br>
 
-**The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
+
+
+
+
+
+**The Dashboard:** [Linked Tableau Dashboard](https://www.kaggle.com/susant4learning/holiday-package-purchase-prediction)<br>
 breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
 
 ---
