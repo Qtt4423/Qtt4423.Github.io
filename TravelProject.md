@@ -99,6 +99,7 @@ Characters of Customers Take a Product<br>
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
  - Although 5 and 6 followed yield slightly higher results, not much.<br>
+ 
  **Customer Profile:**<br>
  - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
