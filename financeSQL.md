@@ -34,7 +34,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Macedonia**: 🚩 59% of projects have a 3.4% interest rate.
     - **Kenya**: Leads in guaranteed loans (1,248).
     - **Afghanistan**: Dominates in grants (12,302).
-    - **India**: Tops in credits (69,805).<br><br>
+    - **India**: Tops in credits (69,805).<br>
     <br>
 ## The Data: [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
 
