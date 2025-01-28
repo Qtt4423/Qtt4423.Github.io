@@ -7,13 +7,14 @@
 
 Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.<br>
 
-#**Why Should You Pay Attention:**<br>
+## Why Should You Pay Attention:
+
 Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
     -🗺️ Which regions borrow the most?
     -📉 How do interest rates vary globally?
     -📊 What’s the connection between repayment and service charges?<br><br>
 
-#**Key Findings at a Glance 🚀**<br>
+# Key Findings at a Glance 🚀
 
   - **Top Borrowers by loan amount:**
     - **Organization**: The Ministry of Finance
@@ -35,18 +36,21 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Afghanistan**: Dominates in grants (12,302).
     - **India**: Tops in credits (69,805).<br><br>
     <br>
-#**The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
+## The Data: [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
+
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
-#**Tools & Techniques 🛠️:**
+## Tools & Techniques 🛠️:**
   -  SQL: Extracted and aggregated the dataset with precision.
   -  Tableau & Excel: Visualized trends to make findings accessible and actionable.<br>
   
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
-#**The Analysis and Commentary:**<br>
-**Over View of the data**<br>
+#The Analysis and Commentary:
+
+#Over View of the data
+
 1.  Return all of the table<br>
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
@@ -59,7 +63,7 @@ Let's start uncovering the hidden stories behind global loans to understand how 
   - Row:  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> 
   - Column:    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br><br>
 
-**DUE to IDA (US$) Attribute Analysis:**<br>
+# DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:**
   At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
