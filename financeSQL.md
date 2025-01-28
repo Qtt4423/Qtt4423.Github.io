@@ -47,9 +47,9 @@ The International Development Association (IDA) is crucial in aiding the world�
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
-#The Analysis and Commentary:
+## The Analysis and Commentary:
 
-#Over View of the data
+### Over View of the data
 
 1.  Return all of the table<br>
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
@@ -63,7 +63,7 @@ Let's start uncovering the hidden stories behind global loans to understand how 
   - Row:  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> 
   - Column:    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br><br>
 
-# DUE to IDA (US$) Attribute Analysis:
+### DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:**
   At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
