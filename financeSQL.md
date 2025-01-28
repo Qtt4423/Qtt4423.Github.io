@@ -1,25 +1,68 @@
-<img src="images/DATA PROJECT.jpg?raw=true"/>
+<img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
 
-## From ABCs to PhDs: Navigating the Maze to the Ideal School 🏫 for Future Geniuses 
+## UNVEILING ECONOMIC OBLIGATIONS LANDSCAPES: A COMPREHENSIVE ANALYSIS OF GLOBAL DEBT DYNAMICS 
 ---
-**Background:**<br>
-Unless you are a born genius, your parents spend all the resources and time to have their children accepted into the best school in the area.  My family is no exception.  Education is one of the most significant investments in our society. 
-In Massachusetts, 🏫 schools invest an impressive $306 billion. This funding 🏫 impacts the educational experiences of almost 1 million students across 1,861 schools. However, Are these resources producing the desired results?
+**Why This Project?**<br>
+Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.
 
 **Why Should You Pay Attention:**<br>
-If you are a parent, teacher, policymaker, or simply someone interested in the future, it is essential to grasp how schools in your state perform. 
-This dashboard breaks down key data to reveal where the money goes and how schools measure 📐 up in areas like academic performance and funding allocation.<br><br>
+Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
+    🗺️ Which regions borrow the most?
+    📉 How do interest rates vary globally?
+    📊 What’s the connection between repayment and service charges?<br><br>
 
-**The Data:** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
-  - 🗂️ 1861 Row-Record<br>
-  - 🗂️	133 Column-Attribute<br>
-  - 🕰️	Time frame: as of August 2017<br><br>
+**Key Findings at a Glance 🚀**<br>
+  - **Top Borrowers by loan amount:**
+    - **Organization**: The Ministry of Finance
+    - **Region**: South Asia, Africa
+    - **Country**: India, Bangladesh, Pakistan, Vietnam, Nigeria<br>
+ 
+  - **Interest Rates:**<br>
+    - **St. Kitts and Nevis**: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).
+    - **Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).<br>
+    
+  - **Service Charge Rate Correlations:**<br>
+    - Higher repayments correlate with higher service charge rates.
+    - Lower borrower obligations tend to have lower rates.<br>
+    
+  - **Project-Specific Insights:**<br>
+    - **St. Kitts and Nevis**: Only 1 project with a service charge rate >1.
+    - **Macedonia**: 🚩 59% of projects have a 3.4% interest rate.
+    - **Kenya**: Leads in guaranteed loans (1,248).
+    - **Afghanistan**: Dominates in grants (12,302).
+    - **India**: Tops in credits (69,805).<br><br>
 
-**The Dashboard:** [Linked Tableau Dashboard](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
-breaks down key data to reveal where the money goes and how schools measure up in areas like academic performance and funding allocation.<br>
+**The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
+The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
+
+**Tools & Techniques 🛠️:** <br>
+  -  SQL: Extracted and aggregated the dataset with precision.
+  -  Tableau & Excel: Visualized trends to make findings accessible and actionable.<br>
+  
+Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
-**The Analysis and Commentary:** [Video Link](https://www.loom.com/share/ff138cb1308142208182dc7022075286)<br>
+**The Analysis and Commentary:**<br>
+**Over View of the data**<br>
+1.  Return all of the table<br>
+<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
+<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
+
+2.  **Return the first 5 rows of the table, but only the borrower & due to IDA column**<br>
+<img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
+<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
+
+3.  How many total transactions? <br>
+  - Row:  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> 
+  - Column:    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br><br>
+
+**DUE to IDA (US$) Attribute Analysis:**<br>
+  **🏆 The Biggest Borrowers:**
+  At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
+
+
+
+
 
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
