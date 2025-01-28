@@ -70,9 +70,11 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 4.	**The top 15 highest organization borrowers**<br>
 <th><img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br><th>
 <th><img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br><th>
->🥇The Ministry of Finance has the highest total loan amount.
->
-    <br>
+        >🥇The Ministry of Finance has the highest total loan amount.<br>
+
+
+
+    
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
     - Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
