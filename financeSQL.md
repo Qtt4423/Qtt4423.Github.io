@@ -7,25 +7,26 @@ Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and nat
 
 **Why Should You Pay Attention:**<br>
 Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
-    🗺️ Which regions borrow the most?
-    📉 How do interest rates vary globally?
-    📊 What’s the connection between repayment and service charges?<br><br>
+    -🗺️ Which regions borrow the most?
+    -📉 How do interest rates vary globally?
+    -📊 What’s the connection between repayment and service charges?<br><br>
 
 **Key Findings at a Glance 🚀**<br>
+
   - **Top Borrowers by loan amount:**
     - **Organization**: The Ministry of Finance
     - **Region**: South Asia, Africa
     - **Country**: India, Bangladesh, Pakistan, Vietnam, Nigeria<br>
  
-  - **Interest Rates:**<br>
+  - **Interest Rates:**
     - **St. Kitts and Nevis**: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).
     - **Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).<br>
     
-  - **Service Charge Rate Correlations:**<br>
+  - **Service Charge Rate Correlations:**
     - Higher repayments correlate with higher service charge rates.
     - Lower borrower obligations tend to have lower rates.<br>
     
-  - **Project-Specific Insights:**<br>
+  - **Project-Specific Insights:**
     - **St. Kitts and Nevis**: Only 1 project with a service charge rate >1.
     - **Macedonia**: 🚩 59% of projects have a 3.4% interest rate.
     - **Kenya**: Leads in guaranteed loans (1,248).
@@ -35,7 +36,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 **The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
-**Tools & Techniques 🛠️:** <br>
+**Tools & Techniques 🛠️:**
   -  SQL: Extracted and aggregated the dataset with precision.
   -  Tableau & Excel: Visualized trends to make findings accessible and actionable.<br>
   
