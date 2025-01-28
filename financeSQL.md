@@ -5,7 +5,7 @@
 **Why This Project?**<br>
 Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.
 
-**Why Should You Pay Attention:**<br>
+#**Why Should You Pay Attention:**<br>
 Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
     -🗺️ Which regions borrow the most?
     -📉 How do interest rates vary globally?
@@ -33,18 +33,18 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Afghanistan**: Dominates in grants (12,302).
     - **India**: Tops in credits (69,805).<br><br>
 
-**The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
+#**The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
-**Tools & Techniques 🛠️:**
+#**Tools & Techniques 🛠️:**
   -  SQL: Extracted and aggregated the dataset with precision.
   -  Tableau & Excel: Visualized trends to make findings accessible and actionable.<br>
   
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
-**The Analysis and Commentary:**<br>
--    **Over View of the data**<br>
+#**The Analysis and Commentary:**<br>
+**Over View of the data**<br>
 1.  Return all of the table<br>
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
