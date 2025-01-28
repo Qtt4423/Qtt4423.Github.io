@@ -60,8 +60,8 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 <th><img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br><th>
 
 3.  **Total number of transactions**<br>
-  - **Row:**  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> <br>
-  - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
+      - **Row:**  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> <br>
+      - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
 
 ### DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:**
