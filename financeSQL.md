@@ -50,8 +50,8 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 ## The Analysis and Commentary:
 
 ### Over View of the data
- <tr style="font-weight: bold;">
-<th>1.  Return all of the table<th>
+
+<tr style="font-weight: bold;">1.  Return all of the table<th>
 <th><img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/><th>
 <th><img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br><th>
 
