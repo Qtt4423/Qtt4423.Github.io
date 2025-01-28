@@ -26,8 +26,8 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).<br>
     
   - **Service Charge Rate Correlations:**
-    - ==Higher repayments== correlate with higher service charge rates.
-    - ==Lower borrower obligations== tend to have lower rates.<br>
+    - <mark>Higher repayments</mark> correlate with higher service charge rates.
+    - <mark>Lower borrower obligations</mark> tend to have lower rates.<br>
     
   - **Project-Specific Insights:**
     - **St. Kitts and Nevis**: Only 1 project with a service charge rate >1.
