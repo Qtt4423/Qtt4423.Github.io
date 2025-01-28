@@ -51,17 +51,17 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 
 ### Over View of the data
 
-**1.  Return all of the table<br>**
-<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
+<th>**1.  Return all of the table<br>**<th>
+<th><img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/><th>
+<th><img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br><th>
 
-**2.  Return the first 5 rows of the table, but only the borrower & due to IDA column**<br>
-<img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/><br>
-<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
+<th>**2.  Return the first 5 rows of the table, but only the borrower & due to IDA column**<br><th>
+<th><img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/><br><th>
+<th><img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br><th>
 
-**3.  How many total transactions? **<br>
-  - **Row:**  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> <br>
-  - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br><br>
+<th>**3.  How many total transactions? **<br><th>
+<th>  - **Row:**  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> <br><th>
+<th>  - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br><br><th>
 
 ### DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:**
