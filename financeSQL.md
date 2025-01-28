@@ -41,8 +41,8 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
 ## Tools & Techniques 🛠️:**
-  -  SQL: Extracted and aggregated the dataset with precision.
-  -  Tableau & Excel: Visualized trends to make findings accessible and actionable.<br>
+  -  <mark>SQL</mark>: Extracted and aggregated the dataset with precision.
+  -  <mark>Tableau & Excel</mark>: Visualized trends to make findings accessible and actionable.<br>
   
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
@@ -67,9 +67,10 @@ Let's start uncovering the hidden stories behind global loans to understand how 
   **🏆 The Biggest Borrowers:** <br>
 At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
-
-
-
+4.	**The top 15 highest organization borrowers**<br>
+<th><img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br><th>
+<th><img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br><th>
+>🥇The Ministry of Finance has the highest total loan amount.
 
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
