@@ -26,8 +26,8 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).<br>
     
   - **Service Charge Rate Correlations:**
-    - Higher repayments correlate with higher service charge rates.
-    - Lower borrower obligations tend to have lower rates.<br>
+    - ==Higher repayments== correlate with higher service charge rates.
+    - ==Lower borrower obligations== tend to have lower rates.<br>
     
   - **Project-Specific Insights:**
     - **St. Kitts and Nevis**: Only 1 project with a service charge rate >1.
@@ -64,8 +64,8 @@ Let's start uncovering the hidden stories behind global loans to understand how 
       - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
 
 ### DUE to IDA (US$) Attribute Analysis:
-  **🏆 The Biggest Borrowers:**
-  At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
+  **🏆 The Biggest Borrowers:** <br>
+At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
 
 
