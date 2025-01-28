@@ -3,7 +3,7 @@
 ## UNVEILING ECONOMIC OBLIGATIONS LANDSCAPES: A COMPREHENSIVE ANALYSIS OF GLOBAL DEBT DYNAMICS 
 ---
 **Why This Project?**<br>
-Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.
+Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.<br>
 
 #**Why Should You Pay Attention:**<br>
 Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
@@ -11,7 +11,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     -📉 How do interest rates vary globally?
     -📊 What’s the connection between repayment and service charges?<br><br>
 
-**Key Findings at a Glance 🚀**<br>
+#**Key Findings at a Glance 🚀**<br>
 
   - **Top Borrowers by loan amount:**
     - **Organization**: The Ministry of Finance
@@ -32,7 +32,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Kenya**: Leads in guaranteed loans (1,248).
     - **Afghanistan**: Dominates in grants (12,302).
     - **India**: Tops in credits (69,805).<br><br>
-
+    <br>
 #**The Data:** [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
