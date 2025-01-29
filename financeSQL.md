@@ -150,12 +150,13 @@ Which was the most recent to pay?<br>
   <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
 </ul>
 
-#####	Who has the most loans?**   
+#####	**Who has the most loans?**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Total Transactions by Country**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
 <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
   
 >**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10ResultHighestNoLoan.png" alt = "10ResultHighestNoLoan.png" width ="450"><br>
 
 ###  **The Service Charge Rate Puzzle** 💡:
