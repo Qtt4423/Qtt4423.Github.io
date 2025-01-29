@@ -84,9 +84,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
       
 #####	Total number of transactions<br>
-      <strong>Row:<strong/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
                   <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/>
-      <strong>Column:<strong/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Column:**<br>
                   <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
    
 ### **Payment Timeframe Analysis**
