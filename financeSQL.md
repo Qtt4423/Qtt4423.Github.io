@@ -104,7 +104,7 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 <img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
-> #### 🥇The Ministry of Finance has the highest total loan amount.
+>  🥇The Ministry of Finance has the highest total loan amount.
 
 5.	**Abbreviate one of the column names so it's easier to write**<br>
 <img src="images/FinanceSQL/5AbbreviateColumn.png?raw=true"/><br><br>
@@ -113,7 +113,7 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 <img src="images/FinanceSQL/6CODE15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Result15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Graph15highestRegionborrower.png?raw=true"/><br><br>
-> #### 🥇South Asia has the highest total loan amount, followed by Africa.
+>  🥇South Asia has the highest total loan amount, followed by Africa.
 
 7.	**What is the maximum, minimum, and average amount owed to the IDA?**<br>
 <img src="images/FinanceSQL/7CODEOwedAvg_Max_Min.png?raw=true"/><br><br>
@@ -123,13 +123,12 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
   <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
   <li>Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
 </ul>
-  <img src="images/FinanceSQL/8TotalLoan.png?raw=true"/><br>
+  <img src="images/FinanceSQL/8TotalLoan.png?raw=true"/><br><br>
   
-9.	**Loan amount to the IDA by Country:<br>
-  🌟 Top Loan Recipients:
-
+9.	**Loan amount to the IDA by Country**:<br>
   <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
   <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png?raw=true"/><br>
+🌟 Top Loan Recipients:<br>
 <ul>
   <li>🇮🇳 India</li>
   <li>🇧🇩 Bangladesh</li>
@@ -141,10 +140,97 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
   <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
-</ul>
+</ul><br><br>
+
+10.	**Who has the most loans?**  Total Transactions by Country<br>
+  <img src="images/FinanceSQL/10CODEHighestNoLoan.png?raw=true"/><br>
+  <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br>
+India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br>
+  <img src="images/FinanceSQL/10ResultHighestNoLoan.png?raw=true"/><br><br>
+
+###💡 The Interest Rate Puzzle:
+One country stands out for its steep rates:
+<ul>
+  <li>St. Kitts and Nevis:
+    <ul>
+      <li>📈 Interest rate: 3.68% (highest globally).</li>
+      <li>🏦 Loans: 165, with $32M disbursed and $40M repaid.</li>
+      <li>💡 Insight: Despite the high rate, repayment amounts exceed disbursed funds—a testament to strategic financial management.</li>
+    </ul>
+  </li>
+  <li>•	Africa:
+    <ul>
+      <li>🌍 Lowest average interest rate: 0.09% across 2,891 loans.</li>
+      <li>🤔 Observation: Low rates help balance the repayment burden for developing nations.</li>
+    </ul>
+  </li>
+</ul><br><br>
+
+11.	**Service Charge**<br>
+  <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
+  <img src="images/FinanceSQL/11ServiceCharge_CountryResult.png?raw=true"/><br>
+<ul>
+  <li>St. Kitts and Nevis has the highest Interest rate of 3.68.</li>
+  <li>Africa has the lower Interest rate of 0.09.</li>
+</ul><br><br>
+
+12.  Service Charge Rate by Country
+     **What are the countries with 0 interest rate:**<br>
+  <img src="images/FinanceSQL/12Countries0IntRate.png?raw=true"/><br><br>
+    **Top 10 countries with the lowest interest rate:**<br>
+  <img src="images/FinanceSQL/13Countries_IntRateASC.png?raw=true"/><br>
+    **Top 10 countries with the highest interest rate:**<br>
+  <img src="images/FinanceSQL/14CountriesIntRateDESC.png?raw=true"/><br>
+Knowing that most countries have an average interest rate under 2.0, I filter the graph to show better variation.<br>
+  <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
+
+###Payment Timeframe Analysis
+13.  Which was the most recent to pay?<br>
+  <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
+  <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
+
+###CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
+**Geospatial Data Analysis**<br>
+
+14.	**How many loans do St. Kitts and Nevis have?**
+  <img src="images/FinanceSQL/15StKittsNoLoan.png?raw=true"/><br><br>
+  
+15.	**How many loans does Africa have?**
+  <img src="images/FinanceSQL/16AfricaNoLoan.png?raw=true"/><br><br>
+  
+16.	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
+  <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
+  <img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png?raw=true"/><br>
+
+>St. Kitts and Nevis‘s disbursed loan amount is almost $32 million, and $40 million is repaying the loan amount.
+  
+  <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
+
+>🔄 Correlations That Speak Volumes:
+>
+><ul>
+>  <li>Repayment Amount ↔️ Service Charge Rate:
+>    <ul>
+>      <li>A positive correlation suggests that higher repayments often incur higher service charge rates.</li>
+>      <li>This highlights the importance of negotiating better repayment terms to manage financial burdens.</li>
+>    </ul>
+>  </li>
+>  <li>Borrower Obligation ↔️ Service Charge Rate:
+>    <ul>
+>      <li>A negative correlation reveals that larger borrower obligations tend to result in lower service charge rates.</li>
+>      <li>Could this be a hidden incentive for bigger development projects?</li>
+>    </ul>
+>  </li>
+></ul>
+>
+
+  <img src="images/FinanceSQL/17StKittsServChrgGreater1_RepaidIDABar.png?raw=true"/><br>
+  <img src="images/FinanceSQL/17StKittsServChrgGreater1_BorrowerObligationBar.png?raw=true"/><br>
 
 
-    
+
+<br><br><br>
+  
   - 👉🏼 High School Graduation Performance?<br>
     <img src="images/HighSchool.jpg?raw=true"/>
     - Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
