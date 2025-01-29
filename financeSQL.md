@@ -195,6 +195,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 ###  CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
 
 **Geospatial Data Analysis**🎯 Project Insights That Matter:<br>
+####  St. Kitts and Nevis
 <ul>
   <li>St. Kitts and Nevis:<br>
   The AG Dev Support Project is the sole project with a service charge rate >1, spotlighting a unique financial model.</li>
@@ -248,6 +249,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
   Only the AG Dev Support Project has a service charge rate greater than 1 in St. Kitts and Nevis.<br>
 
+####  Macedonia and North Macedonia
 ><ul>
 >  <li>59% of Projects in Macedonia have a high interest rate of 3.4.</li>
 >  <li>70% of Projects in North Macedonia have a high interest rate of 3.39</li>
