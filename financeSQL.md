@@ -184,7 +184,7 @@ Which was the most recent to pay?<br>
 </ul>
 
 #####	Service Charge Rate by Country  
-######	*Countries receive 0 interest rate:**<br>
+######	**Countries receive 0 interest rate:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/12Countries0IntRate.png" alt = "12Countries0IntRate.png" width ="400">
 
 ######	**Top 10 countries with the lowest interest rate:**<br>
