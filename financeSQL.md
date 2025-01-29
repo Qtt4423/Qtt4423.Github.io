@@ -155,9 +155,7 @@ Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
 <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
   
->**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**
-
-<br>
+>**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10ResultHighestNoLoan.png" alt = "10ResultHighestNoLoan.png" width ="450"><br>
 
 ###  **The Service Charge Rate Puzzle** 💡:
