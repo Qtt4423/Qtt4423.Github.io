@@ -77,10 +77,11 @@
 #####	Return all of the table
 
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-<img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
 Resize
-<img src="images/FinanceSQL/1DataOverView.png?width =300 height =150"/><br>
-      
+<img src="images/FinanceSQL/1CODE_DataOverView.png?width =300 height =150"/><br>
+
+<img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
+
 #####	Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
 <img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
 <img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
