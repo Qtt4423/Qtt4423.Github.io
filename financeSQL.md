@@ -16,12 +16,12 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li>📉 How do interest rates vary globally?</li>
   <li>📊 What’s the connection between repayment and service charges?</li>
   <li>Fourth item</li>
-</ul>
+</ul><br>
 
-##  Key Findings at a Glance 🚀
+## Key Findings at a Glance 🚀
 
 <ul>
-  <li><strong>Top Borrowers by loan amount:<strong/>
+  <li>Top Borrowers by loan amount:
     <ul>
       <li>Organization: 
           The Ministry of Finance</li>
@@ -30,19 +30,19 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>Country: 
           India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
     </ul>    
-  <li><strong>Interest Rates:<strong/>
+  <li>Interest Rates:
     <ul>
       <li>St. Kitts and Nevis: 
           📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
       <li>Africa:🌍 
           The lowest average interest rate is 0.09% (2,891 loans).</li>
     </ul>
-  <li><strong>Service Charge Rate Correlations:<strong/>
+  <li>Service Charge Rate Correlations:
     <ul>
       <li>Higher repayments correlate with higher service charge rates.</li>
       <li>Lower borrower obligations tend to have lower rates.</li>
     </ul>
-  <li><strong>Project-Specific Insights:<strong/>
+  <li>Project-Specific Insights:
     <ul>
       <li>St. Kitts and Nevis: 
           Only 1 project (AG DEV Support) with a service charge rate >1.</li>
