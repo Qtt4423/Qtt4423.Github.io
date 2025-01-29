@@ -83,8 +83,8 @@
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
 
 #####	Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
-<img src="images/FinanceSQL/2CODE_OverView5Row.png" alt = "2CODE_OverView5Row.png" width ="200">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2OverView5Row.png" alt = "2OverView5Row.png" width ="150"><br>
+<img src="images/FinanceSQL/2CODE_OverView5Row.png" alt = "2CODE_OverView5Row.png" width ="200"><br>
+<img src="images/FinanceSQL/2OverView5Row.png" alt = "2OverView5Row.png" width ="150">
       
 #####	Total number of transactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
