@@ -57,13 +57,13 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 <br>
 
 
-## The Data: 
+## The Data: <br>
 
 [Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
-## Tools & Techniques 🛠️:
+## Tools & Techniques 🛠️:<br>
 <ul>
   <li>SQL: 
       Extracted and aggregated the dataset with precision.</li>
