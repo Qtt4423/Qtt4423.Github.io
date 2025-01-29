@@ -79,7 +79,7 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 
 ### Over View of the data
 
-1.    **Return all of the table**
+1.    **Return all of the table**<br>
 !<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
 !<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
 
