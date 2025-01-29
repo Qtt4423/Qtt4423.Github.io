@@ -16,7 +16,7 @@
   - Children are a strong driving force for Sale.
   - Investing more in single and Tier 2 customer groups with local products can yield better marketing results.
 
-## [**The Data**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
+## **The Data** [Link](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)<br>
 
   - 🗂️ nearly 4,900 Rows-Records
   - 🗂️	20  Columns-Attributes
