@@ -248,11 +248,11 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 
 
 ######	Macedonia, the former Yugoslav Republic of:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png" alt = "18MacedoniaProjectCreditStatusTable.png" width ="450"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png" alt = "18MacedoniaProjectCreditStatusTable.png" width ="450"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusGRAPH.png" alt = "18MacedoniaProjectCreditStatusGRAPH.png" width ="500">
 
 ######	North Macedonia, the former Yugoslav Republic of:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png" alt = "18NorthMacedoniaProjectCreditStatusTABLE.png" width ="450"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png" alt = "18NorthMacedoniaProjectCreditStatusTABLE.png" width ="450"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png" alt = "18NorthMacedoniaProjectCreditStatusGRAPH.png" width ="500">
 
 ###  Project Attribute Analysis
