@@ -143,7 +143,7 @@ Which was the most recent to pay?<br>
 </ul>
 >🌟 **Lowest Loan Recipients:**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500">)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
 
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
