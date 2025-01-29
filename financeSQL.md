@@ -54,8 +54,8 @@ The International Development Association (IDA) is crucial in aiding the world�
 
 ## Tools & Techniques 🛠️:**
 <ul>
-  <li><mark>SQL<strong><mark>: Extracted and aggregated the dataset with precision.</li>
-  <li><mark>Tableau & Excel<mark>: Visualized trends to make findings accessible and actionable.</li>
+  <li><strong>SQL<strong>: Extracted and aggregated the dataset with precision.</li>
+  <li><strong>Tableau & Excel<strong>: Visualized trends to make findings accessible and actionable.</li>
 </ul>
 
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
