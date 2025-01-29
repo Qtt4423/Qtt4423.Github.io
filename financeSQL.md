@@ -78,13 +78,12 @@
 
 #####	Return all of the table
 
-<img src="images/FinanceSQL/1CODE_DataOverView.png" alt = "1CODE_DataOverView.png" width ="150"><br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/1CODE_DataOverView.png" alt = "1CODE_DataOverView.png" width ="150"><br>
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
 
 #####	Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
-<img src="images/FinanceSQL/2CODE_OverView5Row.png" alt = "2CODE_OverView5Row.png" width ="200"><br>
-<img src="images/FinanceSQL/2OverView5Row.png" alt = "2OverView5Row.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2CODE_OverView5Row.png" alt = "2CODE_OverView5Row.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2OverView5Row.png" alt = "2OverView5Row.png" width ="150">
       
 #####	Total number of transactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
@@ -105,37 +104,36 @@ Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.<br>
 
 #####	The top 15 highest organization borrowers**<br>
-
-<img src="images/FinanceSQL/4CODE_15Highest Borrower.png" alt = "4CODE_15Highest Borrower.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/4CODE_15Highest Borrower.png" alt = "4CODE_15Highest Borrower.png" width ="200"><br>
 <img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
 >  🥇The Ministry of Finance has the highest total loan amount.<br>
 
 #####	Abbreviate one of the column names so it's easier to write<br>
-<img src="images/FinanceSQL/5AbbreviateColumn.png" alt = "5AbbreviateColumn.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/5AbbreviateColumn.png" alt = "5AbbreviateColumn.png" width ="200"><br>
 
 #####	List the top 15 highest Region borrowers:**<br>
 
-<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="200"><br>
-<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="150"><br>
-<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="150"><br>
 
 >  🥇South Asia has the highest total loan amount, followed by Africa.
 
 #####	What is the maximum, minimum, and average amount owed to the IDA?**<br>
 
-<img src="images/FinanceSQL/7CODEOwedAvg_Max_Min.png" alt = "7CODEOwedAvg_Max_Min.png" width ="200"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/7CODEOwedAvg_Max_Min.png" alt = "7CODEOwedAvg_Max_Min.png" width ="200"><br><br>
 
 #####	Overall Impact of Loans:📊
 <ul>
   <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
   <li>Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
 </ul>
-  <img src="images/FinanceSQL/8TotalLoan.png" alt = "8TotalLoan.png" width ="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/8TotalLoan.png" alt = "8TotalLoan.png" width ="200">
   
 #####	Loan amount to the IDA by Country**:<br>
-  <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
-  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="200"><br><br>
+<img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="200"><br><br>
   
 >🌟 Top Loan Recipients:   
 ><ul>
@@ -145,7 +143,7 @@ Which was the most recent to pay?<br>
 >  <li>🇻🇳 Vietnam</li>
 >  <li>🇳🇬 Nigeria</li>
 ></ul>
-<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="200"><br>
  
 ><ul>
 >  <li>Haiti has almost a $0 loan amount.</li>
@@ -154,12 +152,12 @@ Which was the most recent to pay?<br>
 
 #####	Who has the most loans?**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Total Transactions by Country**<br>
-  <img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="200"><br>
-  <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="200"><br>
+<img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
   
 >	**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br><br>
 
-  <img src="images/FinanceSQL/10ResultHighestNoLoan.png" alt = "10ResultHighestNoLoan.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10ResultHighestNoLoan.png" alt = "10ResultHighestNoLoan.png" width ="200"><br>
 
 ###  **The Service Charge Rate Puzzle** 💡:
 
@@ -179,7 +177,7 @@ Which was the most recent to pay?<br>
 #####	**The High and Low of Service Charges**
 
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
-  <img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="150"><br>
   
 <ul>
   <li>St. Kitts and Nevis has the highest Interest rate of **3.68**.</li>
@@ -188,11 +186,11 @@ Which was the most recent to pay?<br>
 
 #####	Service Charge Rate by Country  
 ######	**0 interest rate:**<br>
-  <img src="images/FinanceSQL/12Countries0IntRate.png" alt = "12Countries0IntRate.png" width ="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/12Countries0IntRate.png" alt = "12Countries0IntRate.png" width ="200">
 ######	**Top 10 countries with the lowest interest rate:**<br>
-  <img src="images/FinanceSQL/13Countries_IntRateASC.png" alt = "13Countries_IntRateASC.png" width ="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/13Countries_IntRateASC.png" alt = "13Countries_IntRateASC.png" width ="200">
 ######	**Top 10 countries with the highest interest rate:**<br>
-  <img src="images/FinanceSQL/14CountriesIntRateDESC.png" alt = "14CountriesIntRateDESC.png" width ="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/14CountriesIntRateDESC.png" alt = "14CountriesIntRateDESC.png" width ="200">
 ######	Knowing that most countries have an average interest rate **under 2.0**, I filter the graph to show better variation.<br>
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
 
@@ -206,25 +204,22 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
   The Padma Bridge Project emerges as a powerhouse, with the region's highest active Original Principal loan amount.
 
 ######	**How many loans do St. Kitts and Nevis have?**
-<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="150">
   
 ######	**How many loans does Africa have?**
-<img src="images/FinanceSQL/16AfricaNoLoan.png" alt = "16AfricaNoLoan.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/16AfricaNoLoan.png" alt = "16AfricaNoLoan.png" width ="150">
   
 ######	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
-<img src="images/FinanceSQL/17StKittsServChrgGreater1.png" alt = "17StKittsServChrgGreater1.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1.png" alt = "17StKittsServChrgGreater1.png" width ="150">
 ######	Return selected columns groups by project name with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
 <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
 
-<img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png" alt = "17StKittsServChrgGreater1CreditStatusPie.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png" alt = "17StKittsServChrgGreater1CreditStatusPie.png" width ="150">
 
 >St. Kitts and Nevis‘s disbursed loan amount is almost $32 million, and $40 million is repaying the loan amount.
 >AG DEV Support is the only project under this category.
   <br><br>
-
-<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="150">
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="150">
 
 🔄 Correlations That Speak Volumes:
 
@@ -244,23 +239,23 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
   Only the **AG Dev Support Project** has a service charge rate greater than 1 in St. Kitts and Nevis.<br>
 
 #####	**Macedonia and North Macedonia**
--	**59%** of Projects in Macedonia have a high interest rate of **3.4**.</li>
--	**70%** of Projects in North Macedonia have a high interest rate of **3.39**</li>
+-	**59%** of Projects in Macedonia have a high interest rate of **3.4**.
+-	**70%** of Projects in North Macedonia have a high interest rate of **3.39**
 
 
 ######	Macedonia, the former Yugoslav Republic of:<br>
-<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png" alt = "18MacedoniaProjectCreditStatusTable.png" width ="250">
-<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusGRAPH.png" alt = "18MacedoniaProjectCreditStatusGRAPH.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png" alt = "18MacedoniaProjectCreditStatusTable.png" width ="250">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18MacedoniaProjectCreditStatusGRAPH.png" alt = "18MacedoniaProjectCreditStatusGRAPH.png" width ="150">
 
 ######	North Macedonia, the former Yugoslav Republic of:<br>
-<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png" alt = "18NorthMacedoniaProjectCreditStatusTABLE.png" width ="250">
-<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png" alt = "18NorthMacedoniaProjectCreditStatusGRAPH.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png" alt = "18NorthMacedoniaProjectCreditStatusTABLE.png" width ="250">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png" alt = "18NorthMacedoniaProjectCreditStatusGRAPH.png" width ="150">
 
 ###  Project Attribute Analysis
 
 #####	**Top 20 Highest Original Principal Amount (US$) Project:**<br>   
   <img src="images/FinanceSQL/19CODEHighestPrincipalProject.png?raw=true"/><br>
-  <img src="images/FinanceSQL/19HighestPrincipalProjectMAP.png" alt = "19HighestPrincipalProjectMAP.png" width ="150"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/19HighestPrincipalProjectMAP.png" alt = "19HighestPrincipalProjectMAP.png" width ="150"><br><br>
 
 >	SAC II, followed by IN: Elementary Education (SAC II) Project, ranked the highest in the original principal amount.   
 
@@ -276,13 +271,13 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 ###  Credit Status Analysis
 
 #####	**Top 15 projects** for countries with the highest loan amount to the IDA with active credit status in **India, Bangladesh, Pakistan, and Vietnam**<br>
-<img src="images/FinanceSQL/21CODEActiveCreditLoan.png" alt = "21CODEActiveCreditLoan.png" width ="200">
-<img src="images/FinanceSQL/21PIEChartActiveCreditLoan.png" alt = "21PIEChartActiveCreditLoan.png" width ="200"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/21CODEActiveCreditLoan.png" alt = "21CODEActiveCreditLoan.png" width ="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/21PIEChartActiveCreditLoan.png" alt = "21PIEChartActiveCreditLoan.png" width ="200"><br><br>
 
 **Bangladesh** has the highest total active Original Principal, while **India** has the highest active loan amount due.  
 **BD: The Padma Bridge project** has a significantly higher total active Original Principal loan amount than other projects.<br>
 
-<img src="images/FinanceSQL/21BarChartActiveCreditLoan.png" alt = "21BarChartActiveCreditLoan.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/21BarChartActiveCreditLoan.png" alt = "21BarChartActiveCreditLoan.png" width ="150"><br>
 
 #####	🏗️ **Types of Loans Across the Globe:**
 
@@ -290,7 +285,7 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 -	**Grants**: 🇦🇫 **Afghanistan** dominates with 12,302 loans.   
 -	**Credits**: 🇮🇳 **India** takes the crown with 69,805 loans.   
 
-<img src="images/FinanceSQL/23CountryLoanTypeLoanCountPie.png" alt = "23CountryLoanTypeLoanCountPie.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/23CountryLoanTypeLoanCountPie.png" alt = "23CountryLoanTypeLoanCountPie.png" width ="150">
 
 #####	**List the countries with the highest count of loans for each of the following "Guarantees," "Grants," or "Credits"**
 Clasification starts with the letters of the credit Number IDs
