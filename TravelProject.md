@@ -48,7 +48,8 @@ I began by exploring the dataset to understand the distribution of variables and
 
 ##### Cities in tier 1 <br>
 - The largest [product taken](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProdTaken-IncomebyCityTier?publish=yes) 
-- The lowest average income and the highest [number of trips](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/NumberofTrips-AgebyCityTier?publish=yes),
+- The lowest average income and the highest [number of trips](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/NumberofTrips-AgebyCityTier?publish=yes)<br>
+
 ##### Cities in tier 3 <br> 
 - The highest average monthly income<br>
   
