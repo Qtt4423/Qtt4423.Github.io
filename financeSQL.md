@@ -17,11 +17,9 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li>📊 What’s the connection between repayment and service charges?</li>
   <li>Fourth item</li>
 </ul>
-<br>
 
-##  Key Findings at a Glance 🚀
+##  Key Findings at a Glance 🚀<br>
 
-<br>
 <ul>
   <li><strong>Top Borrowers by loan amount:<strong/>
     <ul>
