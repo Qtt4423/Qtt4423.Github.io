@@ -78,27 +78,26 @@
 
 #####	Return all of the table
 
-<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-Resize
 <img src="images/FinanceSQL/1CODE_DataOverView.png" alt = "1CODE_DataOverView.png" width ="300"><br>
 
-<img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
+<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
 
 #####	Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
 <img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
-<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
+<img src="images/FinanceSQL/2OverView5Row.png" alt = "2OverView5Row.png" width ="300"><br>
       
 #####	Total number of transactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
-                  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/>
+<img src="images/FinanceSQL/3CODETotalCount.png" alt = "3CODETotalCount.png" width ="300"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Column:**<br>
-                  <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
+<img src="images/FinanceSQL/3CODETotalCountColumn.png" alt = "3CODETotalCountColumn.png" width ="300"><br>
    
 ### **Payment Timeframe Analysis**
 
 Which was the most recent to pay?<br>
-<img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
-<img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
+<img src="images/FinanceSQL/22MostRecentPayCODE.png" alt = "22MostRecentPayCODE.png" width ="300"><br>
+<img src="images/FinanceSQL/22MostRecentPayRESULT.png?raw=true"/><br>
+<img src="images/FinanceSQL/Tanzania.jpg" alt = "Tanzania.jpg" width ="150"><br>
 
 ### **DUE to IDA (US$) Attribute Analysis:**
 
