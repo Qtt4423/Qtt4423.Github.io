@@ -87,7 +87,7 @@
       
 #####	Total number of transactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCount.png" alt = "3CODETotalCount.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCount.png" alt = "3CODETotalCount.png" width ="250"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Column:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCountColumn.png" alt = "3CODETotalCountColumn.png" width ="300"><br>
    
@@ -96,7 +96,7 @@
 Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/22MostRecentPayCODE.png" alt = "22MostRecentPayCODE.png" width ="300"><br>
 <img src="images/FinanceSQL/22MostRecentPayRESULT.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/Tanzania.jpg" alt = "Tanzania.jpg" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/Tanzania.jpg" alt = "Tanzania.jpg" width ="150"><br>
 
 ### **DUE to IDA (US$) Attribute Analysis:**
 
@@ -114,9 +114,9 @@ Which was the most recent to pay?<br>
 
 #####	List the top 15 highest Region borrowers:**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="300"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="400"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="250"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="250"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="300"><br>
 
 >  🥇South Asia has the highest total loan amount, followed by Africa.
 
@@ -129,7 +129,7 @@ Which was the most recent to pay?<br>
   <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
   <li>Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
 </ul>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/8TotalLoan.png" alt = "8TotalLoan.png" width ="300">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/8TotalLoan.png" alt = "8TotalLoan.png" width ="450">
   
 #####	Loan amount to the IDA by Country**:<br>
 <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
@@ -143,7 +143,7 @@ Which was the most recent to pay?<br>
 >  <li>🇻🇳 Vietnam</li>
 >  <li>🇳🇬 Nigeria</li>
 ></ul>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="350"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
  
 ><ul>
 >  <li>Haiti has almost a $0 loan amount.</li>
@@ -152,7 +152,7 @@ Which was the most recent to pay?<br>
 
 #####	Who has the most loans?**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Total Transactions by Country**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="250"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
 <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
   
 >	**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br><br>
@@ -177,7 +177,7 @@ Which was the most recent to pay?<br>
 #####	**The High and Low of Service Charges**
 
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="400"><br>
   
 <ul>
   <li>St. Kitts and Nevis has the highest Interest rate of **3.68**.</li>
@@ -186,13 +186,13 @@ Which was the most recent to pay?<br>
 
 #####	Service Charge Rate by Country  
 ######	**0 interest rate:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/12Countries0IntRate.png" alt = "12Countries0IntRate.png" width ="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/12Countries0IntRate.png" alt = "12Countries0IntRate.png" width ="400">
 
 ######	**Top 10 countries with the lowest interest rate:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/13Countries_IntRateASC.png" alt = "13Countries_IntRateASC.png" width ="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/13Countries_IntRateASC.png" alt = "13Countries_IntRateASC.png" width ="400">
 
 ######	**Top 10 countries with the highest interest rate:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/14CountriesIntRateDESC.png" alt = "14CountriesIntRateDESC.png" width ="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/14CountriesIntRateDESC.png" alt = "14CountriesIntRateDESC.png" width ="400">
 
 ######	Knowing that most countries have an average interest rate **under 2.0**, I filter the graph to show better variation.<br>
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
@@ -213,17 +213,17 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/16AfricaNoLoan.png" alt = "16AfricaNoLoan.png" width ="350">
   
 ######	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1.png" alt = "17StKittsServChrgGreater1.png" width ="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1.png" alt = "17StKittsServChrgGreater1.png" width ="550">
 ######	Return selected columns groups by project name with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
 <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png" alt = "17StKittsServChrgGreater1CreditStatusPie.png" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png" alt = "17StKittsServChrgGreater1CreditStatusPie.png" width ="350">
 
 >St. Kitts and Nevis‘s disbursed loan amount is almost $32 million, and $40 million is repaying the loan amount.
 >AG DEV Support is the only project under this category.
 
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="450">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="400">
 
 🔄 Correlations That Speak Volumes:
 
