@@ -212,6 +212,8 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   
 16.	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
   <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
+
+  <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
   <img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png?raw=true"/><br>
 
 >St. Kitts and Nevis‘s disbursed loan amount is almost $32 million, and $40 million is repaying the loan amount.
