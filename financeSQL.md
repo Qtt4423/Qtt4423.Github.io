@@ -104,7 +104,7 @@ Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.<br>
 
 #####	The top 15 highest organization borrowers**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/4CODE_15Highest Borrower.png" alt = "4CODE_15Highest Borrower.png" width ="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/4CODE_15Highest Borrower.png" alt = "4CODE_15Highest Borrower.png" width ="350"><br>
 <img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
 >  🥇The Ministry of Finance has the highest total loan amount.<br>
@@ -114,8 +114,8 @@ Which was the most recent to pay?<br>
 
 #####	List the top 15 highest Region borrowers:**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="200"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6CODE15highestRegionborrower.png" alt = "6CODE15highestRegionborrower.png" width ="300"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="250"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="150"><br>
 
 >  🥇South Asia has the highest total loan amount, followed by Africa.
