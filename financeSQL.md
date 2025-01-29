@@ -31,7 +31,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li><strong>St. Kitts and Nevis<strong/>: 
           📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
       <li><strong>Africa<strong/>🌍 
-          Lowest average interest rate at 0.09% (2,891 loans).</li>
+          The lowest average interest rate is 0.09% (2,891 loans).</li>
     </ul>
   </li>
   <li><strong>Service Charge Rate Correlations:<strong/>
@@ -80,17 +80,17 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 ### Over View of the data
 
 1.    **Return all of the table**
-<th><img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-<th><img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br><th>
+!<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
+!<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
 
 2.  **Return the first 5 rows of the table, but only the borrower & due to IDA column**<br>
-<th><img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/><br><th>
-<th><img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br><th>
+!<img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/><br>
+!<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
 
 3.  **Total number of transactions**<br>
 <ul>
-  <li><mark>Row:<mark> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
-  <li><mark>Column:<mark> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
+  <li><mark>Row:<mark> !<img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
+  <li><mark>Column:<mark> !<img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
 </ul>
 
 ### DUE to IDA (US$) Attribute Analysis:
@@ -98,14 +98,14 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
 4.	**The top 15 highest organization borrowers**<br>
-<th><img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br><th>
-<th><img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br><th>
+!<img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br>
+!<img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
 > #### 🥇The Ministry of Finance has the highest total loan amount.
 
 5.	**Abbreviate one of the column names so it's easier to write**
-<th><img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br><th>
-<th><img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br><th>
+!<img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br>
+!<img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
     
   - 👉🏼 High School Graduation Performance?<br>
