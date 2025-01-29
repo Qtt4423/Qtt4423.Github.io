@@ -11,6 +11,13 @@
 
 ---
 
+#### [Finance Project (Excel, Tableau, SQL)](/financeSQL)
+<img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
+"Loans and debts should not shackle progress, but serve as stepping stones toward prosperity." 
+— Unknown
+
+---
+
 #### [Travel Project (Excel, Tableau, R, Python)](/TravelProject)
 <img src="images/TravelProject.jpg?raw=true"/>
 "Airplane travel is nature's way of making you look like your passport photo." 
