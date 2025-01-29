@@ -143,8 +143,9 @@ Which was the most recent to pay?<br>
 >  <li>🇻🇳 Vietnam</li>
 >  <li>🇳🇬 Nigeria</li>
 ></ul>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
- 
+<br>
 ><ul>
 >  <li>Haiti has almost a $0 loan amount.</li>
 >  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
