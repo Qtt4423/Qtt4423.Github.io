@@ -55,12 +55,10 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>India: 
           Tops in credits (69,805).</li>
     </ul>
-    <br>
 
+## The Data 📊
 
-##  The Data
-
-![Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
+[Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br>
 
