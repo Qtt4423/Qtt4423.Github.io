@@ -217,9 +217,8 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png" alt = "17StKittsServChrgGreater1CreditStatusPie.png" width ="350">
 
 >**St. Kitts and Nevis‘s disbursed** loan amount is almost **$32 million**, and **$40 million** is **repaying** the loan amount.
->AG DEV Support is the only project under this category.
+>AG DEV Support is the only project under this category.<br>
 
-<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/15StKittsNoLoan.png" alt = "15StKittsNoLoan.png" width ="400">
 
 🔄 Correlations That Speak Volumes:
