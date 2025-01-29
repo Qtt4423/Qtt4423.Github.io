@@ -140,7 +140,8 @@ Which was the most recent to pay?<br>
   <li>🇵🇰 Pakistan</li>
   <li>🇻🇳 Vietnam</li>
   <li>🇳🇬 Nigeria</li>
-</ul>
+</ul><br>
+
 >🌟 **Lowest Loan Recipients:**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
