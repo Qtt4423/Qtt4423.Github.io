@@ -16,32 +16,32 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 
 ## Key Findings at a Glance 🚀
 <ul>
-  <li><strong>Top Borrowers by loan amount:<strong>
+  <li><strong>Top Borrowers by loan amount:<strong/>
     <ul>
-      <li><strong>Organization<strong>: The Ministry of Finance</li>
-      <li><strong>Region<strong>: South Asia, Africa</li>
-      <li><strong>Country<strong>: India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
+      <li><strong>Organization<strong/>: The Ministry of Finance</li>
+      <li><strong>Region<strong/>: South Asia, Africa</li>
+      <li><strong>Country<strong/>: India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
     </ul>
   </li>
-  <li><strong>Interest Rates:<strong>
+  <li><strong>Interest Rates:<strong/>
     <ul>
-      <li><strong>St. Kitts and Nevis<strong>: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
-      <li><strong>Africa<strong>🌍 Lowest average interest rate at 0.09% (2,891 loans).</li>
+      <li><strong>St. Kitts and Nevis<strong/>: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
+      <li><strong>Africa<strong/>🌍 Lowest average interest rate at 0.09% (2,891 loans).</li>
     </ul>
   </li>
-  <li><strong>Service Charge Rate Correlations:<strong>
+  <li><strong>Service Charge Rate Correlations:<strong/>
     <ul>
-      <li><mark>Higher repayments</mark> correlate with higher service charge rates.</li>
-      <li><mark>Lower borrower obligations</mark> tend to have lower rates.</li>
+      <li><strong>Higher repayments<strong/> correlate with higher service charge rates.</li>
+      <li><strong>Lower borrower obligations<strong/> tend to have lower rates.</li>
     </ul>
   </li>
-  <li><strong>Project-Specific Insights:<strong>
+  <li><strong>Project-Specific Insights:<strong/>
     <ul>
-      <li><strong>St. Kitts and Nevis<strong>: Only 1 project with a service charge rate >1.</li>
-      <li><strong>Macedonia<strong>: 🚩 59% of projects have a 3.4% interest rate.</li>
-      <li><strong>Kenya<strong>: Leads in guaranteed loans (1,248).</li>
-      <li><strong>Afghanistan<strong>: Dominates in grants (12,302).</li>
-      <li><strong>India<strong>: Tops in credits (69,805).</li>
+      <li><strong>St. Kitts and Nevis<strong/>: Only 1 project with a service charge rate >1.</li>
+      <li><strong>Macedonia<strong/>: 🚩 59% of projects have a 3.4% interest rate.</li>
+      <li><strong>Kenya<<strong/>: Leads in guaranteed loans (1,248).</li>
+      <li><strong>Afghanistan<strong/>: Dominates in grants (12,302).</li>
+      <li><strong>India<strong/>: Tops in credits (69,805).</li>
     </ul>
   </li>
 </ul>
@@ -54,8 +54,8 @@ The International Development Association (IDA) is crucial in aiding the world�
 
 ## Tools & Techniques 🛠️:**
 <ul>
-  <li><strong>SQL<strong>: Extracted and aggregated the dataset with precision.</li>
-  <li><strong>Tableau & Excel<strong>: Visualized trends to make findings accessible and actionable.</li>
+  <li><strong>SQL<strong/>: Extracted and aggregated the dataset with precision.</li>
+  <li><strong>Tableau & Excel<strong/>: Visualized trends to make findings accessible and actionable.</li>
 </ul>
 
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
