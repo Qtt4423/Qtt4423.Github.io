@@ -79,30 +79,17 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 
 ### Over View of the data
 
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item
-    <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
-    </ul>
-  </li>
-  <li>Fourth item</li>
-</ol>
-
-
 <br>
 <ol>
-  <li>Return all of the table<br>
+  <li>1.  Return all of the table<br>
     <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
     <img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
   </li>
-  <li>Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
+  <li>2.  Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
     <img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
     <img src="images/FinanceSQL/2OverView5Row.png?raw=true"/>
   </li>
-  <li>Total number of transactions
+  <li>3.  Total number of transactions
     <ul>
       <li><strong>Row:<strong/><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
       <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
