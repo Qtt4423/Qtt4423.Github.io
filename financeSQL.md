@@ -288,7 +288,7 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/23CountryLoanTypeLoanCountPie.png" alt = "23CountryLoanTypeLoanCountPie.png" width ="350">
 
 #####	**List the countries with the highest count of loans for each of the following "Guarantees," "Grants," or "Credits"**
-Clasification starts with the letters of the credit Number IDs
+Classification starts with the letters of the credit Number IDs
 <ul>
   <li>Guarantees (IDAB and IDAG): Kenya at 1248 number of loans </li>
   <li>Grants (IDAD, IDAH and IDAE): Afghanistan at 12302 number of loans</li>
