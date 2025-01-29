@@ -21,20 +21,20 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>**Organization**: The Ministry of Finance</li>
       <li>**Region**: South Asia, Africa</li>
       <li>**Country**: India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
-    <ul>
-  <li>
+    </ul>
+  </li>
   <li>**Interest Rates:**
     <ul>
       <li>**St. Kitts and Nevis**: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
       <li>**Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).</li>
-    <ul>
-  <li>
+    </ul>
+  </li>
   <li>**Service Charge Rate Correlations:**
     <ul>
       <li><mark>Higher repayments</mark> correlate with higher service charge rates.</li>
       <li><mark>Lower borrower obligations</mark> tend to have lower rates.</li>
-    <ul>
-  <li>
+    </ul>
+  </li>
   <li>**Project-Specific Insights:**
     <ul>
       <li>**St. Kitts and Nevis**: Only 1 project with a service charge rate >1.</li>
@@ -42,8 +42,9 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>**Kenya**: Leads in guaranteed loans (1,248).</li>
       <li>**Afghanistan**: Dominates in grants (12,302).</li>
       <li>**India**: Tops in credits (69,805).</li>
-    <ul>
+    </ul>
   </li>
+</ul>
 
 
 
