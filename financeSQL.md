@@ -16,7 +16,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li>📉 How do interest rates vary globally?</li>
   <li>📊 What’s the connection between repayment and service charges?</li>
   <li>Fourth item</li>
-</ul><br>
+</ul>
 
 ## Key Findings at a Glance 🚀
 
