@@ -89,7 +89,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCount.png" alt = "3CODETotalCount.png" width ="200"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Column:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCountColumn.png" alt = "3CODETotalCountColumn.png" width ="350"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/3CODETotalCountColumn.png" alt = "3CODETotalCountColumn.png" width ="300"><br>
    
 ### **Payment Timeframe Analysis**
 
