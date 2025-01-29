@@ -29,13 +29,13 @@ breaks down key data to reveal where the money goes and how schools measure up i
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
 
   - 👉🏼 Are there meaningful regional differences within MA? <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/ILoveMath.jpg" alt = "ILoveMath.jpg" width ="150"><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/ILoveMath.jpg" alt = "ILoveMath.jpg" width ="150"><br>
       4th grade Math (14/53 or 26% district is under 50%)<br>
         <img src="images/4th Grade Math.png?raw=true"/><br><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
     
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/images/Score.jpg" alt = "images/Score.jpg" width ="150"><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/images/Score.jpg" alt = "images/Score.jpg" width ="150"><br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       - **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
