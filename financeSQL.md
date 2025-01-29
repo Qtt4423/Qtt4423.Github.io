@@ -21,6 +21,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     - **Region**: South Asia, Africa
     - **Country**: India, Bangladesh, Pakistan, Vietnam, Nigeria<br>
  </ol>
+ 
  </ol>
   <li>- **Interest Rates:**<li>
        </ol>
@@ -28,6 +29,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     <li>- **Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).<br><li>
      </ol>
 </ol>
+
 </ol>
   <li>- **Service Charge Rate Correlations:**<li>
        </ol>
@@ -35,6 +37,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     <li>- <mark>Lower borrower obligations</mark> tend to have lower rates.<br><li>
      </ol>
 </ol>
+
 </ol>    
   <li>- **Project-Specific Insights:**<li>
        </ol>
@@ -44,7 +47,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     <li>- **Afghanistan**: Dominates in grants (12,302).<li>
     <li>- **India**: Tops in credits (69,805).<br><li>
      </ol>
-</ol> <br>
+</ol> 
 
 ## The Data: [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
 
