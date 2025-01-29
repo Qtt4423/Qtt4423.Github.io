@@ -90,6 +90,7 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 <img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
 
 3.  **Total number of transactions**<br>
+
 <ul>
   <li><strong>Row:<strong/><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
   <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
@@ -140,7 +141,7 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
   <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
-</ul><br><br>
+</ul><br>
 
 10.	**Who has the most loans?**  Total Transactions by Country<br>
   <img src="images/FinanceSQL/10CODEHighestNoLoan.png?raw=true"/><br>
@@ -148,8 +149,9 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br>
   <img src="images/FinanceSQL/10ResultHighestNoLoan.png?raw=true"/><br><br>
 
-###💡 The Interest Rate Puzzle:
-One country stands out for its steep rates:
+###💡 The Interest Rate Puzzle:<br>
+
+One country stands out for its steep rates:<br>
 <ul>
   <li>St. Kitts and Nevis:
     <ul>
@@ -164,7 +166,7 @@ One country stands out for its steep rates:
       <li>🤔 Observation: Low rates help balance the repayment burden for developing nations.</li>
     </ul>
   </li>
-</ul><br><br>
+</ul><br>
 
 11.	**Service Charge**<br>
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
@@ -172,25 +174,35 @@ One country stands out for its steep rates:
 <ul>
   <li>St. Kitts and Nevis has the highest Interest rate of 3.68.</li>
   <li>Africa has the lower Interest rate of 0.09.</li>
-</ul><br><br>
+</ul><br>
 
 12.  Service Charge Rate by Country
      **What are the countries with 0 interest rate:**<br>
   <img src="images/FinanceSQL/12Countries0IntRate.png?raw=true"/><br><br>
     **Top 10 countries with the lowest interest rate:**<br>
-  <img src="images/FinanceSQL/13Countries_IntRateASC.png?raw=true"/><br>
+  <img src="images/FinanceSQL/13Countries_IntRateASC.png?raw=true"/><br><br>
     **Top 10 countries with the highest interest rate:**<br>
-  <img src="images/FinanceSQL/14CountriesIntRateDESC.png?raw=true"/><br>
+  <img src="images/FinanceSQL/14CountriesIntRateDESC.png?raw=true"/><br><br>
 Knowing that most countries have an average interest rate under 2.0, I filter the graph to show better variation.<br>
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
 
 ###Payment Timeframe Analysis
+
 13.  Which was the most recent to pay?<br>
   <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
   <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
 ###CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
-**Geospatial Data Analysis**<br>
+
+**Geospatial Data Analysis**🎯 Project Insights That Matter:<br>
+<ul>
+  <li>St. Kitts and Nevis:<br>
+  The AG Dev Support Project is the sole project with a service charge rate >1, spotlighting a unique financial model.</li>
+  <li>•	Macedonia: 🚩 <br>
+  59% of projects have an interest rate of 3.4%, making it a region of high financial strain.</li>
+  <li>•	Bangladesh:<br>
+  The Padma Bridge Project emerges as a powerhouse, with the highest active Original Principal loan amount in the region.</li>
+</ul>
 
 14.	**How many loans do St. Kitts and Nevis have?**
   <img src="images/FinanceSQL/15StKittsNoLoan.png?raw=true"/><br><br>
@@ -226,6 +238,35 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_RepaidIDABar.png?raw=true"/><br>
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_BorrowerObligationBar.png?raw=true"/><br>
+
+17.	**Return selected columns group by Project Name and Credit Status for St. Kitts and Nevis with Service Charge Rate greater than 1**
+  <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
+  Only the AG Dev Support Project has a service charge rate greater than 1 in St. Kitts and Nevis.<br>
+
+><ul>
+>  <li>59% of Projects in Macedonia have a high interest rate of 3.4.</li>
+>  <li>70% of Projects in North Macedonia have a high interest rate of 3.39</li>
+></ul>
+
+Macedonia, the former Yugoslav Republic of:<br>
+  <img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png?raw=true"/><br>
+  <img src="images/FinanceSQL/18MacedoniaProjectCreditStatusGRAPH.png?raw=true"/><br>
+
+North Macedonia, the former Yugoslav Republic of:<br>
+  <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png?raw=true"/><br>
+  <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png.png?raw=true"/><br><br>
+
+###Project Attribute Analysis
+18.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
+
+
+
+
+
+
+
+
+
 
 
 
