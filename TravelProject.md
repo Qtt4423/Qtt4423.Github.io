@@ -92,7 +92,7 @@ I began by exploring the dataset to understand the distribution of variables and
   - Basic Products have the highest (12%) of success in sales. <br>
 
 #### **Stepwise Regression - Best Fit Model:**<br>
-[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+[Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
 
 #### **Summary**:
@@ -110,10 +110,10 @@ I began by exploring the dataset to understand the distribution of variables and
 
 ### **Characteristics of Customers Who Took a Product**<br>
 #### Predict No. of Trip & Person Visiting:
-[**R-Studio File**](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R))  --  [**Manova File**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+[R-Studio File](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R))  --  [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
 
 #### **Stepwise Regression– Best Fit Model:**<br>   
-[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)
+[Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)
 
 **Filter**: Under 10 trips<br>
 **Continuous Variables**: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
@@ -131,7 +131,7 @@ I began by exploring the dataset to understand the distribution of variables and
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
 ### **Characteristics of Customers Who Did Not Take a Product**   
-[**GitHub directory folder**](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
+[GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
 
 #### **Marketing Information:**<br>
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
@@ -144,7 +144,7 @@ I began by exploring the dataset to understand the distribution of variables and
  - Have an average monthly income of 20-30 thousand.<br><br>
 
 ### **Predicting Sale Index** 
-[**GitHub Directory File**](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
+[GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
 
 #### Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
