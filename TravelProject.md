@@ -63,7 +63,7 @@ I began by exploring the dataset to understand the distribution of variables and
 
 #### [Basic Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyProdTakenPropStar/ProductTypebyProdTakenPropStar?publish=yes) visitors are:<br>
 - The largest group
-- The most frequent travelor
+- The most frequent travelers
 - Youngest [visitors](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProductTypebyNo_TripsPersonChildren?publish=yes)
 - Taken the most product (552)
 - Preferred property star of **3.58** <br><br>
@@ -181,7 +181,7 @@ I began by exploring the dataset to understand the distribution of variables and
 <img src="images/TravelCityTiersChildrenPassportCar.png"/><br>
 •	The more children visit, the more often they travel in all tiers (1 to 3).
 •	The majority of customers do not have a passport and own a car.   
---> This insight suggests that they can benefit from local destinations.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;--> This insight suggests that they can benefit from local destinations.<br><br>
 
 ---
 ## **Concise Summary:**
