@@ -1,10 +1,3 @@
-
-#### [Finance Project (Excel, Tableau, SQL)](/financeSQL)
-<img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
-"Loans and debts should not shackle progress, but serve as stepping stones toward prosperity." 
-— Unknown
-
----
 # UNVEILING ECONOMIC OBLIGATIONS LANDSCAPES:<br>	A COMPREHENSIVE ANALYSIS OF GLOBAL DEBT DYNAMICS 
 
 <img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
