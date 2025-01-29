@@ -35,7 +35,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
     
   - 👉🏼 What contributes to differences in schools' outcomes?<br>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/images/Score.jpg" alt = "images/Score.jpg" width ="350"><br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/images/Score.jpg" alt = "images/Score.jpg" width ="350"><br>
       Both are significant since the P value is close to 0. Number of Observations: 340<br>
       - **Class size**: 
          R2= 0.189728 -> explain almost 19%<br>
@@ -48,7 +48,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>    
  
    - 🏆 Which schools do well despite limited resources?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/images/CollegeGraduation.JPG" alt = "CollegeGraduation.JPG" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CollegeGraduation.JPG" alt = "CollegeGraduation.JPG" width ="350"><br>
       - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br>
