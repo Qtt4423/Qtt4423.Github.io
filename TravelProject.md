@@ -91,7 +91,8 @@ I began by exploring the dataset to understand the distribution of variables and
  - Deluxe Products get pitched the most but 2nd place in success in sales.
  - Basic Products have the highest (12%) of success in sales. 
 
-#### **Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+#### **Stepwise Regression - Best Fit Model:**<br>
+[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
 
 #### **Summary**:
@@ -109,12 +110,11 @@ I began by exploring the dataset to understand the distribution of variables and
 
 ### **Characteristics of Customers Who Took a Product**<br>
 #### Predict No. of Trip & Person Visiting:
-[**R-Studio File**] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R) --  [**Manova File**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+[**R-Studio File**](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R))  --  [**Manova File**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
 
-<img src="images/TravelYesProdTakenManovaTable.png?raw=true"/><br>
+#### **Stepwise Regression– Best Fit Model:**<br>   
+[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)
 
-#### **Stepwise Regression– Best Fit Model:**   
-[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
 **Filter**: Under 10 trips<br>
 **Continuous Variables**: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
 
