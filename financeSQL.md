@@ -14,34 +14,34 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     -📉 How do interest rates vary globally?
     -📊 What’s the connection between repayment and service charges?<br><br>
 
-# Key Findings at a Glance 🚀
+## Key Findings at a Glance 🚀
 <ul>
-  <li>**Top Borrowers by loan amount:**
+  <li><strong>Top Borrowers by loan amount:<strong>
     <ul>
-      <li>**Organization**: The Ministry of Finance</li>
-      <li>**Region**: South Asia, Africa</li>
-      <li>**Country**: India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
+      <li><strong>Organization<strong>: The Ministry of Finance</li>
+      <li><strong>Region<strong>: South Asia, Africa</li>
+      <li><strong>Country<strong>: India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
     </ul>
   </li>
-  <li>**Interest Rates:**
+  <li><strong>Interest Rates:<strong>
     <ul>
-      <li>**St. Kitts and Nevis**: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
-      <li>**Africa**🌍 Lowest average interest rate at 0.09% (2,891 loans).</li>
+      <li><strong>St. Kitts and Nevis<strong>: 📈 Highest interest rate at 3.68% (165 loans worth $32M disbursed, $40M repaid).</li>
+      <li><strong>Africa<strong>🌍 Lowest average interest rate at 0.09% (2,891 loans).</li>
     </ul>
   </li>
-  <li>**Service Charge Rate Correlations:**
+  <li><strong>Service Charge Rate Correlations:<strong>
     <ul>
       <li><mark>Higher repayments</mark> correlate with higher service charge rates.</li>
       <li><mark>Lower borrower obligations</mark> tend to have lower rates.</li>
     </ul>
   </li>
-  <li>**Project-Specific Insights:**
+  <li><strong>Project-Specific Insights:<strong>
     <ul>
-      <li>**St. Kitts and Nevis**: Only 1 project with a service charge rate >1.</li>
-      <li>**Macedonia**: 🚩 59% of projects have a 3.4% interest rate.</li>
-      <li>**Kenya**: Leads in guaranteed loans (1,248).</li>
-      <li>**Afghanistan**: Dominates in grants (12,302).</li>
-      <li>**India**: Tops in credits (69,805).</li>
+      <li><strong>St. Kitts and Nevis<strong>: Only 1 project with a service charge rate >1.</li>
+      <li><strong>Macedonia<strong>: 🚩 59% of projects have a 3.4% interest rate.</li>
+      <li><strong>Kenya<strong>: Leads in guaranteed loans (1,248).</li>
+      <li><strong>Afghanistan<strong>: Dominates in grants (12,302).</li>
+      <li><strong>India<strong>: Tops in credits (69,805).</li>
     </ul>
   </li>
 </ul>
