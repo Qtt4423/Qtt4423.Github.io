@@ -29,7 +29,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
 
   - 👉🏼 Are there meaningful regional differences within MA? <br>
-   <img src="images/ILoveMath.jpg?raw=true"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/ILoveMath.jpg" alt = "ILoveMath.jpg" width ="150"><br>
       4th grade Math (14/53 or 26% district is under 50%)<br>
         <img src="images/4th Grade Math.png?raw=true"/><br><br>
  [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
