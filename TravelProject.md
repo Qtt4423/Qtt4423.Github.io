@@ -37,7 +37,7 @@
 
 ---
 
-## ** The Analysis and Commentary:**<br><br>
+## **The Analysis and Commentary**<br>
 
 ### **Visuals and Insights**
 
@@ -46,17 +46,49 @@ I began by exploring the dataset to understand the distribution of variables and
 
 <img src="images/TravelDashBoard.jpg?raw=true"/><br>
 
-#### Cities in tier 1 have the largest [product taken](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProdTaken-IncomebyCityTier?publish=yes), with the lowest average income and the highest [number of trips](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/NumberofTrips-AgebyCityTier?publish=yes), followed by tier 3, which has the highest average monthly income.<br>  
-#### [King Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-Income-Product/IncomevsProductPitchedbyCityTier?publish=yes) has the smallest, least frequent, older visitors who lead in average monthly income and likelier to live in tier 1 cities, with preferred property star of 3.47.<br>
-#### [Basic Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyProdTakenPropStar/ProductTypebyProdTakenPropStar?publish=yes) has largest, most frequent, youngest [visitors](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProductTypebyNo_TripsPersonChildren?publish=yes) who lead in product taken count (552), with preferred property star of 3.58. <br><br>
+##### Cities in tier 1 <br>
+- The largest [product taken](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProdTaken-IncomebyCityTier?publish=yes) 
+- The lowest average income and the highest [number of trips](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/NumberofTrips-AgebyCityTier?publish=yes),
+##### Cities in tier 3 <br> 
+- The highest average monthly income<br>
+  
+#### [King Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-Income-Product/IncomevsProductPitchedbyCityTier?publish=yes) visitors are:<br>
+
+- The smallest group
+- The least frequent travelers
+- Older
+- Highest average monthly income
+- Likelier to live in **tier 1** cities
+- Preferred property star of **3.47**<br>
+
+#### [Basic Product](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyProdTakenPropStar/ProductTypebyProdTakenPropStar?publish=yes) visitors are:<br>
+- The largest group
+- The most frequent travelor
+- Youngest [visitors](https://public.tableau.com/app/profile/quy.tran4833/viz/TravelProject-ProductTypebyNo_TripsPersonChildren/ProductTypebyNo_TripsPersonChildren?publish=yes)
+- Taken the most product (552)
+- Preferred property star of **3.58** <br><br>
 
 ### **Predict Whether a Prod Taken**<br>
 <img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
 
 #### **Chi-Squares Analysis** – [R studio Code file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
-- Result:<br>
+**Result:**<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
+-**Passport**:
+ - **81%** of customers did not take a product.
+ - **29%** of customers have passports.
+ - Most customers with no passport did not take a product.
+- Marital Status:
+  Married couples have the highest impact
+ - Didn't take a product: 41%
+ - Taken a product: 7%
+- Designation:
+ - Largest Group: 30% Manager who did not take a product.
+ - Executive purchased the most product (12%).
+- Product Pitch:
+ - Deluxe Products get pitched the most but 2nd place in success in sales.
+ - Basic Products have the highest (12%) of success in sales. 
 
 #### **Stepwise Regression - Best Fit Model:**  [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
@@ -75,14 +107,15 @@ I began by exploring the dataset to understand the distribution of variables and
   - Have a passport, preferably<br><br>
 
 ### **Characteristics of Customers Who Took a Product**<br>
-#### Predict No. of Trip & Person Visiting: [R-Studio File] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R), [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+#### Predict No. of Trip & Person Visiting:
+[**R-Studio File**] (/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R) --  [**Manova File**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
 
 <img src="images/TravelYesProdTakenManovaTable.png?raw=true"/><br>
 
-#### **Stepwise Regression– Best Fit Model:** [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
-Filter: Under 10 trips<br>
-Continuous Variables: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
-Characters of Customers Take a Product<br>
+#### **Stepwise Regression– Best Fit Model:**   
+[**Python- Jupyter Note Book file**](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)<br>
+**Filter**: Under 10 trips<br>
+**Continuous Variables**: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
 
 #### **Marketing Information:**<br>
   - Self-inquiry type of contact
@@ -96,31 +129,32 @@ Characters of Customers Take a Product<br>
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-### **Characteristics of Customers Who Did Not Took a Product** [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
+### **Characteristics of Customers Who Did Not Take a Product**   
+[**GitHub directory folder**](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
 
 #### **Marketing Information:**<br>
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
  - Receive the above 2 follow-ups, which yield similar to 4 follow-ups and above.
  - Although 5 and 6 followed yield slightly higher results, not much.<br>
  
- #### **Customer Profile:**<br>
+#### **Customer Profile:**<br>
  - In their 30s and 60s travel with most visitors. The older the customers are, the more trips they take.
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-### **Predicting Sale Index ** [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
+### **Predicting Sale Index** 
+[**GitHub Directory File**](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
+
 #### Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
 
 <img src="images/TravelSaleIndexPivot1.png?raw=true"/><br>
 
   - Small Business, Basic Product for freelancers<br>
-
 <img src="images/TravelSaleIndexPivot2.png?raw=true"/><br>
   - Small Business, Basic Product for freelancers
   - Pitch Satisfaction Score of 3 with a pitch duration shorter than 18 with a Preferred Property Star of 3.
   - Interestingly, except for the Pitch Satisfaction Score of 3, all other Pitch Satisfaction Scores have a Preferred Property Star of 5.<br>
-
 <img src="images/TravelSaleIndexCityTiers.png?raw=true"/><br>
   - Single who travels with an average of 3 children with a Monthly Income Range under 200.<br><br>
 
@@ -129,24 +163,25 @@ Characters of Customers Take a Product<br>
 
 #### **Focus on customers who:**
  - Monthly income group above 20thousand
- - Travel with children
+ - Travel with Children
  - At least 30 years of age<br>
 
 <img src="images/Indian Population Age Breakdown.png?raw=true"/><br>
 
 <img src="images/Indian Population Map.png?raw=true"/><br>
 
-#### ** Citi Tiers Analysis:**
+#### **Citi Tiers Analysis:**
  - Tier 1: 100,000 and more population, Metropolitan center, densely populated, most developed, and higher living expense. Mumbai 12M population.
  - Tier 2: 50,000 to 99,999 population, Urban center, fastest growing tier.
  - Tier 3: 20,000 to 49,999 population, Semi-urban center, the underdeveloped and still evolving.<br>
 
 <img src="images/TravelSaleIndexCityTiersIncome.png"/><br>
-Tier 1 cities, with 63% of the customer base, have the highest average sale index even though they have lower average monthly incomes than tier 3 cities.<br>
+**Tier 1** cities, with 63% of the customer base, have the highest average sale index even though they have lower average monthly incomes than **tier 3** cities.<br>
 
 <img src="images/TravelCityTiersChildrenPassportCar.png"/><br>
 •	The more children visit, the more often they travel in all tiers (1 to 3).
-•	The majority of customers do not have a passport and own a car. --> This insight suggests that they can benefit from local destinations.<br><br>
+•	The majority of customers do not have a passport and own a car.   
+--> This insight suggests that they can benefit from local destinations.<br><br>
 
 ---
 ## **Concise Summary:**
