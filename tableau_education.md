@@ -48,7 +48,7 @@ breaks down key data to reveal where the money goes and how schools measure up i
        ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>    
  
    - 🏆 Which schools do well despite limited resources?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/images/College Graduation.JPG" alt = "College Graduation.JPG" width ="150"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/images/CollegeGraduation.JPG" alt = "CollegeGraduation.JPG" width ="150"><br>
       - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
       - 🥇 Match Charter Public School<br>
       - 🥇 Quincy Upper School<br>
