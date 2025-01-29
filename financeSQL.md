@@ -261,7 +261,7 @@ The AG Dev Support Project is the sole project with a service charge rate >1, sp
   <img src="images/FinanceSQL/19CODEHighestPrincipalProject.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/19HighestPrincipalProjectMAP.png" alt = "19HighestPrincipalProjectMAP.png" width ="500"><br><br>
 
->	SAC II, followed by IN: Elementary Education (SAC II) Project, ranked the highest in the original principal amount.   
+>SAC II, followed by IN: Elementary Education (SAC II) Project, ranked the highest in the original principal amount.   
 
 <br>
 #####	**Return all columns for SAC II and Elementary Education (SSA II) project**   
