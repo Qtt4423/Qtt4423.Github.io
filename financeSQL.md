@@ -5,6 +5,43 @@
 — Unknown
 
 ---
+# UNVEILING ECONOMIC OBLIGATIONS LANDSCAPES:<br>	A COMPREHENSIVE ANALYSIS OF GLOBAL DEBT DYNAMICS 
+
+<img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
+
+---
+
+## **Why This Project?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and natural disasters have transformed the world’s economic environment. These incidents affect lives globally 🌍, highlighting the importance of understanding the role of loans and finances in international development. Through data analysis 📈, we can identify trends, reveal funding inequalities, and equip decision-makers to develop economic growth and poverty alleviation strategies.
+
+## **Why Should You Pay Attention:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️ Which regions borrow the most?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📉 How do interest rates vary globally?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 What’s the connection between repayment and service charges?  
+
+
+
+## **Key Findings at a Glance** 🚀
+
+#####	**Top Borrowers by loan amount:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Organization:**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Ministry of Finance   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Region:**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;South Asia, Africa   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Country:**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India, Bangladesh, Pakistan, Vietnam, Nigeria<br>
+
+
+
+
+
+
+
+
 
 <img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
 
