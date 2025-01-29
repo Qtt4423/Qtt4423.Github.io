@@ -44,7 +44,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li><strong>Project-Specific Insights:<strong/>
     <ul>
       <li>St. Kitts and Nevis: 
-          Only 1 project with a service charge rate >1.</li>
+          Only 1 project (AG DEV Support) with a service charge rate >1.</li>
       <li>Macedonia: 
           🚩59% of projects have a 3.4% interest rate.</li>
       <li>Kenya: 
