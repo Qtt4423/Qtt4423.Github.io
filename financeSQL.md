@@ -58,7 +58,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 
 
 
-##  The Data:📊 <br>
+## The Data:📊 <br>
 
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The [dataset](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976) analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br>
 
@@ -78,24 +78,19 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 ## The Analysis and Commentary:
 
 ### Over View of the data
--  1.  Return all of the table<br>
-    <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-    <img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
-  </li>
-  <li>2.  Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
-    <img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
-    <img src="images/FinanceSQL/2OverView5Row.png?raw=true"/>
-  </li>
-  <li>3.  Total number of transactions
-    <ul>
-      <li><strong>Row:<strong/><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
-      <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
-    </ul>
-  </li>
-</ol>
-<br>
+1. Return all of the table<br>
+      <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
+      <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
+2. Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
+      <img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
+      <img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
+3.  Total number of transactions<br>
+      <strong>Row:<strong/><br>
+                  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/>
+      <strong>Column:<strong/><br>
+                  <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
    
-###  Payment Timeframe Analysis
+### Payment Timeframe Analysis
 
 Which was the most recent to pay?<br>
   <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
