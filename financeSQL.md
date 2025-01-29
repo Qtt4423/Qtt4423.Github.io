@@ -173,7 +173,7 @@ One country stands out for its steep rates:<br>
   </li>
 </ul><br>
 
-8.	**Service Charge**<br>
+1.	**Service Charge**<br>
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
   <img src="images/FinanceSQL/11ServiceCharge_CountryResult.png?raw=true"/><br>
 <ul>
@@ -181,7 +181,7 @@ One country stands out for its steep rates:<br>
   <li>Africa has the lower Interest rate of 0.09.</li>
 </ul><br>
 
-9.  Service Charge Rate by Country
+2.  Service Charge Rate by Country  
      **What are the countries with 0 interest rate:**<br>
   <img src="images/FinanceSQL/12Countries0IntRate.png?raw=true"/><br><br>
     **Top 10 countries with the lowest interest rate:**<br>
@@ -213,12 +213,14 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 3.	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
   <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
 
+**Return selected columns groups by project name with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
   <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
+  
   <img src="images/FinanceSQL/17StKittsServChrgGreater1CreditStatusPie.png?raw=true"/><br>
 
 >St. Kitts and Nevis‘s disbursed loan amount is almost $32 million, and $40 million is repaying the loan amount.
-  
-  <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
+>AG DEV Support is the only project under this category.
+  <br><br>
 
 >🔄 Correlations That Speak Volumes:
 >
@@ -239,6 +241,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 >
 
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_RepaidIDABar.png?raw=true"/><br>
+  
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_BorrowerObligationBar.png?raw=true"/><br>
 
 4.	**Return selected columns group by Project Name and Credit Status for St. Kitts and Nevis with Service Charge Rate greater than 1**
@@ -256,7 +259,7 @@ Macedonia, the former Yugoslav Republic of:<br>
 
 North Macedonia, the former Yugoslav Republic of:<br>
   <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png?raw=true"/><br>
-  <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png.png?raw=true"/><br><br>
+  <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png?raw=true"/><br><br>
 
 ###Project Attribute Analysis
 1.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
