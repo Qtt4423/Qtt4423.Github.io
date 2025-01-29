@@ -53,9 +53,11 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br><br>
 
 ## Tools & Techniques 🛠️:**
-  -  <mark>SQL</mark>: Extracted and aggregated the dataset with precision.
-  -  <mark>Tableau & Excel</mark>: Visualized trends to make findings accessible and actionable.<br>
-  
+<ul>
+  <li><mark>SQL<mark>: Extracted and aggregated the dataset with precision.</li>
+  <li><mark>Tableau & Excel: Visualized trends to make findings accessible and actionable.<mark></li>
+</ul>
+
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
@@ -72,8 +74,10 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 <th><img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br><th>
 
 3.  **Total number of transactions**<br>
-      - **Row:**  <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/> <br>
-      - **Column:**    <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/><br>
+<ul>
+  <li><mark>Row:<mark> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
+  <li><mark>Column:<mark> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
+</ul>
 
 ### DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:** <br>
