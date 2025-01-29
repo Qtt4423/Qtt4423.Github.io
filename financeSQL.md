@@ -145,12 +145,11 @@ Which was the most recent to pay?<br>
 >🌟 **Lowest Loan Recipients:**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
-
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
   <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
 </ul>
-<br>
+
 #####	Who has the most loans?**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Total Transactions by Country**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
