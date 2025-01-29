@@ -10,9 +10,13 @@ Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and nat
 ## Why Should You Pay Attention:
 
 Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
-    -🗺️ Which regions borrow the most?
-    -📉 How do interest rates vary globally?
-    -📊 What’s the connection between repayment and service charges?<br><br>
+
+<ul>
+  <li>🗺️ Which regions borrow the most?</li>
+  <li>📉 How do interest rates vary globally?</li>
+  <li>📊 What’s the connection between repayment and service charges?</li>
+  <li>Fourth item</li>
+</ul><br><br>
 
 ## Key Findings at a Glance 🚀
 <ul>
