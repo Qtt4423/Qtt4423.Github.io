@@ -16,8 +16,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📉 How do interest rates vary globally?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 What’s the connection between repayment and service charges?  
 
-
-
 ## **Key Findings at a Glance** 🚀
 
 #####	**Top Borrowers by loan amount:**
@@ -144,7 +142,9 @@ Which was the most recent to pay?<br>
   <li>🇳🇬 Nigeria</li>
 </ul>
 >🌟 **Lowest Loan Recipients:**<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500">)<br>
+
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
   <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
