@@ -72,7 +72,7 @@ I began by exploring the dataset to understand the distribution of variables and
 ### **Predict Whether a Prod Taken**<br>
 <img src="images/TravelProdTakenCorrelatedVariable.png?raw=true"/><br>
 
-#### **Chi-Squares Analysis** – [R studio Code file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+#### **Chi-Squares Analysis** – [R studio Code file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/Travel%20Project-ProdTakenDV.R)
 <img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
 **Result:**<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
@@ -91,8 +91,8 @@ I began by exploring the dataset to understand the distribution of variables and
   - Deluxe Products get pitched the most but 2nd place in success in sales.
   - Basic Products have the highest (12%) of success in sales. <br>
 
-#### **Stepwise Regression - Best Fit Model:**<br>
-[Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+#### **Stepwise Regression - Best Fit Model:**– [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/1-DVsProdTaken/ProdTakenContinuousStepwise.ipynb)
+
 <img src="images/TravelProdTakenStepWise.png?raw=true"/><br>
 
 #### **Summary**:
@@ -109,11 +109,9 @@ I began by exploring the dataset to understand the distribution of variables and
   - Have a passport, preferably<br><br>
 
 ### **Characteristics of Customers Who Took a Product**<br>
-#### Predict No. of Trip & Person Visiting:
-[R-Studio File](https://github.com/Qtt4423/Trip-and-Travel-Project/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R))  --  [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
+#### Predict No. of Trip & Person Visiting:– [R studio Code file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProTaken-Trip-VisistorsDVsObservation.R) -- [Manova File](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/ProdTakenMANOVA.R)<br>
 
-#### **Stepwise Regression– Best Fit Model:**<br>   
-[Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)
+#### **Stepwise Regression– Best Fit Model:** - [Python- Jupyter Note Book file](https://github.com/Qtt4423/Trip-and-Travel-Project/blob/main/2-DVsTripVisitorProdTaken-1/VisitorOccupationStepWise.ipynb)
 
 **Filter**: Under 10 trips<br>
 **Continuous Variables**: Age, Preferred Property Star, Number of follow-ups and children visiting<br>
@@ -130,8 +128,7 @@ I began by exploring the dataset to understand the distribution of variables and
   - Age range of 37 - 47 and 54 - 56. (On average, take more than 4 trips)
   - High number of children visiting. The more children, the higher the number of trips and visitors.<br><br>
 
-### **Characteristics of Customers Who Did Not Take a Product**   
-[GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
+### **Characteristics of Customers Who Did Not Take a Product** - [GitHub directory folder](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/3-DVsTripVisitorProdNotTaken-0)<br>
 
 #### **Marketing Information:**<br>
  - Are pitched with either Standard, Deluxe, or Super Deluxe products.
@@ -143,8 +140,7 @@ I began by exploring the dataset to understand the distribution of variables and
  - Travel with children. The higher the number of children, the higher the number of trips and visitors.
  - Have an average monthly income of 20-30 thousand.<br><br>
 
-### **Predicting Sale Index** 
-[GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
+### **Predicting Sale Index** - [GitHub Directory File](https://github.com/Qtt4423/Trip-and-Travel-Project/tree/main/4-TravelFocusGroup/SaleIndex) <br>
 
 #### Create Sale Index = Number of Trips * Person Visiting + Prod Taken
 **Highest Sale Index Pivot Table:**<br>
