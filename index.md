@@ -6,22 +6,30 @@
 
 #### [Education Project (Tableau)](/tableau_education)
 <img src="images/DATA PROJECT.jpg?raw=true"/>
-"Education is the most powerful weapon which you can use to change the world."
+"Education is the most powerful weapon which you can use to change the world."   
 — Nelson Mandela
 
 ---
 
+#### [Finance Project (SQL + Graph)](/financeSQL)
+<img src="images/FinanceSQL/IDATitle.jpg?raw=true"/>
+"Loans and debts should not shackle progress, but serve as stepping stones toward prosperity."   
+— Unknown
+
+
+
 #### [Travel Project (Excel, Tableau, R, Python)](/TravelProject)
 <img src="images/TravelProject.jpg?raw=true"/>
-"Airplane travel is nature's way of making you look like your passport photo." 
+"Airplane travel is nature's way of making you look like your passport photo."    
 — Al Gore
 
 ---
 
 ### [Delivery Project (Excel)](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
   <img src="images/iFoodPoster.png?raw=true"/>
-From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
-
+From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>   
+“Great service is not an accident; it’s a well-planned delivery.”
+– Unknown <br>
   [iFood Website](https://www.ifood.com.br/)
 
 ---
