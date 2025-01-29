@@ -118,7 +118,7 @@ Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Result15highestRegionborrower.png" alt = "6Result15highestRegionborrower.png" width ="250"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/6Graph15highestRegionborrower.png" alt = "6Graph15highestRegionborrower.png" width ="300"><br>
 
->  🥇South Asia has the highest total loan amount, followed by Africa.
+>  🥇South Asia has the highest total loan amount, followed by Africa.<br>
 
 #####	What is the maximum, minimum, and average amount owed to the IDA?**<br>
 
@@ -135,7 +135,7 @@ Which was the most recent to pay?<br>
 <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="350"><br><br>
   
->🌟 **Top Loan Recipients:**   
+>🌟 **Top Loan Recipients:**<br>
 <ul>
   <li>🇮🇳 India</li>
   <li>🇧🇩 Bangladesh</li>
@@ -144,7 +144,7 @@ Which was the most recent to pay?<br>
   <li>🇳🇬 Nigeria</li>
 </ul>
 <br>
->🌟 **Lowest Loan Recipients:** 
+>🌟 **Lowest Loan Recipients:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500">)<br>
 <ul>
   <li>Haiti has almost a $0 loan amount.</li>
