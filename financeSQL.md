@@ -135,23 +135,22 @@ Which was the most recent to pay?<br>
 <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="350"><br><br>
   
->🌟 Top Loan Recipients:   
-><ul>
->  <li>🇮🇳 India</li>
->  <li>🇧🇩 Bangladesh</li>
->  <li>🇵🇰 Pakistan</li>
->  <li>🇻🇳 Vietnam</li>
->  <li>🇳🇬 Nigeria</li>
-></ul>
+>🌟 **Top Loan Recipients:**   
+<ul>
+  <li>🇮🇳 India</li>
+  <li>🇧🇩 Bangladesh</li>
+  <li>🇵🇰 Pakistan</li>
+  <li>🇻🇳 Vietnam</li>
+  <li>🇳🇬 Nigeria</li>
+</ul>
 <br>
-><ul>
->  <li>Haiti has almost a $0 loan amount.</li>
->  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
-></ul>
+>🌟 **Lowest Loan Recipients:** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500">)<br>
+<ul>
+  <li>Haiti has almost a $0 loan amount.</li>
+  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
+</ul>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png" alt = "9CODESumLoanAmount_CountryASC.png" width ="500"><br>
-
-
 #####	Who has the most loans?**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Total Transactions by Country**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
