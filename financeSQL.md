@@ -113,7 +113,6 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 <img src="images/FinanceSQL/6CODE15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Result15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Graph15highestRegionborrower.png?raw=true"/><br><br>
-
 > #### 🥇South Asia has the highest total loan amount, followed by Africa.
 
 7.	**What is the maximum, minimum, and average amount owed to the IDA?**<br>
