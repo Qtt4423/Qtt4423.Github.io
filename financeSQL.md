@@ -133,7 +133,7 @@ Which was the most recent to pay?<br>
   
 #####	Loan amount to the IDA by Country**:<br>
 <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="200"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png" alt = "9CODESumLoanAmount_CountryDESC.png" width ="350"><br><br>
   
 >🌟 Top Loan Recipients:   
 ><ul>
