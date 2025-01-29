@@ -76,18 +76,18 @@ I began by exploring the dataset to understand the distribution of variables and
 <img src="images/TravelProdTakenChiSquares.jpg?raw=true"/><br>
 **Result:**<br>
 <img src="images/TravelProdTakenCorrelatedResult.png?raw=true"/><br>
--**Passport**:
+- **Passport**:
  - **81%** of customers did not take a product.
  - **29%** of customers have passports.
  - Most customers with no passport did not take a product.
-- Marital Status:
+- **Marital Status**:
   Married couples have the highest impact
  - Didn't take a product: 41%
  - Taken a product: 7%
-- Designation:
+- **Designation**:
  - Largest Group: 30% Manager who did not take a product.
  - Executive purchased the most product (12%).
-- Product Pitch:
+- **Product Pitch**:
  - Deluxe Products get pitched the most but 2nd place in success in sales.
  - Basic Products have the highest (12%) of success in sales. 
 
