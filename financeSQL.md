@@ -95,38 +95,43 @@ Let's start uncovering the hidden stories behind global loans to understand how 
   <li><strong>Row:<strong/><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
   <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
 </ul>
+    
+###  Payment Timeframe Analysis
+Which was the most recent to pay?<br>
+  <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
+  <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
 ### DUE to IDA (US$) Attribute Analysis:
   **🏆 The Biggest Borrowers:** <br>
 
 At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
 
-4.	**The top 15 highest organization borrowers**<br>
+1.	**The top 15 highest organization borrowers**<br>
 <img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
 
 >  🥇The Ministry of Finance has the highest total loan amount.
 
-5.	**Abbreviate one of the column names so it's easier to write**<br>
+2.	**Abbreviate one of the column names so it's easier to write**<br>
 <img src="images/FinanceSQL/5AbbreviateColumn.png?raw=true"/><br><br>
 
-6.	**List the top 15 highest Region borrowers:**<br>
+3.	**List the top 15 highest Region borrowers:**<br>
 <img src="images/FinanceSQL/6CODE15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Result15highestRegionborrower.png?raw=true"/><br>
 <img src="images/FinanceSQL/6Graph15highestRegionborrower.png?raw=true"/><br><br>
 >  🥇South Asia has the highest total loan amount, followed by Africa.
 
-7.	**What is the maximum, minimum, and average amount owed to the IDA?**<br>
+4.	**What is the maximum, minimum, and average amount owed to the IDA?**<br>
 <img src="images/FinanceSQL/7CODEOwedAvg_Max_Min.png?raw=true"/><br><br>
 
-8.	**📊 Overall Impact of Loans:**<br>
+5.	**📊 Overall Impact of Loans:**<br>
 <ul>
   <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
   <li>Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
 </ul>
   <img src="images/FinanceSQL/8TotalLoan.png?raw=true"/><br><br>
   
-9.	**Loan amount to the IDA by Country**:<br>
+6.	**Loan amount to the IDA by Country**:<br>
   <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
   <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png?raw=true"/><br><br>
 >🌟 Top Loan Recipients:<br>
@@ -142,9 +147,9 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 ><ul>
 >  <li>Haiti has almost a $0 loan amount.</li>
 >  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
-></ul><br>
+></ul>
 
-10.	**Who has the most loans?**  Total Transactions by Country<br>
+7.	**Who has the most loans?**  Total Transactions by Country<br>
   <img src="images/FinanceSQL/10CODEHighestNoLoan.png?raw=true"/><br>
   <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
 India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br><br>
@@ -168,7 +173,7 @@ One country stands out for its steep rates:<br>
   </li>
 </ul><br>
 
-11.	**Service Charge**<br>
+8.	**Service Charge**<br>
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
   <img src="images/FinanceSQL/11ServiceCharge_CountryResult.png?raw=true"/><br>
 <ul>
@@ -176,7 +181,7 @@ One country stands out for its steep rates:<br>
   <li>Africa has the lower Interest rate of 0.09.</li>
 </ul><br>
 
-12.  Service Charge Rate by Country
+9.  Service Charge Rate by Country
      **What are the countries with 0 interest rate:**<br>
   <img src="images/FinanceSQL/12Countries0IntRate.png?raw=true"/><br><br>
     **Top 10 countries with the lowest interest rate:**<br>
@@ -186,10 +191,6 @@ One country stands out for its steep rates:<br>
 Knowing that most countries have an average interest rate under 2.0, I filter the graph to show better variation.<br>
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
 
-###  Payment Timeframe Analysis
-13.  Which was the most recent to pay?<br>
-  <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
-  <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
 ###  CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
 
@@ -203,13 +204,13 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   The Padma Bridge Project emerges as a powerhouse, with the highest active Original Principal loan amount in the region.</li>
 </ul>
 
-14.	**How many loans do St. Kitts and Nevis have?**
+1.	**How many loans do St. Kitts and Nevis have?**
   <img src="images/FinanceSQL/15StKittsNoLoan.png?raw=true"/><br><br>
   
-15.	**How many loans does Africa have?**
+2.	**How many loans does Africa have?**
   <img src="images/FinanceSQL/16AfricaNoLoan.png?raw=true"/><br><br>
   
-16.	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
+3.	**Return all column groups by country with a Service Charge Rate greater than 1 for St. Kitts and Nevis**
   <img src="images/FinanceSQL/17StKittsServChrgGreater1.png?raw=true"/><br>
 
   <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
@@ -240,7 +241,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_RepaidIDABar.png?raw=true"/><br>
   <img src="images/FinanceSQL/17StKittsServChrgGreater1_BorrowerObligationBar.png?raw=true"/><br>
 
-17.	**Return selected columns group by Project Name and Credit Status for St. Kitts and Nevis with Service Charge Rate greater than 1**
+4.	**Return selected columns group by Project Name and Credit Status for St. Kitts and Nevis with Service Charge Rate greater than 1**
   <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
   Only the AG Dev Support Project has a service charge rate greater than 1 in St. Kitts and Nevis.<br>
 
@@ -258,7 +259,7 @@ North Macedonia, the former Yugoslav Republic of:<br>
   <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png.png?raw=true"/><br><br>
 
 ###Project Attribute Analysis
-18.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
+1.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
 
 
 
