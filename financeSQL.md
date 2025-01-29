@@ -155,7 +155,8 @@ Which was the most recent to pay?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10CODEHighestNoLoan.png" alt = "10CODEHighestNoLoan.png" width ="350"><br>
 <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
   
-**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br>
+>**India has the highest number of loans, while World and International Finance Corporation has the lowest amount.**<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/10ResultHighestNoLoan.png" alt = "10ResultHighestNoLoan.png" width ="450">
 
 ###  **The Service Charge Rate Puzzle** 💡:
@@ -177,8 +178,8 @@ Which was the most recent to pay?<br>
 
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="400"><br>
--	St. Kitts and Nevis has the highest Interest rate of **3.68**.<
--	Africa has the lowest interest rate of **0.09**.
+-	**St. Kitts and Nevis** has the highest Interest rate of **3.68**.
+-	**Africa** has the lowest interest rate of **0.09**.
 
 #####	Service Charge Rate by Country  
 ######	**Countries receive 0 interest rate:**<br>
