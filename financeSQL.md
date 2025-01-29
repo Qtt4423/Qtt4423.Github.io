@@ -139,10 +139,10 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 ></ul>
 <img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png?raw=true"/><br><br>
 
-<ul>
+><ul>
 >  <li>Haiti has almost a $0 loan amount.</li>
 >  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
-</ul><br>
+></ul><br>
 
 10.	**Who has the most loans?**  Total Transactions by Country<br>
   <img src="images/FinanceSQL/10CODEHighestNoLoan.png?raw=true"/><br>
