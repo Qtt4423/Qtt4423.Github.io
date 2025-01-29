@@ -30,6 +30,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
           India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
     </ul>
   </li>
+    
   <li><strong>Interest Rates:<strong/>
     <ul>
       <li>St. Kitts and Nevis: 
@@ -38,12 +39,14 @@ Whether you’re planning for yourself, your family, or a nation, these insights
           The lowest average interest rate is 0.09% (2,891 loans).</li>
     </ul>
   </li>
+    
   <li><strong>Service Charge Rate Correlations:<strong/>
     <ul>
       <li>Higher repayments correlate with higher service charge rates.</li>
       <li>Lower borrower obligations tend to have lower rates.</li>
     </ul>
   </li>
+    
   <li><strong>Project-Specific Insights:<strong/>
     <ul>
       <li>St. Kitts and Nevis: 
@@ -59,7 +62,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
     </ul>
   </li>
 </ul>
-
+<br>
 
 
 ## The Data: [Link](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
