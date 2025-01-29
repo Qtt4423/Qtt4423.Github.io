@@ -121,11 +121,27 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 8.	**📊 Overall Impact of Loans:**<br>
 <ul>
   <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
-  <li>•	Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
+  <li>Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
 </ul>
   <img src="images/FinanceSQL/8TotalLoan.png?raw=true"/><br>
-
   
+9.	**Loan amount to the IDA by Country:<br>
+  🌟 Top Loan Recipients:
+
+  <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
+  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png?raw=true"/><br>
+<ul>
+  <li>🇮🇳 India</li>
+  <li>🇧🇩 Bangladesh</li>
+  <li>🇵🇰 Pakistan</li>
+  <li>🇻🇳 Vietnam</li>
+  <li>🇳🇬 Nigeria</li>
+</ul>
+  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png?raw=true"/><br>
+<ul>
+  <li>Haiti has almost a $0 loan amount.</li>
+  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
+</ul>
 
 
     
