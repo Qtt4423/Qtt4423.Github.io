@@ -91,8 +91,8 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 
 3.  **Total number of transactions**<br>
 <ul>
-  <li><mark>Row:<mark><br> !<img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
-  <li><mark>Column:<mark><br> !<img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
+  <li><mark>Row:<mark><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
+  <li><mark>Column:<mark><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
 </ul>
 
 ### DUE to IDA (US$) Attribute Analysis:
@@ -107,8 +107,27 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 > #### 🥇The Ministry of Finance has the highest total loan amount.
 
 5.	**Abbreviate one of the column names so it's easier to write**<br>
-<img src="images/FinanceSQL/4CODE_15Highest Borrower.png?raw=true"/><br>
-<img src="images/FinanceSQL/4Highest Borrower15.png?raw=true"/><br>
+<img src="images/FinanceSQL/5AbbreviateColumn.png?raw=true"/><br><br>
+
+6.	**List the top 15 highest Region borrowers:**<br>
+<img src="images/FinanceSQL/6CODE15highestRegionborrower.png?raw=true"/><br>
+<img src="images/FinanceSQL/6Result15highestRegionborrower.png?raw=true"/><br>
+<img src="images/FinanceSQL/6Graph15highestRegionborrower.png?raw=true"/><br><br>
+
+> #### 🥇South Asia has the highest total loan amount, followed by Africa.
+
+7.	**What is the maximum, minimum, and average amount owed to the IDA?**<br>
+<img src="images/FinanceSQL/7CODEOwedAvg_Max_Min.png?raw=true"/><br><br>
+
+8.	**📊 Overall Impact of Loans:**<br>
+<ul>
+  <li>Cumulative Loan Amount: Over $25 trillion, reflecting decades of developmental investments.</li>
+  <li>•	Snapshot Loan Total: Nearly $210 billion in the most recent data—a significant portion of global financial aid.</li>
+</ul>
+  <img src="images/FinanceSQL/8TotalLoan.png?raw=true"/><br>
+
+  
+
 
     
   - 👉🏼 High School Graduation Performance?<br>
