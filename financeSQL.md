@@ -128,29 +128,29 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
   
 9.	**Loan amount to the IDA by Country**:<br>
   <img src="images/FinanceSQL/9SumLoanAmount_CountryMap.png?raw=true"/><br>
-  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png?raw=true"/><br>
-🌟 Top Loan Recipients:<br>
+  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryDESC.png?raw=true"/><br><br>
+>🌟 Top Loan Recipients:<br>
+><ul>
+>  <li>🇮🇳 India</li>
+>  <li>🇧🇩 Bangladesh</li>
+>  <li>🇵🇰 Pakistan</li>
+>  <li>🇻🇳 Vietnam</li>
+>  <li>🇳🇬 Nigeria</li>
+></ul>
+<img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png?raw=true"/><br><br>
+
 <ul>
-  <li>🇮🇳 India</li>
-  <li>🇧🇩 Bangladesh</li>
-  <li>🇵🇰 Pakistan</li>
-  <li>🇻🇳 Vietnam</li>
-  <li>🇳🇬 Nigeria</li>
-</ul>
-  <img src="images/FinanceSQL/9CODESumLoanAmount_CountryASC.png?raw=true"/><br>
-<ul>
-  <li>Haiti has almost a $0 loan amount.</li>
-  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
+>  <li>Haiti has almost a $0 loan amount.</li>
+>  <li>Costa Rica has had a big jump of $82,407 in loan amounts.</li>
 </ul><br>
 
 10.	**Who has the most loans?**  Total Transactions by Country<br>
   <img src="images/FinanceSQL/10CODEHighestNoLoan.png?raw=true"/><br>
-  <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br>
-India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br>
+  <img src="images/FinanceSQL/10MapHighestNoLoan.png?raw=true"/><br><br>
+India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br><br>
   <img src="images/FinanceSQL/10ResultHighestNoLoan.png?raw=true"/><br><br>
 
-###💡 The Interest Rate Puzzle:<br>
-
+###  The Interest Rate Puzzle 💡:<br>
 One country stands out for its steep rates:<br>
 <ul>
   <li>St. Kitts and Nevis:
@@ -160,7 +160,7 @@ One country stands out for its steep rates:<br>
       <li>💡 Insight: Despite the high rate, repayment amounts exceed disbursed funds—a testament to strategic financial management.</li>
     </ul>
   </li>
-  <li>•	Africa:
+  <li>	Africa:
     <ul>
       <li>🌍 Lowest average interest rate: 0.09% across 2,891 loans.</li>
       <li>🤔 Observation: Low rates help balance the repayment burden for developing nations.</li>
@@ -186,13 +186,12 @@ One country stands out for its steep rates:<br>
 Knowing that most countries have an average interest rate under 2.0, I filter the graph to show better variation.<br>
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
 
-###Payment Timeframe Analysis
-
+###  Payment Timeframe Analysis
 13.  Which was the most recent to pay?<br>
   <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
   <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
-###CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
+###  CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
 
 **Geospatial Data Analysis**🎯 Project Insights That Matter:<br>
 <ul>
