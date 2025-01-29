@@ -18,7 +18,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li>Fourth item</li>
 </ul>
 
-##  Key Findings at a Glance 🚀<br>
+##  Key Findings at a Glance 🚀
 
 <ul>
   <li><strong>Top Borrowers by loan amount:<strong/>
@@ -60,7 +60,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
 
 ##  The Data
 
-[Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
+![Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br>
 
