@@ -28,9 +28,7 @@ Whether you’re planning for yourself, your family, or a nation, these insights
           South Asia, Africa</li>
       <li>Country: 
           India, Bangladesh, Pakistan, Vietnam, Nigeria</li>
-    </ul>
-  </li>
-    
+    </ul>    
   <li><strong>Interest Rates:<strong/>
     <ul>
       <li>St. Kitts and Nevis: 
@@ -38,15 +36,11 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>Africa:🌍 
           The lowest average interest rate is 0.09% (2,891 loans).</li>
     </ul>
-  </li>
-    
   <li><strong>Service Charge Rate Correlations:<strong/>
     <ul>
       <li>Higher repayments correlate with higher service charge rates.</li>
       <li>Lower borrower obligations tend to have lower rates.</li>
     </ul>
-  </li>
-    
   <li><strong>Project-Specific Insights:<strong/>
     <ul>
       <li>St. Kitts and Nevis: 
@@ -60,8 +54,6 @@ Whether you’re planning for yourself, your family, or a nation, these insights
       <li>India: 
           Tops in credits (69,805).</li>
     </ul>
-  </li>
-</ul>
 <br>
 
 
