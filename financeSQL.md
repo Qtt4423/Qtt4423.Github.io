@@ -91,8 +91,8 @@ Let's start uncovering the hidden stories behind global loans to understand how 
 
 3.  **Total number of transactions**<br>
 <ul>
-  <li><mark>Row:<mark><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
-  <li><mark>Column:<mark><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
+  <li><strong>Row:<strong/><br> <img src="images/FinanceSQL/3CODETotalCount.png?raw=true"/></li>
+  <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
 </ul>
 
 ### DUE to IDA (US$) Attribute Analysis:
