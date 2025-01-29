@@ -177,11 +177,8 @@ Which was the most recent to pay?<br>
 
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/11ServiceCharge_CountryResult.png" alt = "11ServiceCharge_CountryResult.png" width ="400"><br>
-  
-<ul>
-  <li>St. Kitts and Nevis has the highest Interest rate of **3.68**.</li>
-  <li>Africa has the lower Interest rate of **0.09**.</li>
-</ul>
+-	St. Kitts and Nevis has the highest Interest rate of **3.68**.<
+-	Africa has the lowest interest rate of **0.09**.
 
 #####	Service Charge Rate by Country  
 ######	**Countries receive 0 interest rate:**<br>
