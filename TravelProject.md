@@ -1,6 +1,6 @@
 <img src="images/TravelProject.jpg?raw=true"/>
 
-## **The Algorithm of Escape: A Statistical Dive from Passport to Crafting Perfect Vacations Packages**
+# **The Algorithm of Escape:<br> A Statistical Dive from Passport to Crafting Perfect Vacations Packages**
  
 ---
 **Background:**<br>
