@@ -76,12 +76,12 @@
 
 #####	Return all of the table
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
+<img src="images/FinanceSQL/1CODE_DataOverView.png? width =600 height =300"/>
+<img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
       
 #####	Return the first 5 rows of the table, but only the borrower & due to IDA column<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
+<img src="images/FinanceSQL/2CODE_OverView5Row.png?raw=true"/>
+<img src="images/FinanceSQL/2OverView5Row.png?raw=true"/><br>
       
 #####	Total number of transactions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Row:**<br>
@@ -92,8 +92,8 @@
 ### **Payment Timeframe Analysis**
 
 Which was the most recent to pay?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
+<img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
+<img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
 ### **DUE to IDA (US$) Attribute Analysis:**
 
