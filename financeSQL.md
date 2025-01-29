@@ -17,8 +17,10 @@ Whether you’re planning for yourself, your family, or a nation, these insights
   <li>📊 What’s the connection between repayment and service charges?</li>
   <li>Fourth item</li>
 </ul>
+<br>
 
 ##  Key Findings at a Glance 🚀
+
 <ul>
   <li><strong>Top Borrowers by loan amount:<strong/>
     <ul>
@@ -53,15 +55,18 @@ Whether you’re planning for yourself, your family, or a nation, these insights
           Dominates in grants (12,302).</li>
       <li>India: 
           Tops in credits (69,805).</li>
-    </ul><br>
+    </ul>
+    <br>
 
 
 ##  The Data
+
 [Link to Data Set](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)<br>
 
 The International Development Association (IDA) is crucial in aiding the world’s poorest nations. The dataset analyzed comes from the World Bank’s IDA Statement of Credits, Grants, and Guarantees - Historical Data and offers detailed insights into global lending practices.<br>
 
 ## Tools & Techniques 🛠️:
+
 <ul>
   <li>SQL: 
       Extracted and aggregated the dataset with precision.</li>
@@ -72,12 +77,14 @@ The International Development Association (IDA) is crucial in aiding the world�
 Let's start uncovering the hidden stories behind global loans to understand how they shape economic growth and social development together! 🌐✨<br>
 
 ---
+
+## The Analysis and Commentary:
+
 <br>
 
-## The Analysis and Commentary:<br>
+### Over View of the data
 
-### Over View of the data<br>
-
+<br>
 1.  Return all of the table<br>
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/><br>
@@ -93,12 +100,15 @@ Let's start uncovering the hidden stories behind global loans to understand how 
   <li><strong>Column:<strong/><br> <img src="images/FinanceSQL/3CODETotalCountColumn.png?raw=true"/></li>
 </ul>
     <br>
+    
 ###  Payment Timeframe Analysis
+
 Which was the most recent to pay?<br>
   <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br>
   <img src="images/FinanceSQL/Tanzania.jpg?raw=true"/><br><br>
 
 ### DUE to IDA (US$) Attribute Analysis:
+
   **🏆 The Biggest Borrowers:** <br>
 
 At the forefront, The Ministry of Finance leads with the highest total loan amount, steering resources to tackle financial and developmental challenges. Regionally, South Asia dominates, with Africa following closely, reflecting their significant development needs.
@@ -152,7 +162,8 @@ At the forefront, The Ministry of Finance leads with the highest total loan amou
 India has the highest number of loans, while World and International Finance Corporation has the lowest amount.<br><br>
   <img src="images/FinanceSQL/10ResultHighestNoLoan.png?raw=true"/><br><br>
 
-###  The Interest Rate Puzzle 💡:<br>
+###  The Interest Rate Puzzle 💡:
+
 One country stands out for its steep rates:<br>
 <ul>
   <li>St. Kitts and Nevis:
@@ -170,7 +181,7 @@ One country stands out for its steep rates:<br>
   </li>
 </ul><br>
 
-1.	**Service Charge**<br>
+1.	Service Charge<br>
   <img src="images/FinanceSQL/11ServiceCharge_Country.png?raw=true"/><br>
   <img src="images/FinanceSQL/11ServiceCharge_CountryResult.png?raw=true"/><br>
 <ul>
@@ -189,7 +200,9 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   <img src="images/FinanceSQL/14ServiceCharge_Country_Und2Map.png?raw=true"/><br><br>
 
 
-###  CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
+###  CRITICAL INFLUENCER ASSESSMENT Analysis:
+
+<br>
 
 **Geospatial Data Analysis**🎯 Project Insights That Matter:<br>
 **St. Kitts and Nevis**
@@ -251,6 +264,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 >  <li>59% of Projects in Macedonia have a high interest rate of 3.4.</li>
 >  <li>70% of Projects in North Macedonia have a high interest rate of 3.39</li>
 ></ul>
+<br>
 
 Macedonia, the former Yugoslav Republic of:<br>
   <img src="images/FinanceSQL/18MacedoniaProjectCreditStatusTable.png?raw=true"/><br>
@@ -261,6 +275,7 @@ North Macedonia, the former Yugoslav Republic of:<br>
   <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png?raw=true"/><br><br>
 
 ###  Project Attribute Analysis
+
 1.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
   <img src="images/FinanceSQL/19CODEHighestPrincipalProject.png?raw=true"/><br>
   <img src="images/FinanceSQL/19HighestPrincipalProjectMAP.png?raw=true"/><br><br>
@@ -277,6 +292,7 @@ SAC II, followed by IN: Elementary Education (SAC II) Project, ranked the highes
   <img src="images/FinanceSQL/20SGRAPHPrincipleProjectREGION.png?raw=true"/><br><br>
   
 ###  Credit Status Analysis
+
 1.	**Top 15 projects** for countries with the highest loan amount to the IDA with active credit status in India, Bangladesh, Pakistan, and Vietnam<br>
   <img src="images/FinanceSQL/21CODEActiveCreditLoan.png?raw=true"/><br>
   <img src="images/FinanceSQL/21PIEChartActiveCreditLoan.png?raw=true"/><br><br>
@@ -284,6 +300,7 @@ Bangladesh has the highest total active Original Principal, while India has the 
   <img src="images/FinanceSQL/21BarChartActiveCreditLoan.png?raw=true"/><br><br>
 
 ###  🏗️ Types of Loans Across the Globe:
+
 <ul>
   <li>Guarantees: 🇰🇪 Kenya leads with 1,248 loans.</li>
   <li>Grants: 🇦🇫 Afghanistan dominates with 12,302 loans.</li>
@@ -301,12 +318,13 @@ Credit Number IDs starting with
 
  
 ---
-<br>
 
-## The Bigger Picture:<br>
+## The Bigger Picture:
+
 This analysis is more than just numbers—it's a window into how nations grow, rebuild, and thrive. Behind every loan lies a story of ambition, resilience, and innovation.<br>
 
-## Re-emphasizing Key Takeaways 🌟📊:<br>
+## Re-emphasizing Key Takeaways 🌟📊:
+
 <ol>
   <li>Top Borrowers & Regions:
     <ul>
@@ -330,6 +348,7 @@ This analysis is more than just numbers—it's a window into how nations grow, r
 These findings 💡highlight the significance of strategic financial planning to manage repayment burdens and secure favorable loan terms👏, offering valuable insights for 🌍 policymakers and decision-makers✅. <br>
 
 ## Where Do We Go From Here 🚀✨:
+
   - 🔜 👌Use these insights to inform financial and policy decisions, negotiate smarter loan terms, and promote sustainable global🌍 growth.<br>
   - 🔜 ✍️ Dive deeper into how financing drives projects that change lives.<br>
   - 🔜 🗨️ Engage & Share your takeaways, 💡ideas for further analysis.<br>
