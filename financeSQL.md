@@ -9,7 +9,7 @@ Following the COVID-19 pandemic 😷, global upheavals such as wars 🪖 and nat
 
 ## Why Should You Pay Attention:
 
-Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:<br>
+Whether you’re planning for yourself, your family, or a nation, these insights into 1,379,049 loans with 30 attributes will inspire smarter decisions. Dive into this story of global lending 📊to discover:
 
 <ul>
   <li>🗺️ Which regions borrow the most?</li>
