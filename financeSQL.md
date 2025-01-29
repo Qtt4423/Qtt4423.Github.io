@@ -78,7 +78,7 @@
 
 <img src="images/FinanceSQL/1CODE_DataOverView.png?raw=true"/>
 Resize
-<img src="images/FinanceSQL/1CODE_DataOverView.png?width =300 height =150"/><br>
+<img src="images/FinanceSQL/1CODE_DataOverView.png" alt = "1CODE_DataOverView.png" width ="300"><br>
 
 <img src="images/FinanceSQL/1DataOverView.png?raw=true"/>
 
