@@ -195,7 +195,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
 ###  CRITICAL INFLUENCER ASSESSMENT Analysis:<br>
 
 **Geospatial Data Analysis**🎯 Project Insights That Matter:<br>
-####  St. Kitts and Nevis
+**St. Kitts and Nevis**
 <ul>
   <li>St. Kitts and Nevis:<br>
   The AG Dev Support Project is the sole project with a service charge rate >1, spotlighting a unique financial model.</li>
@@ -249,7 +249,7 @@ Knowing that most countries have an average interest rate under 2.0, I filter th
   <img src="images/FinanceSQL/18StKittsProjectCreditStatusTable.png?raw=true"/><br>
   Only the AG Dev Support Project has a service charge rate greater than 1 in St. Kitts and Nevis.<br>
 
-####  Macedonia and North Macedonia
+**Macedonia and North Macedonia**
 ><ul>
 >  <li>59% of Projects in Macedonia have a high interest rate of 3.4.</li>
 >  <li>70% of Projects in North Macedonia have a high interest rate of 3.39</li>
@@ -263,66 +263,77 @@ North Macedonia, the former Yugoslav Republic of:<br>
   <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusTABLE.png?raw=true"/><br>
   <img src="images/FinanceSQL/18NorthMacedoniaProjectCreditStatusGRAPH.png?raw=true"/><br><br>
 
-###Project Attribute Analysis
+###  Project Attribute Analysis
 1.	**Top 20 Highest Original Principal Amount (US$) Project:**<br>
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br>
+  <img src="images/FinanceSQL/19CODEHighestPrincipalProject.png?raw=true"/><br>
+  <img src="images/FinanceSQL/19HighestPrincipalProjectMAP.png?raw=true"/><br><br>
   
-  - 👉🏼 High School Graduation Performance?<br>
-    <img src="images/HighSchool.jpg?raw=true"/>
-    - Bottom 10 HS Grad %: **Springfield Public Day High School** leads the chart<br>
-    - The highest % of the bottom 10 High School graduates is 19%. 
- <img src="images/Bottom 10 HS.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/MassStatBottom10HSGrad/Bottom10HSGrad)<br><br>
+SAC II, followed by IN: Elementary Education (SAC II) Project, ranked the highest in the original principal amount.<br><br>
 
-  - 👉🏼 Are there meaningful regional differences within MA? <br>
-   <img src="images/ILoveMath.jpg?raw=true"/>
-      4th grade Math (14/53 or 26% district is under 50%)<br>
-        <img src="images/4th Grade Math.png?raw=true"/><br><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/4thGradeMath_17375968453200/4thGradeMath)
-    
-  - 👉🏼 What contributes to differences in schools' outcomes?<br>
-    <img src="images/Score.jpg?raw=true"/>
-      Both are significant since the P value is close to 0. Number of Observations: 340<br>
-      - **Class size**: 
-         R2= 0.189728 -> explain almost 19%<br>
-       <img src="images/College Attendance vs Class Size.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsClassSize_17375967565970/CollegeAttendancevsClassSize)<br><br>
-      - **Economic Disadvantage**:
-        <img src="images/College Attendance vs Econ Disadvtg.png?raw=true"/><br>
- [Link to Interactive Graph](https://public.tableau.com/app/profile/quy.tran4833/viz/CollegeAttendancevsEconDisadvtg/CollegeAttendancevsEconDisadvtg)    
-         R2= 0.379253 -> Explain nearly 37%<br>
-       ==> Economic Disadvantage % has a higher (negative) impact on College Attendance than Class Size.<br>    
- 
-   - 🏆 Which schools do well despite limited resources?<br>
-   <img src="images/College Graduation.JPG?raw=true"/><br>  
-      - Measure by high % disadvantage and large classroom size with high College Attendance %:<br>
-      - 🥇 Match Charter Public School<br>
-      - 🥇 Quincy Upper School<br>
+2.	**Return all columns for SAC II and Elementary Education (SSA II) project**<br>
+<ul>
+  <li>South Asia has a higher SAC II loan amount than Africa. </li>
+  <li>•	Meanwhile, Africa has a higher original principal amount than the loan amount. </li>
+</ul>
+  <img src="images/FinanceSQL/20SACII_ElementaryEdSSAIIProjectRESULT.png?raw=true"/><br>
+  <img src="images/FinanceSQL/20SGRAPHPrincipleProjectCOUNTRY.png?raw=true"/><br>
+  <img src="images/FinanceSQL/20SGRAPHPrincipleProjectREGION.png?raw=true"/><br><br>
+  
+###  Credit Status Analysis
+1.	**Top 15 projects** for countries with the highest loan amount to the IDA with active credit status in India, Bangladesh, Pakistan, and Vietnam<br>
+  <img src="images/FinanceSQL/21CODEActiveCreditLoan.png?raw=true"/><br>
+  <img src="images/FinanceSQL/21PIEChartActiveCreditLoan.png?raw=true"/><br><br>
+Bangladesh has the highest total active Original Principal, while India has the highest total active loan amount due. BD: The Padma Bridge project has a significantly higher total active Original Principal loan amount than other projects.<br>
+  <img src="images/FinanceSQL/21BarChartActiveCreditLoan.png?raw=true"/><br><br>
+
+###  🏗️ Types of Loans Across the Globe:
+<ul>
+  <li>Guarantees: 🇰🇪 Kenya leads with 1,248 loans.</li>
+  <li>Grants: 🇦🇫 Afghanistan dominates with 12,302 loans.</li>
+  <li>Credits: 🇮🇳 India takes the crown with 69,805 loans.</li>
+</ul>
+
+2.	**List the countries with the highest count of loans for each of the following "Guarantees," "Grants," or "Credits"
+Credit Number IDs starting with
+<ul>
+  <li>Guarantees: IDAB and IDAG </li>
+  <li>Grants: IDAD, IDAH and IDAE </li>
+  <li>Credits: the rest </li>
+</ul>
+  <img src="images/FinanceSQL/23CountryLoanTypeLoanCount.png?raw=true"/><br><br>
+
  
 ---
-**Concise Summary:**
-    Even with a $306 billion annual budget, the 1 million students in Massachusetts schools performances are:<br>
-  - ✅ % of College Attendance had a more substantial negative impact by Economic Disadvantage % than Class Size<br>
-         👏 Schools with high economic disadvantage and small classroom sizes show they put in the effort. Unfortunately, their efforts haven’t translated to a desirable college attendance percentage. It’s worth further investigating and assisting to address their struggle.<br>
-  - ✅26% of schools fall under 50% of 4th Grade Math with P + A grade passing.<br>
-  - ✅ Hall of Fame: Match Charter Public School, Quincy Upper School, Sherborn Elementary School<br>
-  - ✅ Struggling Leader: Springfield Public Day High School, Tec Connections Academy Commonwealth Elementary School.<br>
+##  The Bigger Picture:<br>
+This analysis is more than just numbers—it's a window into how nations grow, rebuild, and thrive. Behind every loan lies a story of ambition, resilience, and innovation.<br><br>
 
-**Call to Action:**
-  - 🔜 Are you wondering how schools in your state perform? Contact me. ✍️ <br>
-  - 🔜 If you are involved in a project that requires similar analysis.  Let's collaborate.<br>
-  - 🔜 Drop your comments💬, thoughts💡, and questions⁉️ for interesting further analysis ideas<br>
+##  Re-emphasizing Key Takeaways 🌟📊:<br>
+<ol>
+  <li>Top Borrowers & Regions:
+    <ul>
+      <li>The Ministry of Finance holds the highest total loan amount.</li>
+      <li>South Asia leads regional allocations, followed by Africa.</li>
+      <li>🇮🇳 India, 🇧🇩 Bangladesh, and 🇵🇰 Pakistan top the list of loan recipients.</li>
+    </ul>
+  </li>
+  <li>High-Interest Outlier:
+    <ul>
+      <li>St. Kitts and Nevis faces the highest interest rate of 3.68%, with 165 loans totaling $32M disbursed and $40M repaid.</li>
+    </ul>
+  </li>
+  <li>Correlations in Repayment & Rates:
+    <ul>
+      <li>Positive correlation: Higher repayments are linked to higher service charge rates.</li>
+      <li>Negative correlation: Larger borrower obligations correspond to lower service charge rates.</li>
+    </ul>
+  </li>
+</ol>
+These findings 💡highlight the significance of strategic financial planning to manage repayment burdens and secure favorable loan terms👏, offering valuable insights for 🌍 policymakers and decision-makers✅. <br><br>
+
+##  Where Do We Go From Here 🚀✨:
+  - 🔜 👌Use these insights to inform financial and policy decisions, negotiate smarter loan terms, and promote sustainable global🌍 growth.<br>
+  - 🔜 ✍️ Dive deeper into how financing drives projects that change lives.<br>
+  - 🔜 🗨️ Engage & Share your takeaways, 💡ideas for further analysis.<br>
+  - 🔜 Collaborate with Me: Reach out for collaboration or work opportunities—I’m ready to dive into data with you! 🌟<br>
   
 <img src="images/FloralBorder.JPG?raw=true"/>
