@@ -34,7 +34,7 @@ From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
 
 ---
 
-#### [Health Care Project (SQL)](/HealthCareSQL.pdf)
+#### [Health Care Project (SQL)]([/HealthCareSQL.pdf](https://github.com/Qtt4423/Qtt4423.Github.io/blob/master/HealthCareSQL.pdf))
 <img src="images/HealthSQL/HealthSQL.jpg?raw=true"/>
 “Your health account is like your bank account. The more you put in, the more you can take out.”   <br>   
 — Unknown
