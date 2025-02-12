@@ -34,10 +34,10 @@ From Data to Doorsteps: Insights to Smarter Delivery Marketing Strategy <br>
 
 ---
 
-#### [Health Care Project (SQL)](/TravelProject)
+#### [Health Care Project (SQL)](https://github.com/Qtt4423/Qtt4423.Github.io/blob/master/HealthCareSQL.pdf)
 <img src="images/HealthSQL/HealthSQL.jpg?raw=true"/>
-"Airplane travel is nature's way of making you look like your passport photo."  <br>   
-— Al Gore
+“Your health account is like your bank account. The more you put in, the more you can take out.”   <br>   
+— Unknown
 
 ---
 
