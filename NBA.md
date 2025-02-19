@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I sourced my dataset from [Basketball-Reference](https://www.basketball-reference.com/leagues/NBA_2025_totals.html#totals_stats). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It includes 33 columns and 633 rows detailing player and team performance metrics such as points made, assists, rebounds, and shooting percentages. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This rich dataset was ideal for my project because it provided a comprehensive view of players' contributions throughout the season.<br>
-    <img src="images/NBA/3KeyDefinition.png?raw=true"/>
+    <img src="images/NBA/3KeyDefinition.png?raw=true"/><br><br>
     <img src="images/NBA/4PositionDefinition.png?raw=true"/>
 <br><br>
 
