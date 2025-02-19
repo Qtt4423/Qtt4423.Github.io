@@ -3,6 +3,9 @@
 # "Dunking The Data: <br>A Tableau Showcase of 🏀 NBA Insights"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024-2025 Season**
 <br><br><br>
+
+---
+
 ## **Background:**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On a recent trip to San Francisco, in addition to visiting the Oracle campus, I had an unforgettable experience at San Francisco's pier during the Chinese New Year parade celebrations. Imagine this: a renowned NBA player engaging in a friendly shooting contest with a local at the bustling pier. It struck me how sports unite people, igniting excitement and stirring emotions. Later that day, I was captivated by Michael Jordan's commentary, reliving iconic moments that define the NBA. This blend of inspiration and nostalgia-fueled my desire to dive into the world of NBA statistics, leading me to my latest project: a data analysis of the 2024-2025 NBA season using Tableau.
 
@@ -29,6 +32,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 [**The Tableau Story Link**](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBA/AnalysisforNBA122024?publish=yes)<br>
 
 ---
+
 ## **The Analysis Process and Commentary:**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My analysis began with cleaning the data to ensure accuracy and consistency. Once cleaned, I transformed the data into various visual formats using Tableau. I created bubble graphs, heat maps, and tree maps to illustrate key statistics effectively. I was surprised to discover that the team with the highest total points also excelled in three-pointers, challenging my initial belief that star players solely drive success.<br><br>
 
@@ -72,7 +76,9 @@ This heat map highlights which teams excel at three-point shooting.<br>
   - The only power forward, **Jayson Tatum**, ranks second with **528** points, achieving **35.8%** on all attempts.
   - Point guard **Stephen Curry** follows closely in fourth place with **503** points and a success rate of **38.9%**.<br>
 <br><br>
+
 ---
+
 ## **Main Takeaways:**
   - 🏀A great team is more than just a collection of star players; it requires collaboration across different positions.
   - 🏀Scoring is vital, but contributions in assists and rebounds are equally crucial for overall team success.
