@@ -43,7 +43,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 &nbsp;&nbsp;&nbsp;&nbsp;🏀&nbsp;&nbsp;This visualization reveals that the **Denver Nuggets** led all teams in total points scored. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏀&nbsp;&nbsp;Individual performances stood out, with **Shai Gilgeous-Alexander** scoring the most at 1,696 points, **Anthony Edwards** at 1,460, and **Nikola Jokic** at 1,458. <br>
     <img src="images/NBA/6TopScores.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This visual showcases team performance and highlights the standout players who make a difference.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp; This visual showcases team performance and highlights the standout players who make a difference.<br>
 
 ### **2. Team Players Bubble Graph:**
   <img src="images/NBA/7PlayersSpotLight.png?raw=true"/><br>
