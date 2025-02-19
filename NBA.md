@@ -26,7 +26,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
     <img src="images/NBA/4PositionDefinition.png?raw=true"/>
 <br><br>
 
-[**The Tableau Story**](https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes)<br>
+[**The Tableau Story**]([https://public.tableau.com/app/profile/quy.tran4833/viz/EducationMassSchoolDashBoard/Dashboard1?publish=yes](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBA/AnalysisforNBA122024?publish=yes))<br>
 
 ---
 ## **The Analysis Process and Commentary:**
