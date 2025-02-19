@@ -56,10 +56,10 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 #### **Team⛹️⛹️‍♂️⛹️‍♀️:**
 This heat map highlights which teams excel at three-point shooting.<br>
     <img src="images/NBA/11-3PointersHeatMap.png?raw=true"/><br>
-  - The Dallas Mavericks and Memphis Grizzlies present contrasting performances, illustrating the highs and lows of shooting accuracy. The Dallas Mavericks achieved a perfect score of 1 in the center position, completing their single attempt. Meanwhile, the Memphis Grizzlies recorded no 3-pointers from their small forward position.
-  - The Cleveland Cavaliers and Golden State Warriors scored 0 in the center position.
-  - Notably, the Denver Nuggets consistently succeed across positions, with several players achieving impressive shooting percentages from 36% to 42%.
-  - The centers for the Sacramento Kings and New York Knicks earned a notable score of 43% in 3-point attempts.<br>
+  - The **Dallas Mavericks** and **Memphis Grizzlies** showcase differing performances that highlight the extremes of shooting accuracy. The **Dallas Mavericks** secured a flawless score of 1 in the center position, converting their only attempt. In contrast, the **Memphis Grizzlies** missed all 3-pointers from their small forward position.
+  - The **Cleveland Cavaliers** and the **Golden State Warriors** scored 0 in the center position.
+  - Notably, the **Denver Nuggets** consistently succeed across positions, with several players achieving impressive shooting percentages of 36% to 42%.
+  - The centers for the **Sacramento Kings** and **New York Knicks** earned a notable score of 43% in 3-point attempts.<br>
     <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
 
 #### **⛹️‍♀️Players:**
