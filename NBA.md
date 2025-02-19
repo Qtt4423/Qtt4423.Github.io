@@ -33,7 +33,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My analysis began with cleaning the data to ensure accuracy and consistency. Once cleaned, I transformed the data into various visual formats using Tableau. I created bubble graphs, heat maps, and tree maps to illustrate key statistics effectively. I was surprised to discover that the team with the highest total points also excelled in three-pointers, challenging my initial belief that star players solely drive success.<br><br>
 
 
-** Visuals and Insights**
+**Visuals and Insights**
 ### **1. Total Scores Made:**
   <img src="images/NBA/5TotalScore.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;This visualization reveals that the Denver Nuggets led all teams in total points scored. Individual performances stood out, with Shai Gilgeous-Alexander scoring the most at 1,696 points, followed by Anthony Edwards and Nikola Jokic. 
