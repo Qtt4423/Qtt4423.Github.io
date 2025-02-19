@@ -50,6 +50,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 &nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp; This analysis illustrates how various player roles uniquely enhance a team’s success.<br>
 
 ### **3. Assist Point Tree Map:**
+Do you wonder how position affects a player's performance?  Me too.
   [<img src="images/NBA/9AssistTreeMap.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAStack/AssistByPos?publish=yes)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀Leading the scoring charts is the point guard, **Trae Young**. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀Interestingly, centers such as **Jokic** and small forwards such as **LeBron James** are also among the top scorers, reflecting a shift in conventional roles. <br>
 👉&nbsp;&nbsp;This visualization emphasizes the significance of assists in measuring a player's overall influence.<br><br>
