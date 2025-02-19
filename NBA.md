@@ -19,7 +19,7 @@
   - The Denver Nuggets lead in total points scored during the NBA season.
   - Shai Gilgeous-Alexander and Anthony Edwards are the top individual scorers.
   - Teamwork, reflected in assists and rebounds, is as important as scoring in evaluating player performance.<br><br>
-    <img src="images/NBA/2KeyPlayers.png?raw=true"/>
+<img src="images/NBA/2KeyPlayers.png?raw=true"/>
 
 ## [**The Data:**](https://www.basketball-reference.com/leagues/NBA_2025_totals.html#totals_stats)
 I sourced my dataset from [Basketball-Reference](https://www.basketball-reference.com/leagues/NBA_2025_totals.html#totals_stats). <br>
