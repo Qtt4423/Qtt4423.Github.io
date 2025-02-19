@@ -36,32 +36,32 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 **Visuals and Insights**
 ### **1. Total Scores Made:**
   <img src="images/NBA/5TotalScore.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This visualization reveals that the Denver Nuggets led all teams in total points scored. Individual performances stood out, with Shai Gilgeous-Alexander scoring the most at 1,696 points, followed by Anthony Edwards and Nikola Jokic. 
+&nbsp;&nbsp;&nbsp;&nbsp;This visualization reveals that the Denver Nuggets led all teams in total points scored. Individual performances stood out, with Shai Gilgeous-Alexander scoring the most at 1,696 points, followed by Anthony Edwards and Nikola Jokic. <br>
     <img src="images/NBA/6TopScores.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This visual showcases team performance and highlights the standout players who make a difference.<br>
 
 ### **2. Team Players Bubble Graph:**
   <img src="images/NBA/7PlayersSpotLight.png?raw=true"/><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This graph demonstrates player teamwork using points, assists, and rebounds. Nikola Jokic stands out as a center with remarkable statistics, highlighting that scoring alone isn’t the entire picture. Meanwhile, Shai Gilgeous-Alexander tops the points leaderboard but provides fewer assists, illustrating how various player roles uniquely enhance a team’s success.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This graph demonstrates player teamwork using points, assists, and rebounds. Nikola Jokic stands out as a center with remarkable statistics, highlighting that scoring alone isn’t the entire picture. Meanwhile, Shai Gilgeous-Alexander tops the points leaderboard but provides fewer assists, illustrating how various player roles uniquely enhance a team’s success.<br>
     <img src="images/NBA/8PointsAstTrb.png?raw=true"/><br>
 
 ### **3. Assist Point Tree Map:**
   <img src="images/NBA/9AssistTreeMap.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leading the scoring charts is the point guard, Trae Young. Interestingly, centers such as Jokic are also among the top scorers, reflecting a shift in conventional roles. This visualization emphasizes the significance of assists in measuring a player's overall influence.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leading the scoring charts is the point guard, Trae Young. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interestingly, centers such as Jokic are also among the top scorers, reflecting a shift in conventional roles. This visualization emphasizes the significance of assists in measuring a player's overall influence.<br><br>
     <img src="images/NBA/10AssSummary.png?raw=true"/><br>
     
 ### **4. 3-Pointers Heat Map**
 #### **Team:**
-This heat map highlights which teams excel at three-point shooting.
+This heat map highlights which teams excel at three-point shooting.<br>
     <img src="images/NBA/11-3PointersHeatMap.png?raw=true"/><br>
   - The Dallas Mavericks and Memphis Grizzlies present contrasting performances, illustrating the highs and lows of shooting accuracy. The Dallas Mavericks achieved a perfect score of 1 in the center position, completing their single attempt. Meanwhile, the Memphis Grizzlies recorded no 3-pointers from their small forward position.
   - The Cleveland Cavaliers and Golden State Warriors scored 0 in the center position.
   - Notably, the Denver Nuggets consistently succeed across positions, with several players achieving impressive shooting percentages from 36% to 42%.
-  - The centers for the Sacramento Kings and New York Knicks earned a notable score of 43% in 3-point attempts.
+  - The centers for the Sacramento Kings and New York Knicks earned a notable score of 43% in 3-point attempts.<br>
     <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
 
 #### **Players:**
-  <img src="images/NBA/11b-3PointersPlayer.png?raw=true"/><br>    
+<br>  <img src="images/NBA/11b-3PointersPlayer.png?raw=true"/><br>    
   - Among the top players, many are small forwards, led by Anthony Edwards, who has 536 points at a 42% success rate.
   - The only power forward, Jayson Tatum, ranks second with 528 points, achieving 35.8% on all attempts.
   - Point guard Stephen Curry follows closely in fourth place with 503 points and a success rate of 38.9%.<br>
@@ -74,6 +74,6 @@ This heat map highlights which teams excel at three-point shooting.
   - 🏀Players like Nikola Jokic and Trae Young exemplify how diverse skills contribute to a team's achievements.<br><br>
 
 ## **Call to Action:**
-&nbsp;&nbsp;&nbsp;&nbsp;I’d love to connect with fellow sports enthusiasts and data analysts! If you have thoughts or questions about my project, please comment below or contact me on LinkedIn. Let's talk about whether you or someone you know requires a data analyst!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I’d love to connect with fellow sports enthusiasts and data analysts! If you have thoughts or questions about my project, please comment below or contact me on LinkedIn. Let's talk about whether you or someone you know requires a data analyst!<br><br>
   
 <img src="images/FloralBorder.JPG?raw=true"/>
