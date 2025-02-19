@@ -47,7 +47,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
   - ⛹️**Nikola Jokic** stands out as a center with remarkable statistics, highlighting that scoring alone isn’t the entire picture.
   - ⛹️‍♂️Meanwhile, **Shai Gilgeous-Alexander** tops the points leaderboard but provides fewer assists.<br>
     [<img src="images/NBA/8PointsAstTrb.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBABubble/Bubble?publish=yes)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp;illustrating how various player roles uniquely enhance a team’s success.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp; This analysis illustrates how various player roles uniquely enhance a team’s success.<br>
 
 ### **3. Assist Point Tree Map:**
   [<img src="images/NBA/9AssistTreeMap.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAStack/AssistByPos?publish=yes)<br>
