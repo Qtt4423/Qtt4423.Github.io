@@ -55,18 +55,18 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 ### **4. 3-Pointers Heat Map**
 #### **Team⛹️⛹️‍♂️⛹️‍♀️:**
 This heat map highlights which teams excel at three-point shooting.<br>
-    <img src="images/NBA/11-3PointersHeatMap.png?raw=true"/><br>
+    [<img src="images/NBA/11-3PointersHeatMap.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAHeatMap/3Pointersform_?publish=yes)<br>
   - The **Dallas Mavericks** and **Memphis Grizzlies** showcase differing performances that highlight the extremes of shooting accuracy. The **Dallas Mavericks** secured a flawless score of 1 in the center position, converting their only attempt. In contrast, the **Memphis Grizzlies** missed all 3-pointers from their small forward position.
   - The **Cleveland Cavaliers** and the **Golden State Warriors** scored 0 in the center position.
   - Notably, the **Denver Nuggets** consistently succeed across positions, with several players achieving impressive shooting percentages of **36%** to **42%**.
-  - The centers for the **Sacramento Kings** and **New York Knicks** earned a notable score of 43% in 3-point attempts.<br>
+  - The centers for the **Sacramento Kings** and **New York Knicks** earned a notable score of **43%** in 3-point attempts.<br>
     <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
 
 #### **⛹️‍♀️Players:**
-<br>  <img src="images/NBA/11b-3PointersPlayer.png?raw=true"/><br>    
-  - Among the top players, many are small forwards, led by Anthony Edwards, who has 536 points at a 42% success rate.
-  - The only power forward, Jayson Tatum, ranks second with 528 points, achieving 35.8% on all attempts.
-  - Point guard Stephen Curry follows closely in fourth place with 503 points and a success rate of 38.9%.<br>
+<br>  [<img src="images/NBA/11b-3PointersPlayer.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAHeatMapPlayer/3Pointersform_Players?publish=yes)<br>    
+  - Among the top players, many are small forwards, led by **Anthony Edwards**, who has **536** points at a **42%** success rate.
+  - The only power forward, **Jayson Tatum**, ranks second with **528** points, achieving **35.8%** on all attempts.
+  - Point guard **Stephen Curry** follows closely in fourth place with **503** points and a success rate of **38.9%**.<br>
 <br><br>
 ---
 ## **Main Takeaways:**
