@@ -42,11 +42,11 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 [<img src="images/NBA/5TotalScore.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAStack/TeamsvsTotalPointsScored?publish=yes)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏀&nbsp;&nbsp;This visualization reveals that the **Denver Nuggets** led all teams in total points scored. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏀&nbsp;&nbsp;Individual performances stood out, with **Shai Gilgeous-Alexander** scoring the most at 1,696 points, **Anthony Edwards** at 1,460, and **Nikola Jokic** at 1,458. <br>
-  -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/6TopScores.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/6TopScores.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp; This visual showcases team performance and highlights the standout players who make a difference.<br>
 
 ### **2. Team Players Bubble Graph:**
-  -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/7PlayersSpotLight.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/7PlayersSpotLight.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;📊&nbsp;&nbsp; This graph demonstrates player teamwork using points, assists, and rebounds.<br>
   - ⛹️**Nikola Jokic** stands out as a center with remarkable statistics, highlighting that scoring alone isn’t the entire picture.
   - ⛹️‍♂️Meanwhile, **Shai Gilgeous-Alexander** tops the points leaderboard but provides fewer assists.<br>
@@ -58,7 +58,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 Do you wonder how position affects a player's performance?  Me too.
 [<img src="images/NBA/9AssistTreeMap.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAStack/AssistByPos?publish=yes)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀Leading the scoring charts is the point guard, **Trae Young**. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀Interestingly, centers such as **Jokic** and small forwards such as **LeBron James** are also among the top scorers, reflecting a shift in conventional roles. <br>
-  -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/10AssSummary.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/10AssSummary.png?raw=true"/><br>
 👉&nbsp;&nbsp;This visualization emphasizes the significance of assists in measuring a player's overall influence.<br><br>
 
 ### **4. 3-Pointers Heat Map**
@@ -69,7 +69,7 @@ This heat map highlights which teams excel at three-point shooting.<br>
   - The **Cleveland Cavaliers** and the **Golden State Warriors** scored 0 in the center position.
   - Notably, the **Denver Nuggets** consistently succeed across positions, with several players achieving impressive shooting percentages of **36%** to **42%**.
   - The centers for the **Sacramento Kings** and **New York Knicks** earned a notable score of **43%** in 3-point attempts.<br>
-  -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
 
 #### **⛹️‍♀️Players:**<br>
 [<img src="images/NBA/11b-3PointersPlayer.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBAHeatMapPlayer/3Pointersform_Players?publish=yes)<br>    
