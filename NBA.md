@@ -51,7 +51,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
     <img src="images/NBA/10AssSummary.png?raw=true"/><br>
     
 ### **4. 3-Pointers Heat Map**
-#### **Team:**
+#### **🏀Team:**
 This heat map highlights which teams excel at three-point shooting.<br>
     <img src="images/NBA/11-3PointersHeatMap.png?raw=true"/><br>
   - The Dallas Mavericks and Memphis Grizzlies present contrasting performances, illustrating the highs and lows of shooting accuracy. The Dallas Mavericks achieved a perfect score of 1 in the center position, completing their single attempt. Meanwhile, the Memphis Grizzlies recorded no 3-pointers from their small forward position.
@@ -60,7 +60,7 @@ This heat map highlights which teams excel at three-point shooting.<br>
   - The centers for the Sacramento Kings and New York Knicks earned a notable score of 43% in 3-point attempts.<br>
     <img src="images/NBA/12-3PointersSummary.png?raw=true"/><br>
 
-#### **Players:**
+#### **🏀Players:**
 <br>  <img src="images/NBA/11b-3PointersPlayer.png?raw=true"/><br>    
   - Among the top players, many are small forwards, led by Anthony Edwards, who has 536 points at a 42% success rate.
   - The only power forward, Jayson Tatum, ranks second with 528 points, achieving 35.8% on all attempts.
