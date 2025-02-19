@@ -29,8 +29,9 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
     <img src="images/NBA/4PositionDefinition.png?raw=true"/>
 <br><br>
 
-[**The Tableau Story Link**](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBA/AnalysisforNBA122024?publish=yes)<br>
+---
 
+[**The Tableau Story Link**](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBA/AnalysisforNBA122024?publish=yes)<br>
 
 ## **The Analysis Process and Commentary:**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My analysis began with cleaning the data to ensure accuracy and consistency. Once cleaned, I transformed the data into various visual formats using Tableau. I created bubble graphs, heat maps, and tree maps to illustrate key statistics effectively. I was surprised to discover that the team with the highest total points also excelled in three-pointers, challenging my initial belief that star players solely drive success.<br><br>
@@ -76,6 +77,7 @@ This heat map highlights which teams excel at three-point shooting.<br>
   - Point guard **Stephen Curry** follows closely in fourth place with **503** points and a success rate of **38.9%**.<br>
 <br><br>
 
+---
 
 ## **Main Takeaways:**
   - 🏀A great team is more than just a collection of star players; it requires collaboration across different positions.
