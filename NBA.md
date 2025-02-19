@@ -3,16 +3,16 @@
 # "Dunking The Data: A Tableau Showcase of 🏀 NBA Insights"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024-2025 Season**
 ---
-##**Background:**
+##**Background:**<br>
 On a recent trip to San Francisco, in addition to visiting the Oracle campus, I had an unforgettable experience at San Francisco's pier during the Chinese New Year parade celebrations. Imagine this: a renowned NBA player engaging in a friendly shooting contest with a local at the bustling pier. It struck me how sports unite people, igniting excitement and stirring emotions. Later that day, I was captivated by Michael Jordan's commentary, reliving iconic moments that define the NBA. This blend of inspiration and nostalgia-fueled my desire to dive into the world of NBA statistics, leading me to my latest project: a data analysis of the 2024-2025 NBA season using Tableau.
 
-##**Why THIS Project?**
+##**Why THIS Project?**<br>
 My journey into data science has been both thrilling and daunting. I wanted to create something that resonates with my passion for sports and showcases statistics' influential role in making crucial decisions in the NBA, from trades to game strategies. With an abundance of resources available online, this project became a compelling way for me to build my portfolio while having fun. Exploring NBA data could also be an engaging experience for you, dear readers!<br><br>
 
-##**What Readers Will Gain**
+##**What Readers Will Gain**<br>
 In this article, you'll discover the fascinating insights I uncovered about the NBA. I will share key findings from my analysis, highlight surprising statistics, and showcase visual representations of the data that bring the numbers to life. You’ll also learn how these insights can influence better decision-making in sports.<br><br>
 
-##**Key Takeaways**
+##**Key Takeaways**<br>
   - The Denver Nuggets lead in total points scored during the NBA season.
   - Shai Gilgeous-Alexander and Anthony Edwards are the top individual scorers.
   - Teamwork, reflected in assists and rebounds, is as important as scoring in evaluating player performance.<br><br>
