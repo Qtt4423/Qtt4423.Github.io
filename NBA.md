@@ -67,7 +67,6 @@ This heat map highlights which teams excel at three-point shooting.<br>
   - Among the top players, many are small forwards, led by Anthony Edwards, who has 536 points at a 42% success rate.
   - The only power forward, Jayson Tatum, ranks second with 528 points, achieving 35.8% on all attempts.
   - Point guard Stephen Curry follows closely in fourth place with 503 points and a success rate of 38.9%.<br>
-    <img src="images/NBA/11b-3PointersPlayer.png?raw=true"/><br>
 <br><br>
 ---
 ## **Main Takeaways:**
