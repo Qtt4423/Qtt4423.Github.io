@@ -36,7 +36,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 **Visuals and Insights**
 ### **1. Total Scores Made:**
   <img src="images/NBA/5TotalScore.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;This visualization reveals that the Denver Nuggets led all teams in total points scored. Individual performances stood out, with Shai Gilgeous-Alexander scoring the most at 1,696 points, followed by Anthony Edwards and Nikola Jokic. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;This visualization reveals that the Denver Nuggets led all teams in total points scored. Individual performances stood out, with Shai Gilgeous-Alexander scoring the most at 1,696 points, followed by Anthony Edwards and Nikola Jokic at 1,458. <br>
     <img src="images/NBA/6TopScores.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This visual showcases team performance and highlights the standout players who make a difference.<br>
 
