@@ -47,7 +47,7 @@ I sourced my dataset from [Basketball-Reference](https://www.basketball-referenc
 
 ### **2. Team Players Bubble Graph:**
   <img src="images/NBA/7PlayersSpotLight.png?raw=true"/><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This graph demonstrates player teamwork using points, assists, and rebounds.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp; This graph demonstrates player teamwork using points, assists, and rebounds.<br>
   - ⛹️**Nikola Jokic** stands out as a center with remarkable statistics, highlighting that scoring alone isn’t the entire picture.
   - ⛹️‍♂️Meanwhile, **Shai Gilgeous-Alexander** tops the points leaderboard but provides fewer assists.<br>
     [<img src="images/NBA/8PointsAstTrb.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/2025NBABubble/Bubble?publish=yes)<br>
