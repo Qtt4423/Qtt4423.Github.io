@@ -1,7 +1,7 @@
 <img src="images/SocialMedia/CoverImage.jpg?raw=true"/>
 
 # **Social Media Analysis:<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From Data to Advertising Campain Decisions**
+From Data to Advertising Campain Decisions**
  
 ---
 ## **Background:**<br>
@@ -34,16 +34,16 @@ Key metrics include Views, Reach, Engagement, and Interaction, with demographics
 ## **The Analysis and Commentary**<br>
 
 ### **Period:** Content sorted by oldest to newest for all platforms (FB 	=	Facebook, Inst	=	Instagram, TT	=	TikTok)<br>
-<img src="images/SocialMedia/Period.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/Period.png?raw=true"/><br>
 
 ### **Platform Performance:**
-<img src="images/SocialMedia/PlatformPerformance.png?raw=true"/><br>
-<img src="images/SocialMedia/OverviewByPlatform.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/PlatformPerformance.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/OverviewByPlatform.png?raw=true"/><br>
 The attribute is not the same since Spotify is mainly a platform for streaming music.  Below is how I merge the data:
-Follower 	-> 	Follower
-Listener	-> 	Reach
-Streams 	-> 	Engaged
-Saved + Playlist -> 	Interaction
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Follower&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;Follower
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listener&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;Reach
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streams&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;Engaged
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saved + Playlist&nbsp;&nbsp;->&nbsp;&nbsp;Interaction
 
 ### **Instagram Overview:**
 <img src="images/SocialMedia/InstagramOverView.png?raw=true"/><br>
