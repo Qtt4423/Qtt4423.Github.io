@@ -1,6 +1,7 @@
 <img src="images/SocialMedia/CoverImage.jpg?raw=true"/>
 
-# **Social Media Analysis:<br> From Data to Advertising Campain Decisions**
+# **Social Media Analysis:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From Data to Advertising Campain Decisions**
  
 ---
 ## **Background:**<br>
