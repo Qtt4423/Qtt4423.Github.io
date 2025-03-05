@@ -14,15 +14,15 @@
 
 ## **What Readers Will Gain:**<br>
 👋Great! I am glad you are still here. By diving into this project, readers will gain:
-  1.	A clear understanding of Kat Lincoln’s current social media performance.
-  2.	Insights into the best-performing content and audience demographics.
-  3.	Data-driven recommendations for targeted advertising and engagement.
+1.	A clear understanding of Kat Lincoln’s current social media performance.
+2.	Insights into the best-performing content and audience demographics.
+3.	Data-driven recommendations for targeted advertising and engagement.
 
 ## **Key Takeaways:**<br>
-      -  **Instagram** has the highest follower count, while Spotify has the most influence in reach and interaction.
-      -  **Reels** are the top-performing content type on Instagram for both views and interactions.
-      -  The most active audience demographic is **males aged 25-34**, with the least engagement from **females aged 55-64**.
-      -  Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
+   -  **Instagram** has the highest follower count, while Spotify has the most influence in reach and interaction.
+   -  **Reels** are the top-performing content type on Instagram for both views and interactions.
+   -  The most active audience demographic is **males aged 25-34**, with the least engagement from **females aged 55-64**.
+   -  Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
 
 ## **The Data**<br>
 Data was collected from Instagram, Facebook, Spotify, YouTube, and TikTok, primarily covering the last 28 days. 
