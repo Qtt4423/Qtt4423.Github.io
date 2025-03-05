@@ -167,9 +167,10 @@ RadMedia should
   - Craft targeted ads in high-engagement cities: Los Angeles and New York City in the USA, European countries, Moscow in Russia, Lagos in Nigeria, Monrovia in Liberia, Jakarta in Indonesia, Brazil, and Delhi in India.<br>
 
 ## **Call to Action:**<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; Stay tuned as RadMedia rolls out targeted ads for Sealed Kiss! We'll share exciting A/B testing results and dive deeper into what strategies work best.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; All thoughts, comments, tips, and ideas are welcome.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; Follow along to see how data-driven insights shape real-world marketing success!
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; If you or someone you know wants to hire a data analyst, let’s talk!<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; Stay tuned as RadMedia rolls out targeted ads for Sealed Kiss! We'll share exciting A/B testing results and dive deeper<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; into what strategies work best.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; All thoughts, comments, tips, and ideas are welcome.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; Follow along to see how data-driven insights shape real-world marketing success!<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔜&nbsp;&nbsp;&nbsp; If you or someone you know wants to hire a data analyst, let’s talk!<br>
   
 <img src="images/FloralBorder.JPG?raw=true"/>
