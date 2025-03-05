@@ -130,10 +130,10 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The “StayLow” interview and “BTS selfie” image posts were highly engaged.<br>
 [<img src="images/SocialMedia/Dashboard.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/KatSocialMediaContentOverView/Dashboard1?publish=yes)<br>
 Content with the highest KPI:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; **Instagram** contents have the best performance overall.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; **Ms AngieStone Tribute** has the highest view, account reach, and impression.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; **StayLow** Interview (reel/video): 2nd highest in view, account reach and impression.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; **Interaction (post/image)**: leading content is **BTS selfie** and **Magazine 3** image.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**Instagram** contents have the best performance overall.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**Ms AngieStone Tribute** has the highest view, account reach, and impression.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**StayLow** Interview (reel/video): 2nd highest in view, account reach and impression.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**Interaction (post/image)**: leading content is **BTS selfie** and **Magazine 3** image.<br>
 
 2.	**Reaction by Content:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/Reach_Intrv_7YO_Inst.png?raw=true"/><br>
