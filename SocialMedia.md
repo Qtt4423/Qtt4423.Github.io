@@ -23,7 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;**Reels** are the top-performing content type on Instagram for both views and interactions.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;The most active audience demographic is **males aged 25-34**, with the least engagement from<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**females aged 55-64**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp; Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp; Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
 
 ## **The Data**<br>
 Data was collected from Instagram, Facebook, Spotify, YouTube, and TikTok, primarily covering the last 28 days. 
