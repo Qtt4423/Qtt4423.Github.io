@@ -4,7 +4,7 @@
  
 ---
 ## **Background:**<br>
-  Kat Lincoln's new single, Sealed Kiss🗡️, will be released on March 31st, 2025. As part of RadMedia's promotional strategy, the campaign includes content creation, merchandise research, networking, and exposure tactics. The main goal is to maximize the reach and engagement of both the song and the artist within the allocated budget.<br> 
+  [**Kat Lincoln**](https://katlincoln.com/)'s new single, **Sealed Kiss**🗡️, will be released on March 31st, 2025. As part of [**RadMedia**](https://radmediaent.com/)'s promotional strategy, the campaign includes content creation, merchandise research, networking, and exposure tactics. The main goal is to maximize the reach and engagement of both the song and the artist within the allocated budget.<br> 
   The company aims to leverage targeted ads for this single, making it essential to understand Kat's current social media audience.
 
 ## **Why This Project?**<br>
