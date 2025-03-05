@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
 
 ## **The Data**<br>
-Data was collected from Instagram, Facebook, Spotify, YouTube, and TikTok, primarily covering the last 28 days. 
+Data was collected from Instagram, Facebook, Spotify, YouTube, and TikTok, primarily covering the last 28 days. <br>
 Key metrics include Views, Reach, Engagement, and Interaction, with demographics broken down by age, gender, and location.
     
 ---
@@ -65,7 +65,7 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**Ms. Angie Stone's Tribute** post performed best overall.<br>
    
 1.	**Demographic by Platform and Age Group:** <br>
-
+<img src="images/SocialMedia/AudienceByGenderAgeGroup.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;Platform: ranks from highest to lowest percentage of audience<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram, Facebook, Tiktok, and Spotify.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;Gender:<br> 
