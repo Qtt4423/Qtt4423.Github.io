@@ -31,6 +31,12 @@
 — Al Gore
 
 ---
+#### [Social Media Project (Excel, Tableau)](/SocialMedia)
+[<img src="images/SocialMedia/CoverImage.jpg?raw=true"/>](/SocialMedia)
+"A record deal doesn't make you an artist; you make yourself an artist."  <br>
+– Lady Gaga 
+
+---
 
 ### [Delivery Project (Excel)](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
   [<img src="images/iFoodPoster.png?raw=true"/>](https://www.linkedin.com/pulse/from-data-doorsteps-insights-smarter-delivery-marketing-quy-tran-xkf8c/?trackingId=%2BetIr%2BQ9SWKmXgCbhL7fgA%3D%3D)
