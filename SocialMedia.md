@@ -97,21 +97,27 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeValuePoint.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The formula used to calculate lowest and peak times:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=INDEX ($B$2:$D$57, MATCH(MAX($D$2:$D$57), ($D$2:$D$57), 0),1)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeValuePoint.png?raw=true"/><br>
-2.	**Per Platform By Time of The Day:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeTable.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;On a typical day, the highest activities fall from 6 am through 9 am.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;Lowest activities fall during midnight 12am.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; The most active times in the morning are 9 am or 6 am.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; The most active times in the afternoon are 9 pm or 6 pm from Sunday through Tuesday, 3pm from Thursday through Saturday.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; Note that Wednesday afternoon does not have high activities.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; On Instagram, most activities rank from 9am-12pm daily without much deviation from each day of the week.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; Facebook and TikTok minor the pattern of total all platform’s pattern.<br>
 
-4.	**Per Platform By Date of The Week:** <br>
+2.	**Per Platform By Time of The Day:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimebyTimeofTheDate.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; On a typical day, the highest activities fall from 6 am through 9 am.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; Lowest activities fall during midnight 12am.<br>
+
+3.	**Per Platform By Date of The Week:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeByDateOfTheWeek.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no significant difference between each day of the week for all platforms.<br>
 
-5.	**Per Platform By Shift (am/pm):** <br>
+4.	**Per Platform By Shift (am/pm):** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeByShiftGroupByPlatform.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While Facebook gets more activities during the am hours, Instagram and TikTok get more activities during the pm hours.<br>
 
-6.	**Per Platform Group By Shift:** <br>
+5.	**Per Platform Group By Shift:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/SpotifyAudience.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;Facebook: Activities reach **lowest** point during pm hours of weekend🗓️ starting **Friday afternoon Sunday night**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;Even during the morning hours, activities decrease as we move closer to **Saturday and Sunday**.<br>
