@@ -19,9 +19,9 @@
 3.	Data-driven recommendations for targeted advertising and engagement.
 
 ## **Key Takeaways:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  **Instagram** has the highest follower count, while Spotify has the most influence in reach and interaction.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  **Reels** are the top-performing content type on Instagram for both views and interactions.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  The most active audience demographic is **males aged 25-34**, with the least engagement from **females aged 55-64**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  **Instagram** has the highest follower count, while Spotify has the most influence in reach and interaction.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  **Reels** are the top-performing content type on Instagram for both views and interactions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  The most active audience demographic is **males aged 25-34**, with the least engagement from **females aged 55-64**.
    -  Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
 
 ## **The Data**<br>
