@@ -81,7 +81,8 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;67% of the audience are previously active with the highest count of 903.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;1% active audience lead in number of streams of 917.<br>
 
-3.	**Audience by Location** [Linked Tableau Map](https://public.tableau.com/app/profile/quy.tran4833/viz/KatLincolnsAudienceMap/Audience?publish=yes)<br>
+3.	**Audience by Location** 
+[<img src="images/SocialMedia/Map.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/KatLincolnsAudienceMap/Audience?publish=yes)<br>
 &nbsp;&nbsp;&nbsp;Key location:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏  &nbsp;&nbsp;&nbsp;Los Angeles, New York city in USA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏  &nbsp;&nbsp;&nbsp;Moscow Russia<br>
