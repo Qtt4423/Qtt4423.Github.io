@@ -44,11 +44,23 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listener&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;Reach<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streams&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;Engaged<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saved + Playlist&nbsp;&nbsp;->&nbsp;&nbsp;Interaction<br>
+   -  **Instagram**: Most followers (11,790), with Reels outperforming other content.<br>
+   -  **Facebook**: high engagement but a smaller reach than Instagram and Spotify.<br>
+   -  **Spotify**: Exceptional in reach or listener (1,348) and interaction (1,444).<br>
+   -  **YouTube** & **TikTok**: Limited data, with room for growth.<br>
 
 ### **Instagram Overview:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/TableIntergramOverview.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/InstagramOverView.png?raw=true"/><br>
+   -  Instagram **Followers** contribute to **59%** view and interaction.
+   -  Among content, **reels** contribute to **27.6%** of view and interaction.
 
 ### **Audience:**
+   -  Predominantly **male** audiences across platforms, with **Facebook** showing the most significant gender gap.
+   -  The age group with the **most** engagement is **25-34**.
+   -  **Ms. Angie Stone's Tribute** post performed best overall.
+
+
 
 ### **Most Active Time:**
 
