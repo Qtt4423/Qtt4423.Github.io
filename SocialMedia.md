@@ -115,17 +115,28 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 
 4.	**Per Platform By Shift (am/pm):** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeByShiftGroupByPlatform.png?raw=true"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While Facebook gets more activities during the am hours, Instagram and TikTok get more activities during the pm hours.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While Facebook gets more activities during the am hours, Instagram and TikTok get more activities during the pm hours.<br>
 
 5.	**Per Platform Group By Shift:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/SpotifyAudience.png?raw=true"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/MostActiveTimeByShift.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;Facebook: Activities reach **lowest** point during pm hours of weekend🗓️ starting **Friday afternoon Sunday night**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;Even during the morning hours, activities decrease as we move closer to **Saturday and Sunday**.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp; Even during the morning hours, activities decrease as we move closer to **Saturday and Sunday**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏱️  &nbsp;&nbsp;&nbsp;However, the difference is minimal.<br>
 
 
 ### **Content:**
+1.	**Engagement by Content:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The “StayLow” interview and “BTS selfie” image posts were highly engaged.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DashBoard](https://public.tableau.com/app/profile/quy.tran4833/viz/KatSocialMediaContentOverView/Dashboard1?publish=yes)<br>
+Content with the highest KPI:
+•	Instagram contents have the best performance overall.
+•	Ms AngieStone Tribute has the highest view, account reach and impression.
+•	StayLow Interview (reel/video): 2nd highest in view, account reach and impression.
+•	Interaction (post/image): leading content is BTS selfie and Magazine 3 image.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;
+
+2.	**Reaction by Content:** <br>
 
 ---
 ## **Main Takeaways:**<br>
