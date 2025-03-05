@@ -14,8 +14,8 @@
 
 ## **What Readers Will Gain?**<br>
 👋Great! I am glad you are still here. By diving into this project, you will gain:
-1.	Clearly understand Kat Lincoln’s current social media **performance**.
-2.	Insights into the best-performing content and audience **demographics**.
+1.	Clearly understand Kat Lincoln’s **current social media performance**.
+2.	Insights into the best-performing content and **audience demographics**.
 3.	Data-driven recommendations for targeted **advertising and engagement**.
 
 ## **Key Takeaways:**<br>
