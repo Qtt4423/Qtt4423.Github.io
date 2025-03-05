@@ -76,12 +76,11 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25-34, 35-44, 45-54, 18-24, 55-64, lastly 65+<br>
 
 2.	**Spotify Audience by Count and Streams:** <br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/SpotifyAudience.png?raw=true"/><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;67% of the audience are previously active with the highest count of 903.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;1% active audience lead in number of streams of 917.<br>
 
-3.	**Audience by Location** 
+3.	**Audience by Location** <br>
 [<img src="images/SocialMedia/Map.png?raw=true"/>](https://public.tableau.com/app/profile/quy.tran4833/viz/KatLincolnsAudienceMap/Audience?publish=yes)<br>
 &nbsp;&nbsp;&nbsp;Key location:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏  &nbsp;&nbsp;&nbsp;Los Angeles, New York city in USA<br>
