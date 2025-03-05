@@ -32,7 +32,7 @@ Key metrics include Views, Reach, Engagement, and Interaction, with demographics
 
 ## **The Analysis and Commentary**<br>
 
-### **Period:** Content sorted by oldest to newest for all platforms (FB 	=	Facebook, Inst	=	Instagram, TT	=	TikTok)<br>
+### **Period:**<br> Content sorted by oldest to newest for all platforms (FB 	=	Facebook, Inst	=	Instagram, TT	=	TikTok)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/Period.png?raw=true"/><br>
 
 ### **Platform Performance:**
