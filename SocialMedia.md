@@ -13,7 +13,7 @@
   It also offers a real-world application of data analysis skills, inviting readers to explore the journey of turning data into marketing gold.
 
 ## **What Readers Will Gain:**<br>
-- 👋Great! I am glad you are still here. By diving into this project, readers will gain:
+👋Great! I am glad you are still here. By diving into this project, readers will gain:
   1.	A clear understanding of Kat Lincoln’s current social media performance.
   2.	Insights into the best-performing content and audience demographics.
   3.	Data-driven recommendations for targeted advertising and engagement.
