@@ -62,13 +62,13 @@ The attribute is not the same since Spotify is mainly a platform for streaming m
    
 1.	**Demographic by Platform and Age Group:** <br>
 
- -	Platform: ranks from highest to lowest percentage of audience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram, Facebook, Tiktok, and Spotify.<br>
- -	Gender:<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More male audience than female audience across platform<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facebook has the biggest gap in gender differences.<br>
- -	Age group:<br> Rank from highest to lowest number of audiences<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25-34, 35-44, 45-54, 18-24, 55-64, lastly 65+<br>
+   -  Platform: ranks from highest to lowest percentage of audience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram, Facebook, Tiktok, and Spotify.<br>
+   -  Gender:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More male audience than female audience across platform<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facebook has the biggest gap in gender differences.<br>
+   -  Age group:<br> Rank from highest to lowest number of audiences<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25-34, 35-44, 45-54, 18-24, 55-64, lastly 65+<br>
 
 2.	**High-Interest Countries:**   
 &nbsp;&nbsp;&nbsp;&nbsp;St. Kitts and Nevis faces the highest interest rate of 3.68%, with 165 loans totaling $32M disbursed and $40M repaid.</li>
