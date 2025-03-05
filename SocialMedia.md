@@ -14,16 +14,16 @@
 
 ## **What Readers Will Gain?**<br>
 👋Great! I am glad you are still here. By diving into this project, readers will gain:
-1.&nbsp;&nbsp;&nbsp;A clear understanding of Kat Lincoln’s current social media performance.
-2.&nbsp;&nbsp;&nbsp;Insights into the best-performing content and audience demographics.
-3.&nbsp;&nbsp;&nbsp;Data-driven recommendations for targeted advertising and engagement.
+1.	Clearly understand Kat Lincoln’s current social media **performance**.
+2.	Insights into the best-performing content and audience **demographics**.
+3.	Data-driven recommendations for targeted **advertising and engagement**.
 
 ## **Key Takeaways:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;**Instagram** has the highest follower count, while Spotify has the most influence in reach and interaction.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;**Reels** are the top-performing content type on Instagram for both views and interactions.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  &nbsp;&nbsp;&nbsp;The most active audience demographic is **males aged 25-34**, with the least engagement from<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**females aged 55-64**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp; Key markets include **Los Angeles, New York City, Moscow, Lagos, Jakarta, Brazil, and Delhi**.<br>
 
 ## **The Data**<br>
 Data was collected from Instagram, Facebook, Spotify, YouTube, and TikTok, primarily covering the last 28 days. 
@@ -34,7 +34,10 @@ Key metrics include Views, Reach, Engagement, and Interaction, with demographics
 ## **The Analysis and Commentary**<br>
 
 ### **Period:**<br> 
-Content sorted by oldest to newest for all platforms (FB 	=	Facebook, Inst	=	Instagram, TT	=	TikTok)<br>
+Content sorted by oldest to newest for all platforms 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FB 	=	Facebook<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inst	=	Instagram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TT	=	TikTok<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SocialMedia/Period.png?raw=true"/><br>
 
 ### **Platform Performance:**
